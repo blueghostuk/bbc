@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Google Earth UK Traffic Data Overlay</title>
+<link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+
+<body>
+<div class="about_text">
+<h1>Google Earth UK Traffic Data Overlay </h1>
+<p class="announce"><strong>01 August 2006:</strong>I can't believe how quickly time flies! Anyway I have now seperated the data out into seperate files, althought the original is still there. The files are as follows:
+<ul>
+<li><a href="http://bbc.blueghost.co.uk/earth/overlay.kml">http://bbc.blueghost.co.uk/earth/overlay.kml</a> - Complete file with Traffic and Rail Info - 180 kb compressed (2MB un-compressed)</li>
+<li><a href="http://bbc.blueghost.co.uk/earth/rail.kml">http://bbc.blueghost.co.uk/earth/rail.kml</a> - Rail Delays only - 3 kb compressed (16kb un-compressed)</li>
+<li><a href="http://bbc.blueghost.co.uk/earth/stations.kml">http://bbc.blueghost.co.uk/earth/stations.kml</a> - Network Link, shows maximum of 100 stations in your current view point </li>
+<li>http://bbc.blueghost.co.uk/earth/stations_all.kml - All UK Stations - 60 kb compressed (1MB un-compressed) - I find this sometimes crashes Google Earth </li>
+<li><a href="http://bbc.blueghost.co.uk/earth/travel.kml">http://bbc.blueghost.co.uk/earth/travel.kml</a> - Travel Delays only - 120 kb compressed (1.2MB un-compressed)</li>
+</ul>
+<p class="announce">
+I will attempt to make some dynamic kml files soon (i.e ones that only show the data in the current viewing area)
+</p>
+
+<p class="announce"><strong>5 November 2005:</strong>All Railway stations should now be in the data file. This has been provided by Jonathan Brown from the <a href="http://bbs.keyhole.com/ubb/showflat.php/Cat/0/Number/148131/page/0/fpart/3/vc/1" target="_blank">Keyhole BBS, see the topic in question</a></p>
+<p class="announce"><strong>23 October:</strong>This data may not have been updated for the past few days because some of the BBC data is misssing (certain train company delay files) - this caused the update script to fail. I have since fixed this</p>
+<p>
+  After a request a while ago from Russell Dyas ( <a href="http://www.russdev.com/" target="_blank">http://www.russdev.com/</a> ) for a traffic overlay for Google Earth from my backstage project I have finally managed to complete his request. At the time I had no time to do it myself and had no idea how to do Google Earth stuff, but gave him directions to my parsed XML files.</p>
+<p class="announce">This evening I had nothing to do so quickly made this Google Earth file: <a href="http://bbc.blueghost.co.uk/earth/overlay.kml">http://bbc.blueghost.co.uk/earth/overlay.kml.</a> (Firefox users may need to download the file to their hard disk and open it there - or maybe it's just my PC that has this problem) </p>
+
+<p>The data is automatically updated every half an hour (or you can do it manually in Google Earth, although my data is only updated every 30 mins). </p>
+<p>Thanks to my <a href="http://bbc.blueghost.co.uk" target="_blank">bbc.blueghost.co.uk</a> project the conversion from the bbc supplied tpeg data files to kml was easy.</p>
+<p>This is my first, and very quickly done, Google Earth overlay, please email me at the address below with any hints/comments/suggestions.</p>
+<p>Thanks</p>
+<p>This site overlays various bits of <a href="#data" title="Find out more on the data used">data</a> onto  <a href="http://earth.google.com" target="_blank">Google Earth.</a></p>
+<p>Any Comments then email me @ <img src="http://www.blueghost.co.uk/grease/email.png" width="320" height="30" alt="My Email Address" style="vertical-align:middle;" /></p>
+<p>supported by <a target="_blank" href="http://backstage.bbc.co.uk/">backstage.bbc.co.uk</a></p>
+<p>KML Zipped files (KMZ Files) created in PHP thanks to the PHP Zip Class listed @ <a href="http://www.zend.com/zend/spotlight/creating-zip-files2.php" target="_blank">http://www.zend.com/zend/spotlight/creating-zip-files2.php</a></p>
+<hr />
+<h2>Planned Features</h2>
+<ul>
+  <li>Weather Data</li>
+  <li>Icons for severity of Alerts
+    <ul>
+      <li>Also colour lines based on the severity of the alert </li>
+    </ul>
+  </li>
+  <li><s>For road alerts show the stretch of road affected</s>
+    - DONE
+      <ul>
+      <li><s>may be approximated to a line between the start and end points</s> - DONE </li>
+      </ul>
+  </li>
+  <li><s>Get Live Departure Board Info up</s> - Available under Rail Data/Live Departure Boards </li>
+  <li>Add more of the available data (e.g start/stop times) to the description tag for each marker </li>
+</ul>
+<hr />
+<h2>Changelog</h2>
+<p>
+<a>Version 0.2</a><br />
+  ----------------------------<br />
+  <em>16 October 2005 PM</em><br />
+  -----------------------------<br />
+  Where a delay spans an area on the map, a line is drawn to show the distance between the 2 end points<br />
+  Obviously this doesn't follow the road exactly<br />
+  ----------------------------<br />
+<a>Backend Update</a><br />
+  ----------------------------<br />
+  <em>16 October 2005 PM</em><br />
+  -----------------------------<br />
+  Few backend optimisations<br />
+  Added <a href="http://www.bbc.co.uk/travelnews/xml/tpegml_en/pti.xml" target="_blank">PTI feed</a> for rail delays, don't know why it wasn't there before<br />
+  ----------------------------<br />
+<a>Version 0.1</a><br />
+----------------------------<br />
+<em>14 October 2005 AM </em><br />
+-----------------------------<br />
+Inital Release
+<br />
+----------------------------<br />
+</p>
+<hr />
+<a id="data"></a>
+<h1>About Weather Data - not yet active </h1>
+<hr />
+<h1>About Traffic Data</h1>
+<hr />
+<p><br />
+  This Data come from the <a target="_blank" href="http://backstage.bbc.co.uk/data/TravelFeeds?v=138u">BBC's TPEG Travel Feeds</a>.
+  They are converted to an easier format via PHP and then down to KML for Google Earth.<br />
+  I convert them from TPEG files as the RSS feeds don't contain Geographical co-ordinates to position reports on the Google Map.
+</p>
+<p>The data is automatically updated every <s>hour</s> 30 minutes, <s>i may cut this to half an hour depending on how much bandwidth it takes up</s> - DONE
+</p>
+<p>supported by <a target="_blank" href="http://backstage.bbc.co.uk/">backstage.bbc.co.uk"</a></p>
+<hr />
+<h1>About Railway Data</h1>
+<hr />
+<p>This Data come from the <a target="_blank" href="http://backstage.bbc.co.uk/data/TravelFeeds?v=138u">BBC's TPEG Travel Feeds</a>.
+  They are converted to an easier format via PHP and then down to KML for Google Earth.<br />
+  I convert them from TPEG files as the RSS feeds don't contain Geographical co-ordinates to position reports on the Google Map.</p>
+<p>The data is automatically updated every <s>hour</s> 30 minutes, <s>i may cut this to half an hour depending on how much bandwidth it takes up</s> - DONE </p>
+<p>
+  supported by <a target="_blank" href="http://backstage.bbc.co.uk/">backstage.bbc.co.uk</a></p>
+<hr />
+<h1>About Live Departure Boards</h1>
+<hr />
+<p>I use the virgin live departure boards as they still use the old national rail interface (although with Virgin Branding). I prefer the old style as it is easier to understand and contains no adverts. The new national rail website is harder to follow and contains adverts hence I don't link to it.</p>
+<p>
+  supported by <a target="_blank" href="http://www.virgintrains.co.uk/travelling_with_us/our_network/departure_boards/default.aspx">Virgin Trains Live Departure Boards </a></p>
+<hr />
+<p>Any Comments then email me @ <img src="http://www.blueghost.co.uk/grease/email.png" width="320" height="30" alt="My Email Address" style="vertical-align:middle;" /></p>
+</div>
+</body>
+</html>

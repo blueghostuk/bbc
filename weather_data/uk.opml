@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Supported by backstage.bbc.co.uk -->
+<opml version="1.1">
+	<head>
+		<title>uk.opml</title>
+	</head>
+	<body>
+		<outline text="Countries">
+			<outline text="United Kingdom">
+				<outline text="Aberaeron" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7374.xml"/>
+				<outline text="Aberdeen" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0014.xml"/>
+				<outline text="Aberdeen" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4005.xml"/>
+				<outline text="Aberfeldy" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4006.xml"/>
+				<outline text="Aberporth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0380.xml"/>
+				<outline text="Abersoch" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7375.xml"/>
+				<outline text="Aberystwyth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0020.xml"/>
+				<outline text="Abingdon" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4007.xml"/>
+				<outline text="Aldershot" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7467.xml"/>
+				<outline text="Alnwick" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7345.xml"/>
+				<outline text="Andover" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0310.xml"/>
+				<outline text="Anglesey" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0385.xml"/>
+				<outline text="Appledore" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4035.xml"/>
+				<outline text="Arbroath" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4040.xml"/>
+				<outline text="Ardrossan" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4043.xml"/>
+				<outline text="Armagh" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4047.xml"/>
+				<outline text="Ashford (Kent)" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7468.xml"/>
+				<outline text="Aviemore" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0368.xml"/>
+				<outline text="Avonmouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4058.xml"/>
+				<outline text="Aylesbury" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0311.xml"/>
+				<outline text="Ayr" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0369.xml"/>
+				<outline text="Ballycastle" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4067.xml"/>
+				<outline text="Banbury" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0312.xml"/>
+				<outline text="Bangor" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4069.xml"/>
+				<outline text="Barnet" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7469.xml"/>
+				<outline text="Barnsley" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7446.xml"/>
+				<outline text="Barnstaple" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0313.xml"/>
+				<outline text="Barrow In Furness" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4076.xml"/>
+				<outline text="Barry" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4077.xml"/>
+				<outline text="Basildon" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7470.xml"/>
+				<outline text="Basingstoke" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7447.xml"/>
+				<outline text="Bath" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4083.xml"/>
+				<outline text="Battle" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4085.xml"/>
+				<outline text="Bedford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0314.xml"/>
+				<outline text="Belfast" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0001.xml"/>
+				<outline text="Belfast International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4091.xml"/>
+				<outline text="Benson" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0315.xml"/>
+				<outline text="Berwick Upon Tweed" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0316.xml"/>
+				<outline text="Bideford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4103.xml"/>
+				<outline text="Biggin Hill" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4105.xml"/>
+				<outline text="Birmingham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0002.xml"/>
+				<outline text="Birmingham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4109.xml"/>
+				<outline text="Bishop Auckland" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7346.xml"/>
+				<outline text="Blackburn" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4111.xml"/>
+				<outline text="Blackpool" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0317.xml"/>
+				<outline text="Blyth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4112.xml"/>
+				<outline text="Bodmin" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4113.xml"/>
+				<outline text="Bognor Regis" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7448.xml"/>
+				<outline text="Boscombe Down" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0318.xml"/>
+				<outline text="Boston" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4119.xml"/>
+				<outline text="Bottesford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4121.xml"/>
+				<outline text="Boulmer" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0319.xml"/>
+				<outline text="Bournemouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0320.xml"/>
+				<outline text="Bournemouth International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4124.xml"/>
+				<outline text="Bowling" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4125.xml"/>
+				<outline text="Bracknell" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0321.xml"/>
+				<outline text="Bradford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4126.xml"/>
+				<outline text="Braemar" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4127.xml"/>
+				<outline text="Brecon" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4130.xml"/>
+				<outline text="Bridlington" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0322.xml"/>
+				<outline text="Bridport" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4137.xml"/>
+				<outline text="Brightlingsea" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4138.xml"/>
+				<outline text="Brighton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4139.xml"/>
+				<outline text="Bristol" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0003.xml"/>
+				<outline text="Brixham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4140.xml"/>
+				<outline text="Brize Norton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0323.xml"/>
+				<outline text="Buckie" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4146.xml"/>
+				<outline text="Bude" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4148.xml"/>
+				<outline text="Builth Wells" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4149.xml"/>
+				<outline text="Burghead" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4151.xml"/>
+				<outline text="Burntisland" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4152.xml"/>
+				<outline text="Burton Upon Trent" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0324.xml"/>
+				<outline text="Bury St Edmunds" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7347.xml"/>
+				<outline text="Buxton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7348.xml"/>
+				<outline text="Camborne" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0325.xml"/>
+				<outline text="Cambridge" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0326.xml"/>
+				<outline text="Campbeltown" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4161.xml"/>
+				<outline text="Canterbury" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4166.xml"/>
+				<outline text="Cardiff" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0004.xml"/>
+				<outline text="Cardiff International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4167.xml"/>
+				<outline text="Carlisle" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0327.xml"/>
+				<outline text="Carmarthen" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7376.xml"/>
+				<outline text="Charlestown" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4177.xml"/>
+				<outline text="Chatham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4179.xml"/>
+				<outline text="Cheadle" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7349.xml"/>
+				<outline text="Chelmsford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7449.xml"/>
+				<outline text="Cheltenham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4181.xml"/>
+				<outline text="Chester" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7450.xml"/>
+				<outline text="Chesterfield" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7451.xml"/>
+				<outline text="Church Lawford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0328.xml"/>
+				<outline text="Colchester" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4196.xml"/>
+				<outline text="Coleraine" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4197.xml"/>
+				<outline text="Colwyn Bay" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7377.xml"/>
+				<outline text="Corby" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7452.xml"/>
+				<outline text="Corpach" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4205.xml"/>
+				<outline text="Coventry" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4206.xml"/>
+				<outline text="Cowes" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4207.xml"/>
+				<outline text="Cranfield" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4208.xml"/>
+				<outline text="Crawley" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7453.xml"/>
+				<outline text="Crewe" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7454.xml"/>
+				<outline text="Cromarty" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4209.xml"/>
+				<outline text="Croydon" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7472.xml"/>
+				<outline text="Dartmouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4218.xml"/>
+				<outline text="Derby" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4226.xml"/>
+				<outline text="Docking" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7350.xml"/>
+				<outline text="Doncaster" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0329.xml"/>
+				<outline text="Dorchester" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7351.xml"/>
+				<outline text="Dorking" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7352.xml"/>
+				<outline text="Douglas" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4233.xml"/>
+				<outline text="Dover" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4234.xml"/>
+				<outline text="Dumfries" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0370.xml"/>
+				<outline text="Dundee" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4243.xml"/>
+				<outline text="Dunfermline" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4244.xml"/>
+				<outline text="Durness" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7373.xml"/>
+				<outline text="Easington" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0330.xml"/>
+				<outline text="East Midlands" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4249.xml"/>
+				<outline text="Eastbourne" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0030.xml"/>
+				<outline text="Edinburgh" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0005.xml"/>
+				<outline text="Edinburgh International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4253.xml"/>
+				<outline text="Elgin" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7463.xml"/>
+				<outline text="Enniskillen" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4262.xml"/>
+				<outline text="Exeter" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0331.xml"/>
+				<outline text="Exmouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4269.xml"/>
+				<outline text="Fakenham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4273.xml"/>
+				<outline text="Falmouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4275.xml"/>
+				<outline text="Felixstowe" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4279.xml"/>
+				<outline text="Finnart" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4283.xml"/>
+				<outline text="Fishguard" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4284.xml"/>
+				<outline text="Fleetwood" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4285.xml"/>
+				<outline text="Folkestone" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4291.xml"/>
+				<outline text="Fowey" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4293.xml"/>
+				<outline text="Fraserburgh" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4296.xml"/>
+				<outline text="Gainsborough" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7353.xml"/>
+				<outline text="Garston" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4309.xml"/>
+				<outline text="Gatwick" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0332.xml"/>
+				<outline text="Gillingham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7471.xml"/>
+				<outline text="Girvan" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4323.xml"/>
+				<outline text="Glasgow" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0006.xml"/>
+				<outline text="Glasgow International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4325.xml"/>
+				<outline text="Glasgow Prestwick" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4324.xml"/>
+				<outline text="Gloucester" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4327.xml"/>
+				<outline text="Gloucestershire" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4328.xml"/>
+				<outline text="Goole" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4331.xml"/>
+				<outline text="Gourock" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4332.xml"/>
+				<outline text="Grangemouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4333.xml"/>
+				<outline text="Granton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4334.xml"/>
+				<outline text="Gravesend" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7473.xml"/>
+				<outline text="Great Malvern" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0333.xml"/>
+				<outline text="Great Yarmouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4339.xml"/>
+				<outline text="Greenock" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4340.xml"/>
+				<outline text="Grimsby" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4345.xml"/>
+				<outline text="Guildford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7455.xml"/>
+				<outline text="Harlow" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7474.xml"/>
+				<outline text="Hartlepool" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4376.xml"/>
+				<outline text="Harwich" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4377.xml"/>
+				<outline text="Haslingden" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4379.xml"/>
+				<outline text="Hastings" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4380.xml"/>
+				<outline text="Hayes" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4383.xml"/>
+				<outline text="Heathrow" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0335.xml"/>
+				<outline text="Hemel Hempstead" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7475.xml"/>
+				<outline text="Hereford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7355.xml"/>
+				<outline text="Herstmonceux" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0336.xml"/>
+				<outline text="Hertford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7356.xml"/>
+				<outline text="Hetton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7354.xml"/>
+				<outline text="Heysham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4392.xml"/>
+				<outline text="High Wycombe" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7456.xml"/>
+				<outline text="Hoddesdon" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4396.xml"/>
+				<outline text="Holyhead" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4401.xml"/>
+				<outline text="Horsham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7357.xml"/>
+				<outline text="Hove" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4409.xml"/>
+				<outline text="Huddersfield" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0337.xml"/>
+				<outline text="Hull" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0338.xml"/>
+				<outline text="Humberside International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4412.xml"/>
+				<outline text="Hunterston" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4413.xml"/>
+				<outline text="Huntingdon" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7358.xml"/>
+				<outline text="Ilfracombe" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7464.xml"/>
+				<outline text="Immingham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4420.xml"/>
+				<outline text="Invergordon" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4424.xml"/>
+				<outline text="Inverness" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0016.xml"/>
+				<outline text="Ipswich" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0028.xml"/>
+				<outline text="Irvine" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4427.xml"/>
+				<outline text="Isle Of Grain" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4429.xml"/>
+				<outline text="Kendal" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4477.xml"/>
+				<outline text="Keswick" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0341.xml"/>
+				<outline text="Killingholme" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4483.xml"/>
+				<outline text="Kilmarnock" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4485.xml"/>
+				<outline text="King's Lynn" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4486.xml"/>
+				<outline text="Kingsnorth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4487.xml"/>
+				<outline text="Kingston-upon-Thames" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7476.xml"/>
+				<outline text="Kinloss" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0371.xml"/>
+				<outline text="Kirkcaldy" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4489.xml"/>
+				<outline text="Kirkwall" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0372.xml"/>
+				<outline text="Lancaster" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0342.xml"/>
+				<outline text="Larne" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4534.xml"/>
+				<outline text="Leeds" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0018.xml"/>
+				<outline text="Leeds-Bradford International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4542.xml"/>
+				<outline text="Leeming" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0343.xml"/>
+				<outline text="Leicester" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0344.xml"/>
+				<outline text="Leith" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4547.xml"/>
+				<outline text="Lerwick" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0012.xml"/>
+				<outline text="Letchworth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4553.xml"/>
+				<outline text="Lincoln" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0023.xml"/>
+				<outline text="Littlehampton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4569.xml"/>
+				<outline text="Liverpool" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0345.xml"/>
+				<outline text="Liverpool International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4570.xml"/>
+				<outline text="Livingston" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4571.xml"/>
+				<outline text="Llanddulas" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4575.xml"/>
+				<outline text="Lochaline" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4576.xml"/>
+				<outline text="London" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0008.xml"/>
+				<outline text="London City" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4581.xml"/>
+				<outline text="London Gatwick" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4582.xml"/>
+				<outline text="London Heathrow" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4583.xml"/>
+				<outline text="London Luton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4584.xml"/>
+				<outline text="London Stansted" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4585.xml"/>
+				<outline text="Londonderry" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4586.xml"/>
+				<outline text="Lossiemouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4588.xml"/>
+				<outline text="Lowestoft" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4590.xml"/>
+				<outline text="Lydd" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4597.xml"/>
+				<outline text="Macduff" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4604.xml"/>
+				<outline text="Maidenhead" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7477.xml"/>
+				<outline text="Maidstone" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4608.xml"/>
+				<outline text="Maldon" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4611.xml"/>
+				<outline text="Mallaig" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0373.xml"/>
+				<outline text="Manchester" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0009.xml"/>
+				<outline text="Manchester International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4615.xml"/>
+				<outline text="Manston" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0347.xml"/>
+				<outline text="Margate" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0029.xml"/>
+				<outline text="Melton Mowbray" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7359.xml"/>
+				<outline text="Merthyr Tydfil" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7378.xml"/>
+				<outline text="Middlesbrough" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4637.xml"/>
+				<outline text="Milford Haven" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0381.xml"/>
+				<outline text="Mistley" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4642.xml"/>
+				<outline text="Montrose" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4656.xml"/>
+				<outline text="Mostyn" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4662.xml"/>
+				<outline text="Motherwell" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4663.xml"/>
+				<outline text="Neath Abbey" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4687.xml"/>
+				<outline text="New Holland" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4691.xml"/>
+				<outline text="Newbury" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7360.xml"/>
+				<outline text="Newcastle International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4693.xml"/>
+				<outline text="Newcastle upon Tyne" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0010.xml"/>
+				<outline text="Newhaven" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4694.xml"/>
+				<outline text="Newport" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4695.xml"/>
+				<outline text="Newquay" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0021.xml"/>
+				<outline text="Newton Stewart" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7361.xml"/>
+				<outline text="Newtown" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7379.xml"/>
+				<outline text="Northampton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0348.xml"/>
+				<outline text="Northolt" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4702.xml"/>
+				<outline text="Norwich" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0024.xml"/>
+				<outline text="Norwich International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4703.xml"/>
+				<outline text="Nottingham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0349.xml"/>
+				<outline text="Nottingham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4704.xml"/>
+				<outline text="Nuneaton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7457.xml"/>
+				<outline text="Oban" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0374.xml"/>
+				<outline text="Old Kilpatrick" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4718.xml"/>
+				<outline text="Omagh" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4720.xml"/>
+				<outline text="Oxford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0025.xml"/>
+				<outline text="Padstow" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4736.xml"/>
+				<outline text="Paisley" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4738.xml"/>
+				<outline text="Par" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4745.xml"/>
+				<outline text="Pembroke" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4759.xml"/>
+				<outline text="Penrith" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4760.xml"/>
+				<outline text="Penryn" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4761.xml"/>
+				<outline text="Penzance" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4763.xml"/>
+				<outline text="Pershore" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0350.xml"/>
+				<outline text="Perth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0375.xml"/>
+				<outline text="Peterborough" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0019.xml"/>
+				<outline text="Peterhead" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4767.xml"/>
+				<outline text="Plymouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0013.xml"/>
+				<outline text="Poole" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4781.xml"/>
+				<outline text="Port Glasgow" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4786.xml"/>
+				<outline text="Port Talbot" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4788.xml"/>
+				<outline text="Porthmadog" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4792.xml"/>
+				<outline text="Portland" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4794.xml"/>
+				<outline text="Portree" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4803.xml"/>
+				<outline text="Portsmouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0351.xml"/>
+				<outline text="Preston" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4808.xml"/>
+				<outline text="Ramsey" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4818.xml"/>
+				<outline text="Ramsgate" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4819.xml"/>
+				<outline text="Reading" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4825.xml"/>
+				<outline text="Reigate" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7478.xml"/>
+				<outline text="Rhyl" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0382.xml"/>
+				<outline text="Rochdale" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7458.xml"/>
+				<outline text="Ronaldsway" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0352.xml"/>
+				<outline text="Rosyth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4848.xml"/>
+				<outline text="Rothesay" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4850.xml"/>
+				<outline text="Rugby" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7459.xml"/>
+				<outline text="Runcorn" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4855.xml"/>
+				<outline text="Rye" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4857.xml"/>
+				<outline text="Salcombe" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7362.xml"/>
+				<outline text="Salisbury" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0027.xml"/>
+				<outline text="Sanquhar" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7363.xml"/>
+				<outline text="Scalloway" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4884.xml"/>
+				<outline text="Scarborough" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4885.xml"/>
+				<outline text="Scrabster" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4889.xml"/>
+				<outline text="Scunthorpe" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0354.xml"/>
+				<outline text="Seaham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4890.xml"/>
+				<outline text="Sedbergh" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7364.xml"/>
+				<outline text="Selsey" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7365.xml"/>
+				<outline text="Sharpness" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4895.xml"/>
+				<outline text="Shawbury" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0355.xml"/>
+				<outline text="Sheerness" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4896.xml"/>
+				<outline text="Sheffield" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0356.xml"/>
+				<outline text="Sheffield City" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4897.xml"/>
+				<outline text="Shoeburyness" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0357.xml"/>
+				<outline text="Shoreham-by-Sea" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4899.xml"/>
+				<outline text="Shoreham-by-Sea" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4900.xml"/>
+				<outline text="Shotton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4901.xml"/>
+				<outline text="Shrewsbury" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0022.xml"/>
+				<outline text="Silloth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4908.xml"/>
+				<outline text="Skegness" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4917.xml"/>
+				<outline text="Skipton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0358.xml"/>
+				<outline text="Southampton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0011.xml"/>
+				<outline text="Southampton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4934.xml"/>
+				<outline text="Southend-on-Sea" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7460.xml"/>
+				<outline text="Southwold" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7366.xml"/>
+				<outline text="Spalding" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7367.xml"/>
+				<outline text="St Albans" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7461.xml"/>
+				<outline text="St Andrews" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0015.xml"/>
+				<outline text="St Ives" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7465.xml"/>
+				<outline text="Stafford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0359.xml"/>
+				<outline text="Stansted" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0360.xml"/>
+				<outline text="Stoke" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0361.xml"/>
+				<outline text="Stonehouse" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4953.xml"/>
+				<outline text="Stornoway" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0376.xml"/>
+				<outline text="Stranraer" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0377.xml"/>
+				<outline text="Sudbury" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7368.xml"/>
+				<outline text="Sunderland" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4963.xml"/>
+				<outline text="Swansea" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0383.xml"/>
+				<outline text="Swindon" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0362.xml"/>
+				<outline text="Tarbert" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4978.xml"/>
+				<outline text="Taunton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7369.xml"/>
+				<outline text="Tavistock" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7370.xml"/>
+				<outline text="Teesport" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4983.xml"/>
+				<outline text="Teesside International" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4984.xml"/>
+				<outline text="Teignmouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4985.xml"/>
+				<outline text="Tenby" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7466.xml"/>
+				<outline text="The Isle of Wight" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0339.xml"/>
+				<outline text="The Isles of Scilly" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0353.xml"/>
+				<outline text="The Lizard" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0346.xml"/>
+				<outline text="Thetford" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7371.xml"/>
+				<outline text="Thirsk" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4993.xml"/>
+				<outline text="Tilbury" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/4995.xml"/>
+				<outline text="Tiree" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0378.xml"/>
+				<outline text="Torquay" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5003.xml"/>
+				<outline text="Trawscoed" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0384.xml"/>
+				<outline text="Truro" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5018.xml"/>
+				<outline text="Tunbridge Wells" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5021.xml"/>
+				<outline text="Tynemouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0363.xml"/>
+				<outline text="Uckfield" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7479.xml"/>
+				<outline text="Ullapool" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5030.xml"/>
+				<outline text="Warrenpoint" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5077.xml"/>
+				<outline text="Warrington" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5078.xml"/>
+				<outline text="Watchet" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5080.xml"/>
+				<outline text="Wattisham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0364.xml"/>
+				<outline text="Wells" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5083.xml"/>
+				<outline text="Welshpool" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5084.xml"/>
+				<outline text="Wemyss Bay" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5085.xml"/>
+				<outline text="Weymouth" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5088.xml"/>
+				<outline text="Whitby" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0365.xml"/>
+				<outline text="Whitehaven" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5089.xml"/>
+				<outline text="Whitstable" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5090.xml"/>
+				<outline text="Wick" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0379.xml"/>
+				<outline text="Windsor" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7372.xml"/>
+				<outline text="Wisbech" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5093.xml"/>
+				<outline text="Wittering" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0366.xml"/>
+				<outline text="Worcester" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/7462.xml"/>
+				<outline text="Workington" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5095.xml"/>
+				<outline text="Wrexham" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5096.xml"/>
+				<outline text="Yeovilton" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0367.xml"/>
+				<outline text="Yiewsley" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/5100.xml"/>
+				<outline text="York" type="link" url="http://feeds.bbc.co.uk//weather/feeds/rss/5day/world/0017.xml"/>
+			</outline>
+		</outline>
+	</body>
+</opml>

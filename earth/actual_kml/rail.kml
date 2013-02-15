@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+
+<Style id="railStation">
+	<IconStyle>
+		<Icon>
+			<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/rail.png</href>
+			<w>64</w>
+			<h>64</h>
+		</Icon>
+	</IconStyle>
+</Style>
+<Style id="arrivatrainswales">
+	<IconStyle>
+		<scale>0.75</scale>
+		<Icon>
+			<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc/arrivatrainswales.jpg</href>
+			<w>100</w>
+			<h>32</h>
+		</Icon>
+	</IconStyle>
+	<LineStyle>
+   		<color>ff898700</color>
+   		<width>4</width>
+	</LineStyle>
+</Style>
+<Style id="centraltrains">
+	<IconStyle>
+		<scale>0.75</scale>
+		<Icon>
+			<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc/centraltrains.jpg</href>
+			<w>100</w>
+			<h>34</h>
+		</Icon>
+	</IconStyle>
+	<LineStyle>
+   		<color>ff1B9D50</color>
+   		<width>4</width>
+	</LineStyle>
+</Style>
+<Style id="virgintrains">
+	<IconStyle>
+		<scale>0.75</scale>
+		<Icon>
+			<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc/virgintrains.jpg</href>
+			<w>100</w>
+			<h>34</h>
+		</Icon>
+	</IconStyle>
+	<LineStyle>
+   		<color>ff0000cc</color>
+   		<width>4</width>
+	</LineStyle>
+</Style>
+<Style id="severity-1">
+	<IconStyle>
+		<scale>0.75</scale>
+		<Icon>
+			<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/-1.png</href>
+			<w>19</w>
+			<h>40</h>
+		</Icon>
+	</IconStyle>
+	<LineStyle>
+   		<color>ffcccccc</color>
+   		<width>4</width>
+	</LineStyle>
+</Style>
+<Style id="severity0">
+	<IconStyle>
+		<scale>0.75</scale>
+		<Icon>
+			<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/0.png</href>
+			<w>19</w>
+			<h>40</h>
+		</Icon>
+	</IconStyle>
+	<LineStyle>
+   		<color>ff999999</color>
+   		<width>4</width>
+	</LineStyle>
+</Style>
+<Style id="severity1">
+	<IconStyle>
+		<scale>0.75</scale>
+		<Icon>
+			<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/1.png</href>
+			<w>19</w>
+			<h>40</h>
+		</Icon>
+	</IconStyle>
+	<LineStyle>
+   		<color>ff66cc99</color>
+   		<width>4</width>
+	</LineStyle>
+</Style>
+<Style id="severity2">
+	<IconStyle>
+		<scale>0.75</scale>
+		<Icon>
+			<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/2.png</href>
+			<w>19</w>
+			<h>40</h>
+		</Icon>
+	</IconStyle>
+	<LineStyle>
+   		<color>ff00ff00</color>
+   		<width>4</width>
+	</LineStyle>
+</Style>
+<Style id="severity3">
+	<IconStyle>
+		<scale>0.75</scale>
+		<Icon>
+			<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png</href>
+			<w>19</w>
+			<h>40</h>
+		</Icon>
+	</IconStyle>
+	<LineStyle>
+   		<color>ff00ffff</color>
+   		<width>4</width>
+	</LineStyle>
+</Style>
+<Style id="severity4">
+	<IconStyle>
+		<scale>0.75</scale>
+		<Icon>
+			<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/4.png</href>
+			<w>19</w>
+			<h>40</h>
+		</Icon>
+	</IconStyle>
+	<LineStyle>
+   		<color>ff0000ff</color>
+   		<width>4</width>
+	</LineStyle>
+</Style>
+<Style id="severity5">
+	<IconStyle>
+		<scale>0.75</scale>
+		<Icon>
+			<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/5.png</href>
+			<w>19</w>
+			<h>40</h>
+		</Icon>
+	</IconStyle>
+	<LineStyle>
+   		<color>ffffffff</color>
+   		<width>4</width>
+	</LineStyle>
+</Style>
+
+<Folder>
+	<name>Blueghost.co.uk Overlays</name>
+	<description>
+	<![CDATA[
+    <p>Visit <a href="http://bbc.blueghost.co.uk/earth/">http://bbc.blueghost.co.uk/earth/</a> for more information</p>
+    ]]>
+	</description><Folder>
+		<name>Rail Data</name>
+			<Folder>
+				<name>General Delays</name>
+					
+<Placemark>
+	<name>Rail Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc/firstgreatwestern.jpg" alt="Operator Image" />Replacement bus service running between Taunton and Weston-super-Mare and services being diverted between Westbury and Taunton due to problem near the railway at Highbridge and Burnham-on-Sea.<br /><strong>Start Time:</strong>Tue 1st Aug @ 19:46<br /><strong>End Time:</strong>Tue 1st Aug @ 22:14]]></description>
+	<styleUrl>#firstgreatwestern</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-2.972063,51.218021,0 -2.972205,51.344307,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Rail Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc/northernrail.jpg" alt="Operator Image" />Trains not stopping at East Didsbury due to engineering works.<br /><strong>Start Time:</strong>Mon 17th Jul @ 10:42<br /><strong>End Time:</strong>Sun 10th Sep @ 23:59]]></description>
+	<styleUrl>#northernrail</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-2.221936,53.40944,0 -2.221936,53.40944,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Rail Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc/onerailway.jpg" alt="Operator Image" />Replacement bus service running between Marks Tey and Sudbury (Suffolk) due to engineering works.<br /><strong>Start Time:</strong>Mon 24th Jul @ 12:07<br /><strong>End Time:</strong>Sun 6th Aug @ 23:59]]></description>
+	<styleUrl>#onerailway</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			0.78263,51.880771,0 0.735173,52.036202,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Rail Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc/southeasterntrains.jpg" alt="Operator Image" />Delays of up to 20 minutes at Ashford International due to signalling problem.<br /><strong>Start Time:</strong>Tue 1st Aug @ 19:54<br /><strong>End Time:</strong>Tue 1st Aug @ 21:49]]></description>
+	<styleUrl>#southeasterntrains</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			0.874376,51.143712,0 0.874376,51.143712,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Rail Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc/southeasterntrains.jpg" alt="Operator Image" />Trains not stopping eastbound at Woolwich Arsenal due to engineering works.<br /><strong>Start Time:</strong>Thu 25th May @ 14:20<br /><strong>End Time:</strong>Mon 21st Aug @ 00:14]]></description>
+	<styleUrl>#southeasterntrains</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			0.069755,51.489707,0 0.069755,51.489707,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Rail Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc/virgintrains.jpg" alt="Operator Image" />Disruption between Plymouth and Bristol Temple Meads due to problem near the railway at Highbridge and Burnham-on Sea.<br /><strong>Start Time:</strong>Tue 1st Aug @ 19:52<br /><strong>End Time:</strong>Tue 1st Aug @ 22:08]]></description>
+	<styleUrl>#virgintrains</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-2.972063,51.218021,0 -2.580224,51.449107,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Tube Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/tube.png" alt="Road Incident" />Delays possible due to earlier broken down train and earlier signal failure at Green Park.<br /><strong>Start Time:</strong>Tue 1st Aug @ 13:57<br /><strong>End Time:</strong>Tue 1st Aug @ 21:40]]></description>
+	<styleUrl>#severity3</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-0.142765,51.506604,0 -0.142765,51.506604,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Tube Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/tube.png" alt="Road Incident" />Delays possible due to signal failure at Morden.<br /><strong>Start Time:</strong>Tue 1st Aug @ 16:11<br /><strong>End Time:</strong>Tue 1st Aug @ 21:37]]></description>
+	<styleUrl>#severity3</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-0.194837,51.402121,0 -0.194837,51.402121,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Tube Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/tube.png" alt="Road Incident" />Line closed due to engineering works between Bank and Waterloo.<br /><strong>Start Time:</strong>Tue 21st Mar @ 12:45<br /><strong>End Time:</strong>Sun 3rd Sep @ 23:59]]></description>
+	<styleUrl>#severity3</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-0.088635,51.513247,0 -0.114298,51.503526,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Tube Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/tube.png" alt="Road Incident" />Trains not stopping at Heathrow Terminal 4 and replacement bus service running between Hatton Cross and Heathrow Terminal 4 due to engineering works.<br /><strong>Start Time:</strong>Thu 26th Jan @ 16:29<br /><strong>End Time:</strong>Sun 6th Aug @ 23:59]]></description>
+	<styleUrl>#severity2</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-0.447504,51.459694,0 -0.447504,51.459694,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Tube Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/tube.png" alt="Road Incident" />Underground station closed at Shoreditch<br /><strong>Start Time:</strong>Tue 20th Jun @ 12:40<br /><strong>End Time:</strong>Wed 16th Jan @ 23:59]]></description>
+	<styleUrl>#severity2</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-0.070792,51.52269,0 -0.070792,51.52269,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Tube Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/tube.png" alt="Road Incident" />Underground station closed at Regents Park due to refurbishment work. Tickets being accepted on Routes 18, 27, 30, 205, 453 and night bus N18 on London Bus services between Regents Park and Baker Street.<br /><strong>Start Time:</strong>Thu 29th Jun @ 15:33<br /><strong>End Time:</strong>Fri 1st Jun @ 23:59]]></description>
+	<styleUrl>#severity2</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-0.14662,51.523327,0 -0.14662,51.523327,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Tube Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/tube.png" alt="Road Incident" />Underground station closed at Lancaster Gate due to refurbishment work.<br /><strong>Start Time:</strong>Thu 6th Jul @ 13:02<br /><strong>End Time:</strong>Sun 5th Nov @ 23:59]]></description>
+	<styleUrl>#severity2</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-0.175612,51.511868,0 -0.175612,51.511868,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Tube Delays</name>
+	<description><![CDATA[<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/tube.png" alt="Road Incident" />Underground station closed at Arsenal due to engineering works.<br /><strong>Start Time:</strong>Tue 25th Jul @ 13:37<br /><strong>End Time:</strong>Sun 6th Aug @ 23:59]]></description>
+	<styleUrl>#severity2</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-0.10585,51.558526,0 -0.10585,51.558526,0
+		</coordinates>
+	</LineString>
+</Placemark>
+			</Folder>
+			<Folder>
+				<name>Specific Train Delays</name>
+					
+<Placemark>
+	<name>Train Delays</name>
+	<description><![CDATA[Replacement bus service running between Taunton and Weston-super-Mare and services being diverted between Westbury and Taunton due to problem near the railway at Highbridge and Burnham-on-Sea.<br /><strong>Start Time:</strong>Tue 1st Aug @ 19:46<br /><strong>End Time:</strong>Tue 1st Aug @ 21:44]]></description>
+	<styleUrl>#severity4</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-2.972063,51.218021,0 -2.972205,51.344307,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Train Delays</name>
+	<description><![CDATA[Disruption between Plymouth and Bristol Temple Meads due to problem near the railway at Highbridge and Burnham-on Sea.<br /><strong>Start Time:</strong>Tue 1st Aug @ 19:52<br /><strong>End Time:</strong>Tue 1st Aug @ 21:32]]></description>
+	<styleUrl>#severity4</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-2.972063,51.218021,0 -2.580224,51.449107,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Train Delays</name>
+	<description><![CDATA[Delays possible due to earlier broken down train and earlier signal failure at Green Park.<br /><strong>Start Time:</strong>Tue 1st Aug @ 13:57<br /><strong>End Time:</strong>Tue 1st Aug @ 21:40]]></description>
+	<styleUrl>#severity3</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-0.142765,51.506604,0 -0.142765,51.506604,0
+		</coordinates>
+	</LineString>
+</Placemark>
+<Placemark>
+	<name>Train Delays</name>
+	<description><![CDATA[Line closed due to engineering works between Bank and Waterloo.<br /><strong>Start Time:</strong>Tue 21st Mar @ 12:45<br /><strong>End Time:</strong>Sun 3rd Sep @ 23:59]]></description>
+	<styleUrl>#severity3</styleUrl>
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-0.088635,51.513247,0 -0.114298,51.503526,0
+		</coordinates>
+	</LineString>
+</Placemark>
+			</Folder><ScreenOverlay>
+      	<name>BBC Backstage</name>
+	  	<description>
+    		<![CDATA[
+   			<p>This Script is supported by <a href="http://backstage.bbc.co.uk">http://backstage.bbc.co.uk</a></p>
+   			]]>
+		</description>
+   		<visibility>1</visibility>
+   		<open>1</open>
+   		<Icon>
+      		<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc_v2.png</href>
+   		</Icon>
+   		<color>ffffffff</color>
+   		<drawOrder>0</drawOrder>
+   		<overlayXY x="1" y="1" xunits="fraction" yunits="fraction"/>
+   		<screenXY x="1" y="1" xunits="fraction" yunits="fraction"/>
+   		<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+   		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+   		<rotation>0</rotation>
+	</ScreenOverlay>
+</Folder>
+</Document>
+</kml>

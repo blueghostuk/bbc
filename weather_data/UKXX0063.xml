@@ -1,0 +1,7 @@
+<weather>
+	<info lat="52.63" lon="1.75" name="Great Yarmouth, United Kingdom" />
+	<day temp="15" date="Current" mins_max="15" icon="12" title="Rain" alt="Rain" />
+	<link href="http://www.weather.com/outlook/health/allergies/UKXX0063?par=xoappar=1009003705" title="Pollen Reports" />
+	<link href="http://www.weather.com/outlook/travel/flights/citywx/UKXX0063?par=xoappar=1009003705" title="Airport Delays" />
+	<link href="http://www.weather.com/services/desktop.html?par=xoappar=1009003705" title="Download Desktop Weather" />
+</weather>

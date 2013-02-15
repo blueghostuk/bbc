@@ -1,0 +1,57 @@
+<html>
+<head>
+  <script src="javascript/prototype.js" type="text/javascript"></script>
+  <script src="javascript/scriptaculous.js" type="text/javascript"></script>
+</head>
+<body>
+
+    <div id="left" style="width: 170px; padding: 0px; margin: 0px; float: left;">
+
+        <div style="margin: 10px; float: left; width: 148px; height: 148px; border: 1px solid #127530; text-align: center; font-size: 120px; font-weight: bold;">
+    1
+         </div>
+        <div style="margin: 10px; float: left; width: 148px; height: 148px; border: 1px solid #347530;  text-align: center; font-size: 120px; font-weight: bold;">
+    2
+        </div>
+        <div style="margin: 10px; float: left; width: 148px; height: 148px; border: 1px solid #567530; text-align: center; font-size: 120px; font-weight: bold;">
+    3
+        </div>
+    </div>
+
+    <div id="middle" style="width: 170px; padding: 0px; margin: 0px; float: left;">
+        <div style="margin: 10px; float: left; width: 148px; height: 148px; border: 1px solid #787530; text-align: center; font-size: 120px; font-weight: bold;">
+    4
+        </div>
+        <div style="margin: 10px; float: left; width: 148px; height: 148px; border: 1px solid #9A7530; text-align: center; font-size: 120px; font-weight: bold;">
+    5
+        </div>
+        <div style="margin: 10px; float: left; width: 148px; height: 148px; border: 1px solid #BC7530; text-align: center; font-size: 120px; font-weight: bold;">
+    6
+        </div>
+    </div>
+
+    <div id="right" style="width: 170px; padding: 0px; margin: 0px; float: left;">
+        <div style="margin: 10px; float: left; width: 148px; height: 148px; border: 1px solid #DE7530; text-align: center; font-size: 120px; font-weight: bold;">
+    7
+        </div>
+            <div style="margin: 10px; float: left; width: 148px; height: 148px; border: 1px solid #FE7530; text-align: center; font-size: 120px; font-weight: bold;">
+    8
+        </div>
+            <div style="margin: 10px; float: left; width: 148px; height: 148px; border: 1px solid #DC7530; text-align: center; font-size: 120px; font-weight: bold;">
+    9
+        </div>
+    </div>
+
+ <script type="text/javascript" language="javascript">
+ // <![CDATA[
+    Sortable.create("left",
+     {dropOnEmpty:true,tag:'div',containment:["left","middle","right"],constraint:false, ghosting: true});
+   Sortable.create("middle",
+     {dropOnEmpty:true,tag:'div',containment:["left","middle","right"],constraint:false, ghosting: true});
+   Sortable.create("right",
+     {dropOnEmpty:true,tag:'div',containment:["left","middle","right"],constraint:false, ghosting: true});     
+   // Sortable.create("big", {tag:'div',overlap:'horizontal',constraint: false});
+ // ]]>
+ </script>
+</body>
+</html>

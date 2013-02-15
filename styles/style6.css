@@ -1,0 +1,149 @@
+#BlueGhostBBCControl {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+	background-color: #FFFFFF;
+	float: left;
+	border: thin solid #000000;
+	z-index:10000;
+	width:160px;
+	max-width:200px;
+}
+#BlueGhostSearchControl {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+	background-color: #FFFFFF;
+	float: left;
+	border: thin solid #000000;
+	z-index:10000;
+	width:160px;
+	max-width:200px;
+}
+.statusBarText {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+	color: #FFFFFF;
+	background-color: #666666;
+	padding: 5px;
+	border: thin solid #FFFFFF;
+	width: auto;
+	z-index:10000;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.extraInfoText {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+	color: #FFFFFF;
+	background-color: #666666;
+	padding: 5px;
+	border: thin solid #FFFFFF;
+	width: auto;
+	z-index:10000;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.copyrightInfo {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+	color: #FFFFFF;
+	background-color: #666666;
+	padding: 5px;
+	border: thin solid #FFFFFF;
+	width: auto;
+	max-width: 350px;
+	z-index:10000;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+.informationMessage {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+	color: #FFFFFF;
+	background-color: #666666;
+	padding: 5px;
+	border: thin solid #FFFFFF;
+	width: 350px;
+	z-index:10000;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+.LDBinformationMessage {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+	color: #FFFFFF;
+	background-color: #666666;
+	padding: 5px;
+	border: thin solid #FFFFFF;
+	width: auto;
+	z-index:10000;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+#copyrightInfo a {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#copyrightInfo a:hover {
+	text-decoration:underline;
+	color: #00CCFF;
+}
+#statusBar a {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#statusBar a:hover {
+	text-decoration:underline;
+	color: #00CCFF;
+}
+.itemHover 
+{
+	background-color:#333333;
+	color:#FFFFFF;
+	padding: 5px;
+	border: thin solid #FFFFFF;
+	cursor:hand;
+	cursor:pointer;
+}
+body {
+	background-color: #EBE9ED;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: medium;
+}
+#BlueGhostBBCControl .item {
+	background-color: #F3F3F3;
+	margin: 2px;
+	padding: 2px;
+	border: thin solid #000000;
+	text-decoration:none;
+}
+#BlueGhostBBCControl .item:hover {
+	text-decoration:underline;
+}
+#BlueGhostSearchControl .item {
+	background-color: #F3F3F3;
+	margin: 2px;
+	padding: 2px;
+	border: thin solid #000000;
+	text-decoration:none;
+}
+#BlueGhostSearchControl .item:hover {
+	text-decoration:underline;
+}
+#weatherMap{
+	border: thin solid #000000;
+	float: left;
+	height: 100%;
+	width: 100%;
+}
+.ldb_tbl
+{
+	border: thin solid #FFFFFF;
+	max-height:300px;
+	overflow:scroll;
+}
+hr {
+	border: thin solid #000000;
+}
+.hidden{
+	display: none;
+}

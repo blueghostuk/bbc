@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<link href="style23.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+
+	var traffic = false;
+	var weather	= true;
+	var rail	= false;
+	var day		= 0;
+	var weekday 	= new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+	var month 		= new Array("Jan","Feb","Mar","Apr","May","June","July", "Aug", "Sept", "Oct", "Nov", "Dec");
+	
+	function goTo(type){
+		var wc 	= document.getElementById('wc');
+		var tc 	= document.getElementById('tc');
+		var rc 	= document.getElementById('rc');
+		var s	= document.getElementById('static');
+		switch (type){
+			case 'traffic':
+				if (!traffic){
+					wc.className 	= 'choice';
+					tc.className 	= 'choiceS';
+					rc.className 	= 'choice';
+					s.innerHTML		= 'Traffic Data';
+					traffic			= true;
+					rail			= false;
+					weather			= false;
+				}
+			break;
+			case 'weather':
+				var today = new Date();
+				today.setDate(today.getDate()+day);
+				var nav = '<a href="javascript:if (day >0){previousDay();}else{alert(\'No Past Data Available\');}" title="Show Weather for the Previous Day">Previous</a> | <a href="javascript:if(day < 9){nextDay();}else{alert(\'No More Data Available\');}"  title="Show Weather for the Next Day">Next Day</a>';
+				nav +=' Weather for: '+weekday[today.getDay()]+' '+today.getDate()+' '+month[today.getMonth()]+' '+today.getFullYear();
+				if (!weather){
+					wc.className 	= 'choiceS';
+					tc.className 	= 'choice';
+					rc.className 	= 'choice';
+					s.innerHTML		= nav;
+					weather			= true;
+					rail			= false;
+					traffic			= false;
+				}
+			break;
+			case 'rail':
+				if (!rail){
+					wc.className 	= 'choice';
+					tc.className 	= 'choice';
+					rc.className 	= 'choiceS';
+					s.innerHTML		= 'Rail Data';
+					rail			= true;
+					weather			= false;
+					traffic			= false;
+				}
+			break;
+		} 
+	}
+	
+	function highlight(id, left){
+		var e = document.getElementById(id);
+		if (e.className != "choiceS"){
+			if (left)
+				e.className = 'choiceH';
+			else
+				e.className = 'choiceHR';
+		}
+	}
+	
+	function unhighlight(id, left){
+		var e = document.getElementById(id);
+		if (e.className != "choiceS"){
+			if (left)
+				e.className = 'choice';
+			else
+				e.className = 'choiceR';
+		}
+	}
+	
+	function openHelp(){
+		window.open('http://bbc.blueghost.co.uk/help.php','helpWindow','width=400,height=600');
+	}
+	
+	function openAbout(){
+		window.open('http://bbc.blueghost.co.uk/about.html','aboutWindow');
+	}
+
+</script>
+</head>
+
+<body>
+<div id="selector">
+	<div id="wc" class="choiceS" onmouseover="javascript:highlight('wc', true);" onmouseout="unhighlight('wc', true);" onclick="javascript:goTo('weather');">Weather</div>
+	<div id="tc" class="choice" onmouseover="javascript:highlight('tc', true);" onmouseout="unhighlight('tc', true);" onclick="javascript:goTo('traffic');">Traffic</div>
+	<div id="rc" class="choice" onmouseover="javascript:highlight('rc', true);" onmouseout="unhighlight('rc', true);" onclick="javascript:goTo('rail');">Rail</div>
+	<div id="pc" class="choiceP" onclick="javascript:javascript:getPermalink();">Permalink</div>
+	<div id="hc" class="choiceR" onmouseover="javascript:highlight('hc', false);" onmouseout="unhighlight('hc', false);" onclick="javascript:openHelp();">Help</div>
+	<div id="ac" class="choiceR" onmouseover="javascript:highlight('ac', false);" onmouseout="unhighlight('ac', false);" onclick="javascript:openAbout();">About</div>
+</div>
+<div id="sub_selector">
+	<div id="static">Some Text</div>
+	<div id="loading">Loading ABC...</div>
+</div>
+</body>
+</html>

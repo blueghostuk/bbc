@@ -1,0 +1,11 @@
+<weather_location><days>	<day rel="-1" lat="57.15" lon="-2.10" name="Aberdeen" time="Current" temp="Min:0, Max:0" icon="" title="" alt="" />
+	<day rel="0" lat="57.15" lon="-2.10" name="Aberdeen" time="Wednesday Jul 2" temp="Min:13, Max:N/A" icon="44" title="N/A" alt="N/A" />
+	<day rel="1" lat="57.15" lon="-2.10" name="Aberdeen" time="Thursday Jul 3" temp="Min:13, Max:16" icon="11" title="PM Light Rain" alt="PM Light Rain" />
+	<day rel="2" lat="57.15" lon="-2.10" name="Aberdeen" time="Friday Jul 4" temp="Min:13, Max:15" icon="11" title="Light Rain" alt="Light Rain" />
+	<day rel="3" lat="57.15" lon="-2.10" name="Aberdeen" time="Saturday Jul 5" temp="Min:13, Max:16" icon="20" title="AM Fog / PM Sun" alt="AM Fog / PM Sun" />
+	<day rel="4" lat="57.15" lon="-2.10" name="Aberdeen" time="Sunday Jul 6" temp="Min:13, Max:15" icon="20" title="AM Fog / PM Clouds" alt="AM Fog / PM Clouds" />
+</days><links>	<link href="cm_ite=Allergiespar=1009003705" title="Local Pollen Reports" />
+	<link href="cm_ite=BusinessTravelerpar=1009003705" title="Airport Conditions" />
+	<link href="cm_ite=Gardenpar=1009003705" title="Lawn and Garden Weather" />
+	<link href="cm_ite=Trafficpar=1009003705" title="Rush Hour Traffic" />
+</links></weather_location>

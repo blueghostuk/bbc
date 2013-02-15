@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Folder>
+	<name>Live Departure Boards</name>
+	<Placemark>
+		<description>
+			<![CDATA[
+			<img src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc/virgintrains.jpg" alt="Virgin Logo" />
+			Thanks to Virgin Trains for keeping the old ad-free and easy to understand version of the LDB Tables<br />
+			<a href="http://www.virgintrains.co.uk/">Virgin Trains</a>
+			]]>
+		</description>
+		<name>Thanks Virgin Trains</name>
+      	<visibility>0</visibility>
+      	<open>0</open>
+    </Placemark>
+	<Placemark>
+		<description>
+			<![CDATA[
+			Thanks to Jonathan Brown for the list of all UK train stations<br />
+			<a href="http://bbs.keyhole.com/ubb/showflat.php/Cat/0/Number/148131/page/0/fpart/3/vc/1">See the Google Earth Forum for more</a>
+			]]>
+		</description>
+		<name>Thanks Jonathan Brown</name>
+    	<visibility>0</visibility>
+    	<open>0</open>
+    </Placemark>
+	<NetworkLink>
+		<name>Blueghost.co.uk Overlays - Railway Stations</name>
+		<open>1</open>
+		<Url>
+			<href>http://bbc.blueghost.co.uk/earth/railEarth.cgi</href>
+			<viewRefreshMode>onStop</viewRefreshMode>
+			<viewRefreshTime>1</viewRefreshTime>
+		</Url>
+		
+		<refreshInterval>3600</refreshInterval>
+	</NetworkLink>
+</Folder>
+</kml>

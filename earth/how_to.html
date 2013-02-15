@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>How this site was coded</title>
+<link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+
+<body>
+<div class="about_text">
+<h1>Google Maps (local) and Earth BBC Travel data overlays</h1>
+<div class="announce"><strong>24 October:</strong>This is just a brief overiew of how I transform the <a href="http://backstage.bbc.co.uk" target="_blank">BBC's backstage data</a> to be used on my <a href="http://maps.google.co.uk" target="_blank">google maps</a> (<a href="http://bbc.blueghost.co.uk">link to project</a>) and <a href="http://earth.google.com" target="_blank">google earth</a> (<a href="http://bbc.blueghost.co.uk/earth/" target="_blank">link to project</a>) backstage projects. </div>
+<p>Here are the various steps taken to transform the data:</p>
+<ol>
+  <li>A cron job runs an update script every 30 minutes (for the weather data from <a href="http://www.weather.com/?prod=xoap&amp;par=1009003705" target="_blank">weather.com&reg;</a> a similar script is run every 30 minutes for current conditions and every 12 hours for 10 day conditions)</li>
+  <li>First to be tackled is the data for each county/area.
+    <ul>
+      <li>each location is stored in a database, this list is fetched</li>
+      <li>for each location the xml data file is copied from the bbc to the local server</li>
+      <li>each xml file is stored in TPEG format, this is converted via a home made parser into a more simpler xml file.
+        <ul>
+          <li>the file contains each alert with the relevant:
+            <ul>
+              <li>source</li>
+              <li>summary</li>
+              <li>lat &amp; long coordinates of the alert - plus any other points such as the start and end points of a delay </li>
+              <li>severity of the delay</li>
+              </ul>
+          </li>
+          <li>the conversion parses the TPEG file as xml and returns a new xml file that has removed all of the stuff I don't need.</li>
+          </ul>
+      </li>
+      <li>at the same time the parser also produes KML output for the google earth data file.</li>
+      <li>each counties bit of data is then written to a unique file for that county.</li>
+      <li>for the google earth data file, the bits of data are separated by Folders and combined together into one file that forms the single data file.  </li>
+    </ul>
+  </li>
+  <li>The same is then done for the rail data</li>
+  <li>For the google earth data, the single file (around 500kb) is zipped to a much smaller files (around 60kb) and renamed kmz</li>
+  </ol>
+<p>This is a very simple and brief overview, I will explain things in more detail when I get the chance. </p>
+</div>
+</body>
+</html>

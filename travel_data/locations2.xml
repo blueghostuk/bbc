@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="locations.xsl"?>
+<traffic_data><t_alert lat="52.064" lon="-0.4231" location="bedfordshire" title ="Bedfordshire" />
+<t_alert lat="51.4528" lon="-0.9739" location="berkshire" title ="Berkshire" />
+<t_alert lat="52.4868" lon="-1.8874" location="birmingham" title ="Birmingham" />
+<t_alert lat="53.7947" lon="-1.7565" location="bradford" title ="Bradford" />
+<t_alert lat="51.4546" lon="-2.5879" location="bristol" title ="Bristol" />
+<t_alert lat="51.7835" lon="-0.8083" location="buckinghamshire" title ="Buckinghamshire" />
+<t_alert lat="52.3729" lon="0.0072" location="cambridgeshire" title ="Cambridgeshire" />
+<t_alert lat="53.1673" lon="-2.5515" location="cheshire" title ="Cheshire" />
+<t_alert lat="50.4425" lon="-4.9409" location="cornwall" title ="Cornwall" />
+<t_alert lat="52.4059" lon="-1.5112" location="coventry" title ="Coventry" />
+<t_alert lat="54.6143" lon="-2.8998" location="cumbria" title ="Cumbria" />
+<t_alert lat="53.1185" lon="-1.6003" location="derby" title ="Derby" />
+<t_alert lat="50.7242" lon="-3.7192" location="devon" title ="Devon" />
+<t_alert lat="50.7969" lon="-2.3217" location="dorset" title ="Dorset" />
+<t_alert lat="52.6523" lon="-2.7342" location="shropshire" title ="Shropshire" />
+<t_alert lat="53.4793" lon="-2.2479" location="manchester" title ="Manchester" />
+<t_alert lat="51.7967" lon="0.6365" location="essex" title ="Essex" />
+<t_alert lat="51.8451" lon="-2.1514" location="gloucestershire" title ="Gloucestershire" />
+<t_alert lat="52.2109" lon="-2.2103" location="herefordandworcester" title ="Hereford and Worcester" />
+<t_alert lat="51.84" lon="-0.2751" location="hertfordshire" title ="Hertfordshire" />
+<t_alert lat="51.3241" lon="-1.9257" location="wiltshire" title ="Wiltshire" />
+<t_alert lat="54.9095" lon="-1.4465" location="wearside" title ="Wearside" />
+<t_alert lat="54.9628" lon="-1.5373" location="tyne" title ="Tyne" />
+<t_alert lat="54.5758" lon="-1.2578" location="tees" title ="Tees" />
+<t_alert lat="51.272" lon="-0.3954" location="surrey" title ="Surrey" />
+<t_alert lat="52.241" lon="1.0545" location="suffolk" title ="Suffolk" />
+<t_alert lat="53.0195" lon="-2.159" location="stoke" title ="Stoke" />
+<t_alert lat="53.4814" lon="-1.344" location="southyorkshire" title ="South Yorkshire" />
+<t_alert lat="50.9138" lon="-1.4006" location="southampton" title ="Southampton" />
+<t_alert lat="51.0768" lon="-3.0421" location="somerset" title ="Somerset" />
+<t_alert lat="51.7518" lon="-1.2553" location="oxford" title ="Oxford" />
+<t_alert lat="52.9539" lon="-1.1665" location="nottingham" title ="Nottingham" />
+<t_alert lat="52.3105" lon="-0.837" location="northamptonshire" title ="Northamptonshire" />
+<t_alert lat="52.674" lon="0.949" location="norfolk" title ="Norfolk" />
+<t_alert lat="55.9533" lon="-3.1889" location="lothian" title ="Lothian" />
+<t_alert lat="51.5086" lon="-0.1264" location="london" title ="London" />
+<t_alert lat="53.4103" lon="-2.9856" location="liverpool" title ="Liverpool" />
+<t_alert lat="53.1283" lon="-0.2313" location="lincolnshire" title ="Lincolnshire" />
+<t_alert lat="53.8013" lon="-1.5486" location="leeds" title ="Leeds" />
+<t_alert lat="53.8612" lon="-2.5648" location="lancashire" title ="Lancashire" />
+<t_alert lat="51.1963" lon="0.7428" location="kent" title ="Kent" />
+<t_alert lat="53.7018" lon="-0.5626" location="humber" title ="Humber" />
+<t_alert lat="55.7939" lon="-4.0205" location="clyde" title ="Clyde" />
+<t_alert lat="56.3979" lon="-3.428" location="cescotland" title ="cescotland" />
+<t_alert lat="52.587" lon="-2.1288" location="wolverhampton" title ="Wolverhampton" />
+<t_alert lat="50.9404" lon="0.366" location="sussex" title ="sussex" />
+<t_alert lat="55.2995" lon="-4.7304" location="swscotland" title ="swscotland" />
+<t_alert lat="54.0916" lon="-1.388" location="york" title ="york" />
+<t_alert lat="51.6546" lon="-4.0884" location="southwestwales" title ="South West Wales" />
+<t_alert lat="51.4819" lon="-3.1766" location="southeastwales" title ="South East Wales" />
+<t_alert lat="56.2522" lon="-4.3262" location="nwscotland" title ="nwscotland" />
+<t_alert lat="52.9061" lon="-4.1035" location="northwestwales" title ="North West Wales" />
+<t_alert lat="53.1097" lon="-3.3398" location="northeastwales" title ="North East Wales" />
+<t_alert lat="56.4644" lon="-2.9691" location="nescotland" title ="nescotland" />
+<t_alert lat="52.3272" lon="-3.4395" location="midwales" title ="Mid Wales" />
+<t_alert lat="51.6492" lon="-0.4028" location="londonnorth" title ="London North" />
+<t_alert lat="51.5579" lon="0.0766" location="londoneast" title ="London East" />
+<t_alert lat="51.5176" lon="-0.3262" location="londonwest" title ="London West" />
+<t_alert lat="51.3652" lon="-0.0763" location="londonsouth" title ="London South" />
+<t_alert lat="51.67809" lon="0.02609" location="londonm25" title ="London M25" />
+<t_alert lat="57.6016" lon="-4.8711" location="highlands" title ="Highlands" />
+<t_alert lat="56.2339" lon="-3.1641" location="csescotland" title ="csescotland" />
+<t_alert lat="55.6011" lon="-2.7818" location="borders" title ="borders" />
+</traffic_data>

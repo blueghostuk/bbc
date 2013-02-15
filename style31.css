@@ -1,0 +1,302 @@
+body {
+	background-color:#66CC66;
+}
+body {
+	background-color:#66CC66;
+}
+#selector {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #0033FF;
+	width: 100%;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	border-bottom-width: thin;
+	float: left;
+}
+div.choice {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+	text-align: center;
+	float: left;
+	padding: 2px 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: #CCCCCC;
+	font-weight: bold;
+	cursor: hand;
+	cursor:pointer;
+}
+div.choiceS {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #FFFFFF;
+	text-align: center;
+	float: left;
+	background-color: #666666;
+	padding: 2px 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	font-weight: bold;
+	cursor: hand;
+	cursor:pointer;
+}
+div.choiceR {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+	text-align: center;
+	float: right;
+	background-color: #999999;
+	padding: 2px 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	font-weight: bold;
+	cursor: hand;
+	cursor:pointer;
+}
+div.choiceP {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+	text-align: center;
+	float: left;
+	padding: 2px 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: #00CCFF;
+	font-weight: bold;
+	cursor: hand;
+	cursor:pointer;
+}
+div.choiceH {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+	text-align: center;
+	float: left;
+	padding: 2px 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: #FFFF99;
+	font-weight: bold;
+	cursor: hand;
+	cursor:pointer;
+}
+div.choiceHR {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+	text-align: center;
+	float: right;
+	background-color: #FFFF99;
+	padding: 2px 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	font-weight: bold;
+	cursor: hand;
+	cursor:pointer;
+}
+div.choiceHP {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+	text-align: center;
+	float: left;
+	padding: 2px 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: #FFFF99;
+	font-weight: bold;
+	cursor: hand;
+	cursor:pointer;
+}
+#sub_selector {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: #0066FF;
+	background-color: #ECE9D8;
+	float: left;
+	width: 100%;
+	font-weight: bold;
+	margin-top: 1px;
+}
+#static {
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 10px;
+	float: left;
+	font-size: small;
+}
+#loading {
+	padding-top: 3px;
+	padding-bottom: 3px;
+	float: right;
+	padding-right: 10px;
+	font-size: small;
+}
+#weather_map {
+	border: thin solid #000000;
+	float: left;
+	height: 93%;
+	width: 79%;
+	margin-top: 5px;
+}
+#desc_box {
+	float: right;
+	border: thin solid #000000;
+	height: 93%;
+	width: 20%;
+	background-color: #ECE9D8;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+	position: relative;
+	margin-top: 5px;
+}
+#desc_title {
+	font-size: medium;
+	font-weight: bold;
+	margin-top: 2px;
+	margin-left: 5px;
+}
+#desc_text a {
+	display: block;
+}
+#desc_text {
+	margin-right: 3px;
+	margin-left: 3px;
+	margin-top: 2px;
+}
+#desc_footer {
+	vertical-align:text-bottom;
+	text-align:center;
+	bottom: 0px;
+	margin-top:90%;
+}
+#desc_footer a {
+	display: block;
+}
+#traffic_links a {
+	display: block;
+}
+select {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+	background-color: #ECE9D8;
+}
+div.about_text {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color:#000000;
+	background-color: #ECE9D8;
+	text-align: left;
+	width: auto;
+	border: thin solid #000000;
+	margin-top: 2px;
+	margin-bottom: 5px;
+	padding:8px; 
+}
+div.about_text a {
+	color:#000000;
+	text-decoration:none;
+}
+div.about_text a:hover {
+	text-decoration:underline;
+}
+h1 {
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+}
+h2 {
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+}
+hr.divider {
+	border: thin solid #000000;
+}
+div.weather_link {
+	vertical-align:text-bottom; 
+	text-align: center;
+	font-weight:bold; 
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:small;
+}
+div.weather_link a {
+	text-decoration:none;
+}
+.weather_link a:hover {
+	text-decoration:underline;
+}
+table.ldb_tbl {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+	background-color: #CCCCCC;
+	border: thin solid #000000;
+}
+td.lastupdate {
+	font-weight: bold;
+}
+td.alert {
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: underline;
+}
+td.late {
+	font-weight: bold;
+	color: #FF0000;
+}
+td a {
+	color: #0033FF;
+	font-weight: bold;
+	text-decoration: none;
+}
+td a:hover {
+	color: #0000CC;
+	text-decoration: underline;
+}
+td.copy_text {
+	text-align: center;
+}
+td.copy_text a {
+	color: #000000;
+}
+td.st_name {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+}
+#footer_text {
+	text-align: center;
+}
+div.choiceU {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #FFFFFF;
+	text-align: center;
+	float: left;
+	padding: 2px 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #FF0000;
+	font-weight: bold;
+	cursor: hand;
+	cursor:pointer;
+}
+div.choiceHU {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #FFFFFF;
+	text-align: center;
+	float: left;
+	padding: 2px 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #FF9900;
+	font-weight: bold;
+	cursor: hand;
+	cursor:pointer;
+}

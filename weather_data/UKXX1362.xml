@@ -1,0 +1,7 @@
+<weather>
+	<info lat="53.68" lon="-1.89" name="Halifax, United Kingdom" />
+	<day temp="11" date="Current" mins_max="11" icon="11" title="Light Rain" alt="Light Rain" />
+	<link href="http://www.weather.com/outlook/health/allergies/UKXX1362?par=xoappar=1009003705" title="Pollen Reports" />
+	<link href="http://www.weather.com/outlook/travel/flights/citywx/UKXX1362?par=xoappar=1009003705" title="Airport Delays" />
+	<link href="http://www.weather.com/services/desktop.html?par=xoappar=1009003705" title="Download Desktop Weather" />
+</weather>

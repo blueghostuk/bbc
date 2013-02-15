@@ -1,0 +1,12 @@
+RewriteEngine on
+
+AddType application/x-json json
+
+RewriteCond %{HTTP_HOST} ^bbc.blueghost.co.uk$
+#RewriteCond %{REQUEST_URI} !^/about.html [NC]
+#RewriteCond %{REQUEST_URI} !^/style.css [NC]
+#RewriteRule .* /about.html [R=302,L]
+RewriteRule site[012345689]?[012345689]*.php http://bbc.blueghost.co.uk/site7.php [R=301,L] 
+RewriteRule ^weatherSearch$ http://bbc.blueghost.co.uk/includes/weather_funcs_Json.php [QSA,L] 
+RewriteRule ^trafficSearch$ http://bbc.blueghost.co.uk/includes/travel_Json.php [QSA,L] 
+RewriteRule ^ldb$ http://bbc.blueghost.co.uk/includes/travel_Json.php [QSA,L] 

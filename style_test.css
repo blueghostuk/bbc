@@ -1,0 +1,98 @@
+body {
+	background-color:#66CC66;
+}
+table.ldb_tbl {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #000000;
+	background-color: #CCCCCC;
+	border: thin solid #000000;
+	text-align: right;
+	vertical-align: text-bottom;
+	letter-spacing: 0.1em;
+	display: inline-table;
+	position: static;
+}
+td.lastupdate {
+	font-weight: bold;
+	border-bottom-style: solid;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
+td.alert {
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: underline;
+}
+td.late {
+	font-weight: bold;
+	color: #FF0000;
+}
+td a {
+	color: #0033FF;
+	font-weight: normal;
+	text-decoration: none;
+}
+td a:hover {
+	color: #0000CC;
+	text-decoration: underline;
+}
+td.copy_text {
+	text-align: center;
+	font-weight: bold;
+}
+td.copy_text a {
+	color: #000000;
+	font-weight: bold;
+}
+td.st_name {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-bottom-style: solid;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
+td.copy_text_top {
+	text-align: center;
+	font-weight: bold;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
+td.copy_text_top a {
+	color: #000000;
+	font-weight: bold;
+}
+tr.altrows {
+	background-color: #BFBFBF;
+}
+tr {
+	width: 50px;
+	position: absolute;
+}
+div.from {
+	width: 100px;
+}
+a.wi {
+}

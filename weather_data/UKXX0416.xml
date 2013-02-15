@@ -1,0 +1,7 @@
+<weather>
+	<info lat="51.52" lon="0.59" name="Canvey Island, United Kingdom" />
+	<day temp="16" date="Current" mins_max="16" icon="28" title="Mostly Cloudy" alt="Mostly Cloudy" />
+	<link href="http://www.weather.com/outlook/health/allergies/UKXX0416?par=xoappar=1009003705" title="Pollen Reports" />
+	<link href="http://www.weather.com/outlook/travel/flights/citywx/UKXX0416?par=xoappar=1009003705" title="Airport Delays" />
+	<link href="http://www.weather.com/services/desktop.html?par=xoappar=1009003705" title="Download Desktop Weather" />
+</weather>

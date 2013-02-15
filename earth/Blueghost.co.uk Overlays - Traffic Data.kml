@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<NetworkLink>
+	<name>Blueghost.co.uk Overlays - Traffic Data</name>
+	<open>1</open>
+	<Url>
+		<href>http://bbc.blueghost.co.uk/earth/railEarth.php</href>
+		<viewRefreshMode>onStop</viewRefreshMode>
+		<viewRefreshTime>1</viewRefreshTime>
+	</Url>
+	
+	<refreshInterval>3600</refreshInterval>
+</NetworkLink>
+</kml>

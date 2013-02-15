@@ -1,0 +1,22 @@
+<ldb_data>
+	<station name="Telford Central" code="TFC" lat="52.681052" lon="-2.44111" />
+	<station name="Wellington(Shropshire)" code="WLN" lat="52.7014324" lon="-2.5173282" />
+	<station name="Wolverhampton" code="WVH" lat="52.587745" lon="-2.1201467" />
+	<station name="Shrewsbury" code="SHR" lat="52.711027" lon="-2.749242" />
+	<station name="Oakengates" code="OKN" lat="52.693" lon="-2.4512" />
+	<station name="Shifnal" code="SFN" lat="52.6663" lon="-2.3738" />
+	<station name="Albrighton" code="ALB" lat="52.6384" lon="-2.2705" />
+	<station name="Cosford" code="COS" lat="52.6456" lon="-2.3021" />
+	<station name="Bilbrook" code="BBK" lat="52.6241" lon="-2.1878" />
+	<station name="Codsall" code="CSL" lat="52.6274" lon="-2.2032" />
+	<station name="Birmingham New Street" code="BHM" lat="52.4782" lon="-1.9003" />
+	<station name="Manchester Piccadilly" code="MAN" lat="53.4777" lon="-2.2326" />
+	<station name="London Euston" code="EUS" lat="51.5283" lon="-0.1351" />
+	<station name="London Kings Cross" code="KGX" lat="51.5308" lon="-0.1238" />
+	<station name="London St. Pancras" code="STP" lat="51.5311" lon="-0.1256" />
+	<station name="Milton Keynes Central" code="MKC" lat="52.0346" lon="-0.7761" />
+	<station name="Lancaster" code="LAN" lat="54.0492" lon="-2.8096" />
+	<station name="Strawberry Hill" code="STW" lat="51.4391" lon="-0.3386" />
+	<station name="Twickenham" code="TWI" lat="51.4509" lon="-0.3319" />
+	<station name="Sunningdale" code="SNG" lat="51.3927" lon="-0.6357" />
+</ldb_data>

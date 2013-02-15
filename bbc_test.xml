@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tpeg_document PUBLIC "-//EBU/tpegML/EN" "http://www.bbc.co.uk/travelnews/xml/tpegml_en/tpegML.dtd">
+<tpeg_document generation_time="2005-06-30T11:15:57+0">
+
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A45 Northamptonshire - Flore Hill closed both ways between Hillside Road in Flore and the A5 at Weedon Bec, because of flooding.</summary>
+<road_traffic_message message_id="664994" message_generation_time="2005-06-30T10:52:34+0" version_number="18" start_time="2005-06-29T16:00:50+0" stop_time="2005-06-30T14:45:27+0" severity_factor="&rtm31_4;">
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_3;">
+<WGS84 latitude="52.237188" longitude="-1.06647" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A45;Flore Hill"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Flore"/>
+<location_descriptor descriptor_type="&loc3_8;" descriptor=";Hillside Road"/>
+<WGS84 latitude="52.233442" longitude="-1.075993" />
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A45;High Street"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Weedon Bec"/>
+
+<location_descriptor descriptor_type="&loc3_9;" descriptor="A5;"/>
+<direction direction_type="&loc2_2;"/>
+</location_coordinates>
+</location_container>
+<road_conditions>
+ <position position="&rtm10_37;"/>
+ <surface general_magnitude="&rtm31_3;" surface_condition="&rtm18_9;"/>
+</road_conditions>
+
+</road_traffic_message>
+</tpeg_message>
+
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">M60 Greater Manchester - Three lanes blocked through the four lane section by a jack-knifed lorry clockwise at J16, Kearsley. Slow anticlockwise with onlookers.</summary>
+
+<road_traffic_message message_id="665972" message_generation_time="2005-06-30T11:15:33+0" version_number="15" start_time="2005-06-30T07:22:16+0" stop_time="2005-06-30T11:51:05+0" severity_factor="&rtm31_4;">
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_5;">
+<WGS84 latitude="53.526239" longitude="-2.33722" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="M60;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Worsley"/>
+<location_descriptor descriptor_type="&loc3_32;" descriptor="M60; 16"/>
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A666;"/>
+<location_descriptor descriptor_type="&loc3_10;" descriptor="Kearsley"/>
+<direction direction_type="&loc2_11;"/>
+</location_coordinates>
+</location_container>
+<obstructions number_of="1">
+ <vehicles number_of="%Q%">
+  <vehicle_problem vehicle_problem="&rtm3_3;"/>
+
+  <vehicle_info vehicle_type="&rtm1_3;"/>
+ </vehicles>
+</obstructions>
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">M42 Worcestershire - One lane closed southbound between J2, Redditch and the M5 interchange by a breakdown.</summary>
+<road_traffic_message message_id="666775" message_generation_time="2005-06-30T11:14:46+0" version_number="255" start_time="2005-06-30T10:30:56+0" stop_time="2005-06-30T11:32:39+0" severity_factor="&rtm31_4;">
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_3;">
+<WGS84 latitude="52.361816" longitude="-1.948911" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="M42;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Worcestershire"/>
+
+<location_descriptor descriptor_type="&loc3_32;" descriptor="M42; 2"/>
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A441;"/>
+<location_descriptor descriptor_type="&loc3_10;" descriptor="Redditch"/>
+<WGS84 latitude="52.354669" longitude="-2.068466" />
+<location_descriptor descriptor_type="&loc3_8;" descriptor="M5;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Worcestershire"/>
+<location_descriptor descriptor_type="&loc3_32;" descriptor="M5; 4A"/>
+<location_descriptor descriptor_type="&loc3_7;" descriptor="M42;"/>
+<location_descriptor descriptor_type="&loc3_10;" descriptor="M5/M42 interchange"/>
+<direction direction_type="&loc2_7;"/>
+</location_coordinates>
+</location_container>
+<obstructions number_of="1">
+ <vehicles number_of="%Q%">
+  <vehicle_problem vehicle_problem="&rtm3_8;"/>
+
+ </vehicles>
+</obstructions>
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A666 Greater Manchester - Entry slip road closed both ways at Kearsley, J16 of the M60 due the problems on the motorway.</summary>
+<road_traffic_message message_id="666793" message_generation_time="2005-06-30T10:59:27+0" version_number="1" start_time="2005-06-30T10:49:54+0" stop_time="2005-06-30T11:47:57+0" severity_factor="&rtm31_4;">
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_5;">
+<WGS84 latitude="53.526239" longitude="-2.33722" />
+<location_descriptor descriptor_type="&loc3_8;" descriptor="M60;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Worsley"/>
+<location_descriptor descriptor_type="&loc3_32;" descriptor="M60; 16"/>
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A666;"/>
+
+<location_descriptor descriptor_type="&loc3_10;" descriptor="Kearsley"/>
+<direction direction_type="&loc2_2;"/>
+</location_coordinates>
+</location_container>
+<network_conditions>
+ <position position="&rtm10_64;"/>
+ <restriction restriction ="&rtm49_1;"/>
+</network_conditions>
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A47 Norfolk - Carriageway reduced to one lane in both directions at the Main Road junction in Tilney All Saints.</summary>
+<road_traffic_message message_id="666795" message_generation_time="2005-06-30T10:55:34+0" version_number="1" start_time="2005-06-30T10:52:59+0" stop_time="2005-06-30T16:00:38+0" severity_factor="&rtm31_3;">
+
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_5;">
+<WGS84 latitude="52.728536" longitude="0.328696" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A47;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Tilney All Saints"/>
+<location_descriptor descriptor_type="&loc3_8;" descriptor=";Main Road"/>
+<direction direction_type="&loc2_2;"/>
+</location_coordinates>
+</location_container>
+<network_conditions>
+ <position position="&rtm10_104;"/>
+ <restriction restriction ="&rtm49_11;">
+  <condition_status condition_status="&rtm47_5;"/>
+ </restriction>
+
+</network_conditions>
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A2 London - Queueing traffic due to an earlier accident on Westhorne Avenue northbound at the A205 junction in Eltham.</summary>
+<road_traffic_message message_id="666798" message_generation_time="2005-06-30T11:11:39+0" version_number="255" start_time="2005-06-30T10:55:50+0" stop_time="2005-06-30T11:40:41+0" severity_factor="&rtm31_3;">
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_5;">
+<WGS84 latitude="51.457011" longitude="0.04245" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A2;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Eltham"/>
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A205;Westhorne Avenue"/>
+<direction direction_type="&loc2_7;"/>
+</location_coordinates>
+</location_container>
+
+<accidents number_of="%Q%"/>
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A1 Northumberland - Accident both ways at the junction in Haggerston Castle.</summary>
+<road_traffic_message message_id="666799" message_generation_time="2005-06-30T11:08:35+0" version_number="1" start_time="2005-06-30T10:56:16+0" stop_time="2005-06-30T12:03:56+0" severity_factor="&rtm31_3;">
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_3;">
+<WGS84 latitude="55.723247" longitude="-1.983269" />
+<location_descriptor descriptor_type="&loc3_8;" descriptor="B6525;Berwick Road"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Wooler"/>
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A1;"/>
+<WGS84 latitude="55.654713" longitude="-1.890121" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A1;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Northumberland"/>
+
+<location_descriptor descriptor_type="&loc3_10;" descriptor="B6353 At Fenwick"/>
+<direction direction_type="&loc2_2;"/>
+</location_coordinates>
+</location_container>
+<network_conditions>
+ <restriction restriction="&rtm49_2;"/>
+</network_conditions>
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A38 Cornwall - Obstruction on the road eastbound at the A390 junction in Liskeard.</summary>
+<road_traffic_message message_id="666778" message_generation_time="2005-06-30T11:08:19+0" version_number="0" start_time="2005-06-30T10:34:02+0" stop_time="2005-06-30T11:33:11+0" severity_factor="&rtm31_3;">
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_5;">
+
+<WGS84 latitude="50.450395" longitude="-4.456832" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A38;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Liskeard"/>
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A390;"/>
+<direction direction_type="&loc2_5;"/>
+</location_coordinates>
+</location_container>
+<obstructions number_of="1">
+ <object number_of="1">
+ <position position="&rtm10_37;"/>
+ <object_problem object_problem="&rtm12_0;"/>
+ </object>
+</obstructions>
+
+<network_conditions>
+ <restriction restriction ="&rtm49_1;">
+  <condition_status condition_status="&rtm47_7;"/>
+ </restriction>
+</network_conditions>
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A1 Newcastle Upon Tyne - Exit and entry slips closed in both directions by a shed load  at the A6085 Scotswood Road junction in Blaydon.</summary>
+<road_traffic_message message_id="666790" message_generation_time="2005-06-30T10:55:05+0" version_number="1" start_time="2005-06-30T10:45:11+0" stop_time="2005-06-30T11:42:40+0" severity_factor="&rtm31_3;">
+<location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_5;">
+<WGS84 latitude="54.970335" longitude="-1.693359" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A1;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Blaydon"/>
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A6085;Scotswood Road"/>
+<location_descriptor descriptor_type="&loc3_9;" descriptor="A191;Denton Road"/>
+<direction direction_type="&loc2_2;"/>
+</location_coordinates>
+</location_container>
+<obstructions number_of="1">
+ <object number_of="%Q%">
+  <object_problem object_problem="&rtm12_17;"/>
+ </object>
+</obstructions>
+
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A43 Northamptonshire - Partly blocked southbound by a shed load of paint cans at J15a of the M1, Northampton.</summary>
+<road_traffic_message message_id="666734" message_generation_time="2005-06-30T11:08:30+0" version_number="4" start_time="2005-06-30T09:29:16+0" stop_time="2005-06-30T12:30:25+0" severity_factor="&rtm31_3;">
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_5;">
+<WGS84 latitude="52.207726" longitude="-0.936911" />
+<location_descriptor descriptor_type="&loc3_8;" descriptor="M1;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Northamptonshire"/>
+<location_descriptor descriptor_type="&loc3_32;" descriptor="M1; 15A"/>
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A43;"/>
+<location_descriptor descriptor_type="&loc3_10;" descriptor="Northampton"/>
+<direction direction_type="&loc2_7;"/>
+</location_coordinates>
+
+</location_container>
+<obstructions number_of="1">
+ <object number_of="%Q%">
+  <object_problem object_problem="&rtm12_17;"/>
+ </object>
+</obstructions>
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A46 Bath and North East Somerset - Partly blocked southbound at the A4 London Road West junction in Bath, after an accident.</summary>
+<road_traffic_message message_id="666746" message_generation_time="2005-06-30T10:58:55+0" version_number="255" start_time="2005-06-30T09:47:48+0" stop_time="2005-06-30T11:27:40+0" severity_factor="&rtm31_3;">
+<location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_5;">
+<WGS84 latitude="51.398527" longitude="-2.336768" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A46;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Bath"/>
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A4;London Road West"/>
+<location_descriptor descriptor_type="&loc3_9;" descriptor=";London Road West"/>
+<direction direction_type="&loc2_7;"/>
+</location_coordinates>
+</location_container>
+<accidents number_of="%Q%"/>
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A38 Derbyshire - Abbey Hill is blocked at Little Eaton Island, the A61 Alfreton Road junction in Derby, by an overturned car.</summary>
+<road_traffic_message message_id="666757" message_generation_time="2005-06-30T11:08:26+0" version_number="7" start_time="2005-06-30T09:57:08+0" stop_time="2005-06-30T12:43:10+0" severity_factor="&rtm31_3;">
+
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_5;">
+<WGS84 latitude="52.956052" longitude="-1.459622" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A38;Abbey Hill"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Derby"/>
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A61;Alfreton Road"/>
+<location_descriptor descriptor_type="&loc3_9;" descriptor="B6179;Alfreton Road"/>
+<location_descriptor descriptor_type="&loc3_10;" descriptor="Little Eaton Island"/>
+<direction direction_type="&loc2_3;"/>
+</location_coordinates>
+</location_container>
+<network_conditions>
+ <restriction restriction="&rtm49_1;"/>
+</network_conditions>
+</road_traffic_message>
+</tpeg_message>
+
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">M4 Cardiff - Emergency telephones out of order both ways between J30, Cardiff and J35, Pencoed. Extra police patrols are in operation.</summary>
+<road_traffic_message message_id="665920" message_generation_time="2005-06-30T11:15:32+0" version_number="0" start_time="2005-06-30T07:12:57+0" stop_time="2005-06-30T12:00:25+0" severity_factor="&rtm31_3;">
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_3;">
+<WGS84 latitude="51.541504" longitude="-3.128736" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="M4;"/>
+<location_descriptor descriptor_type="&loc3_32;" descriptor="M4; 30"/>
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A4232;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Cardiff"/>
+<location_descriptor descriptor_type="&loc3_10;" descriptor="Cardiff"/>
+<WGS84 latitude="51.513351" longitude="-3.498747" />
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A473;"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Pencoed"/>
+<location_descriptor descriptor_type="&loc3_7;" descriptor="M4;"/>
+
+<location_descriptor descriptor_type="&loc3_10;" descriptor="Pencoed"/>
+<location_descriptor descriptor_type="&loc3_32;" descriptor="M4; 35"/>
+<direction direction_type="&loc2_2;"/>
+</location_coordinates>
+</location_container>
+<facilities_performance>
+ <roadside_assistance roadside_assistance_type="&rtm32_1;" roadside_assistance_status="&rtm33_1;"/>
+</facilities_performance>
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A6005 Nottinghamshire - Abbey Street in Nottingham is partly blocked northbound at Priory Island, the A52 Clifton Boulevard junction, for roadworks.</summary>
+<road_traffic_message message_id="664589" message_generation_time="2005-06-30T11:15:30+0" version_number="4" start_time="2005-06-29T00:00:00+0" stop_time="2005-07-03T23:59:00+0" severity_factor="&rtm31_3;">
+<location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_5;">
+<WGS84 latitude="52.940386" longitude="-1.181775" />
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A52;Clifton Boulevard"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Nottingham"/>
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A6005;Abbey Street"/>
+<location_descriptor descriptor_type="&loc3_10;" descriptor="Priory Island"/>
+</location_coordinates>
+</location_container>
+<network_conditions>
+ <position position="&rtm10_0;"/>
+ <restriction restriction ="&rtm49_255;"/>
+</network_conditions>
+
+</road_traffic_message>
+</tpeg_message>
+
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A40 London - Slow traffic on Westway westbound between the Bentworth Road junction and Savoy Circus,the A40 Western Avenue/Old Oak Road junction in London.</summary>
+<road_traffic_message message_id="666673" message_generation_time="2005-06-30T10:52:31+0" version_number="4" start_time="2005-06-30T08:56:49+0" stop_time="2005-06-30T11:47:22+0" severity_factor="&rtm31_2;">
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_5;">
+<WGS84 latitude="51.513795" longitude="-0.249027" />
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A40;Western Avenue"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="London"/>
+<location_descriptor descriptor_type="&loc3_8;" descriptor=";Old Oak Road"/>
+<location_descriptor descriptor_type="&loc3_9;" descriptor=";Old Oak Common Lane"/>
+<location_descriptor descriptor_type="&loc3_10;" descriptor="Savoy Circus"/>
+<direction direction_type="&loc2_9;"/>
+</location_coordinates>
+</location_container>
+<obstructions number_of="1">
+
+ <vehicles number_of="%Q%">
+  <vehicle_problem vehicle_problem="&rtm3_8;"/>
+ </vehicles>
+</obstructions>
+</road_traffic_message>
+</tpeg_message>
+<tpeg_message>
+<originator country="UK" originator_name="BBC Travel"/>
+<summary xml:lang="en">A594 Leicestershire - Restrictions on Waterloo Way both ways between the A6 London Road junction and the Regent Road junction in Leicester.</summary>
+<road_traffic_message message_id="666705" message_generation_time="2005-06-30T11:08:32+0" version_number="4" start_time="2005-06-30T09:09:18+0" stop_time="2005-06-30T19:45:17+0" severity_factor="&rtm31_2;">
+<location_container language="&loc41_30;">
+<location_coordinates location_type="&loc1_3;">
+<WGS84 latitude="52.631471" longitude="-1.125906" />
+
+<location_descriptor descriptor_type="&loc3_8;" descriptor="A6;London Road"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Leicester"/>
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A594;Waterloo Way"/>
+<WGS84 latitude="52.627728" longitude="-1.127871" />
+<location_descriptor descriptor_type="&loc3_8;" descriptor=";Regent Road"/>
+<location_descriptor descriptor_type="&loc3_24;" descriptor="Leicester"/>
+<location_descriptor descriptor_type="&loc3_7;" descriptor="A594;Waterloo Way"/>
+<direction direction_type="&loc2_2;"/>
+</location_coordinates>
+</location_container>
+<network_conditions>
+ <position position="&rtm10_37;"/>
+ <restriction restriction ="&rtm49_255;"/>
+</network_conditions>
+
+</road_traffic_message>
+</tpeg_message>
+</tpeg_document>

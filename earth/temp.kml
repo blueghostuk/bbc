@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Folder>
+	<Style id="arrivatrainswales">
+		<IconStyle>
+			<scale>0.75</scale>
+			<Icon>
+				<href>http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc/arriva_northern.jpg</href>
+				<w>100</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+    		<color>ff898700</color>
+    		<width>4</width>
+   		</LineStyle>
+	</Style>
+<Placemark>
+	<styleUrl>#arrivatrainswales</styleUrl>
+	<name>Rail Delays</name>
+	<description>Disruption between Aberystwyth and Chester and replacement bus service running between Machynlleth and Aberystwyth, and between Borth and Aberystwyth<br /><strong>Start Time:</strong>Mon 3rd Oct @ 13:06<br /><strong>End Time:</strong>Thu 27th Oct @ 23:59</description>
+	
+	<visibility>1</visibility>
+	<LineString>
+		<extrude>0</extrude>
+		<tessellate>1</tessellate>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>
+			-4.081681,52.413922,0 -2.879535,53.196843,0
+		</coordinates>
+	</LineString>
+</Placemark>
+</Folder>
+</kml>

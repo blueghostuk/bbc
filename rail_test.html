@@ -1,0 +1,646 @@
+<head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+<link rel="stylesheet" type="text/css" href="style23.css">
+<title>
+BlueGhost UK Weather, with weather.com? &amp; backstage.bbc.co.uk
+</title>
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=1&amp;key=ABQIAAAA8YgzjtSJZhw4YnyN8zypJxRDjjN5V4nWNRKqqPVEKlMJGmfzHxRUs5-AILt1I8LJPTx3Ley-b_MktA" type="text/javascript">
+</script>
+<style type="text/css" media="screen">
+.noscreen {display: none}
+</style>
+<style type="text/css" media="print">
+.noprint {display: none}
+</style>
+<script src="http://maps.google.com/mapfiles/maps.16.js" type="text/javascript">
+</script>
+
+
+<script src="javascript/common.js" type="text/javascript">
+</script>
+</head>
+
+<body onunload="unLoad()" onload="onLoad()">
+<div id="selector">
+<div id="wc" class="choice" title="Click to Show Weather Overlay" onmouseover="highlight('wc', 'choiceH');" onfocus=":this.onmouseover;" onmouseout="unhighlight('wc', 'choice');" onblur="javascript:this.onmouseout;" onclick="javascript:goTo('weather');"> Weather </div>
+<div id="rc" class="choiceS" title="Click to Show Rail Overlay" onmouseover="javascript:highlight('rc', 'choiceH');" onfocus="javascript:this.onmouseover;" onmouseout="unhighlight('rc', 'choice');" onblur="javascript:this.onmouseout;" onclick="javascript:goTo('rail');"> Rail </div>
+<div id="tc" class="choice" title="Click to Show Road Traffic Overlay" onmouseover="javascript:highlight('tc', 'choiceH');" onfocus="javascript:this.onmouseover;" onmouseout="unhighlight('tc', 'choice');" onblur="javascript:this.onmouseout;" onclick="javascript:goTo('traffic');"> Traffic </div>
+<div id="pc" class="choiceP" title="Click to get a Permanant Link to this map view" onmouseover="javascript:highlight('pc', 'choiceHP');" onfocus="javascript:this.onmouseover;" onmouseout="unhighlight('pc', 'choiceP');" onblur="unhighlight('pc', 'choiceP');" onclick="javascript:getPermalink();"> Permalink </div>
+<div id="rv" class="choiceP" title="Reset the Viewpoint back to the original position" onmouseover="javascript:highlight('rv', 'choiceHP');" onfocus="javascript:this.onmouseover;" onmouseout="unhighlight('rv', 'choiceP');" onblur="javascript:this.onmouseout;" onclick="javascript:zoomOut();"> Reset Viewpoint </div>
+<div id="sb" class="choiceP" title="Click to Add a Sidebar to the map" onmouseover="javascript:highlight('sb', 'choiceHP');" onfocus="javascript:this.onmouseover;" onmouseout="unhighlight('sb', 'choiceP');" onblur="javascript:this.onmouseout;" onclick="javascript:goToSidebar();"> Add Sidebar </div>
+<div id="hc" class="choiceR" title="Click to see help" onmouseover="javascript:highlight('hc', 'choiceHR');" onfocus="javascript:this.onmouseover;" onmouseout="unhighlight('hc', 'choiceR');" onblur="javascript:this.onmouseout;" onclick="javascript:openHelp();"> Help </div>
+<div id="ac" class="choiceR" title="Click to see detail about this site" onmouseover="javascript:highlight('ac', 'choiceHR');" onfocus="javascript:this.onmouseover;" onmouseout="unhighlight('ac', 'choiceR');" onblur="javascript:this.onmouseout;" onclick="javascript:openAbout();"> About </div>
+</div>
+
+<div id="sub_selector">
+<div id="static"> Displaying Current Delays on the National Rail Network &nbsp;|&nbsp;
+
+    <a id="rail_ldb_changer" href="javascript:showHideLDB();" title="Hide Live Data for Stations"> Hide Live Departure Boards </a>
+
+&nbsp;|&nbsp;
+
+    <a href="http://pritch.blueghost.co.uk/wordpress/?page_id=19" target="_blank" title="Add Your Station"> Add Your Station </a>
+
+</div>
+<div id="loading"> LDB Data Loaded </div>
+</div>
+
+<div style="overflow: hidden; position: relative; background-color: rgb(229, 227, 223);" id="weather_map">
+<div style="z-index: 0; position: absolute; background-color: rgb(229, 227, 223); left: -56px; top: 156px;">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2013&amp;y=1337&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: -263px; top: -258px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2013&amp;y=1338&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: -263px; top: -2px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2013&amp;y=1339&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: -263px; top: 254px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2013&amp;y=1340&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: -263px; top: 510px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2013&amp;y=1336&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: -263px; top: -514px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2014&amp;y=1337&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: -7px; top: -258px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2014&amp;y=1338&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: -7px; top: -2px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2014&amp;y=1339&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: -7px; top: 254px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2014&amp;y=1340&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: -7px; top: 510px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2014&amp;y=1336&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: -7px; top: -514px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2015&amp;y=1337&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 249px; top: -258px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2015&amp;y=1338&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 249px; top: -2px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2015&amp;y=1339&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 249px; top: 254px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2015&amp;y=1340&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 249px; top: 510px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2015&amp;y=1336&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 249px; top: -514px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2016&amp;y=1337&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 505px; top: -258px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2016&amp;y=1338&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 505px; top: -2px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2016&amp;y=1339&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 505px; top: 254px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2016&amp;y=1340&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 505px; top: 510px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2016&amp;y=1336&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 505px; top: -514px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2017&amp;y=1337&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 761px; top: -258px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2017&amp;y=1338&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 761px; top: -2px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2017&amp;y=1339&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 761px; top: 254px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2017&amp;y=1340&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 761px; top: 510px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2017&amp;y=1336&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 761px; top: -514px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2018&amp;y=1337&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 1017px; top: -258px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2018&amp;y=1338&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 1017px; top: -2px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2018&amp;y=1339&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 1017px; top: 254px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2018&amp;y=1340&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 1017px; top: 510px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2018&amp;y=1336&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 1017px; top: -514px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2019&amp;y=1337&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 1273px; top: -258px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2019&amp;y=1338&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 1273px; top: -2px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2019&amp;y=1339&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 1273px; top: 254px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2019&amp;y=1340&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 1273px; top: 510px;" height="256" width="256">     <img src="http://mt.google.com/mt?v=w2.5&amp;x=2019&amp;y=1336&amp;zoom=5" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 256px; height: 256px; z-index: 0; -moz-user-select: none; position: absolute; left: 1273px; top: -514px;" height="256" width="256">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 2172px; top: 4446px; z-index: 25021;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 2172px; top: 4446px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: -45px; top: 5743px; z-index: 25024;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: -45px; top: 5743px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 5416px; top: 802px; z-index: 25014;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/2.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 5416px; top: 802px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 4281px; top: 1906px; z-index: 25019;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/1.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 4281px; top: 1906px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 2172px; top: 4446px; z-index: 25022;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 2172px; top: 4446px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 2198px; top: -3293px; z-index: 25005;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/4.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 2198px; top: -3293px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 7074px; top: 5746px; z-index: 25025;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/4.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 7074px; top: 5746px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: -45px; top: 5743px; z-index: 25023;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: -45px; top: 5743px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 146px; top: -10332px; z-index: 25000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/4.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 146px; top: -10332px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 1627px; top: -3769px; z-index: 25003;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/4.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 1627px; top: -3769px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: -191px; top: -4993px; z-index: 25001;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/4.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: -191px; top: -4993px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 1627px; top: -3769px; z-index: 25002;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/4.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 1627px; top: -3769px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8133px; top: 5986px; z-index: 25028;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/2.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 8133px; top: 5986px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8247px; top: 5901px; z-index: 25026;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 8247px; top: 5901px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8283px; top: 5966px; z-index: 25027;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 8283px; top: 5966px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 12096px; top: 8106px; z-index: 25042;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 12096px; top: 8106px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 11237px; top: 7823px; z-index: 25041;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/4.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 11237px; top: 7823px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 7466px; top: 7138px; z-index: 25040;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 7466px; top: 7138px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8195px; top: 6068px; z-index: 25032;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/4.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 8195px; top: 6068px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8143px; top: 6074px; z-index: 25033;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 8143px; top: 6074px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8334px; top: 6128px; z-index: 25036;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/4.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 8334px; top: 6128px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8275px; top: 6132px; z-index: 25037;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 8275px; top: 6132px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 7387px; top: 6351px; z-index: 25039;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/2.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 7387px; top: 6351px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8144px; top: 6113px; z-index: 25035;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/2.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 8144px; top: 6113px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8367px; top: 6076px; z-index: 25034;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/2.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 8367px; top: 6076px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 40px; position: absolute; -moz-user-select: none; cursor: pointer; left: 7875px; top: 6149px; z-index: 25038;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/3.png" height="40" width="19">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 7875px; top: 6149px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 1586px; top: 583px; z-index: 25010;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 1586px; top: 583px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 1364px; top: 485px; z-index: 25007;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 1364px; top: 485px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 2521px; top: 1031px; z-index: 25017;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 2521px; top: 1031px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 689px; top: 439px; z-index: 25006;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 689px; top: 439px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 1557px; top: 526px; z-index: 25009;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 1557px; top: 526px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 1782px; top: 654px; z-index: 25011;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 1782px; top: 654px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 2083px; top: 788px; z-index: 25013;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 2083px; top: 788px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 1991px; top: 753px; z-index: 25012;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 1991px; top: 753px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 2324px; top: 857px; z-index: 25016;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 2324px; top: 857px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 2279px; top: 841px; z-index: 25015;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 2279px; top: 841px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 3161px; top: 1555px; z-index: 25018;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 3161px; top: 1555px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 2194px; top: -3280px; z-index: 25004;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 2194px; top: -3280px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8303px; top: 6050px; z-index: 25031;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 8303px; top: 6050px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8336px; top: 6038px; z-index: 25030;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 8336px; top: 6038px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 8331px; top: 6037px; z-index: 25029;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 8331px; top: 6037px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 12px; height: 20px; position: absolute; -moz-user-select: none; cursor: pointer; left: 6436px; top: 3666px; z-index: 25020;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_green.png" height="20" width="12">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 20px; position: absolute; -moz-user-select: none; left: 6436px; top: 3666px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/mm_20_shadow.png" height="20" width="22">
+<div class="noprint" style="position: absolute; z-index: 40000; left: 468px; top: -131px; visibility: visible;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 25px; height: 25px; position: absolute; left: 0px; top: 0px; z-index: 0; -moz-user-select: none;" src="http://www.google.com/mapfiles/iw_nw.png" height="25" width="25">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; height: 25px; position: absolute; left: 25px; top: 0px; z-index: 0; -moz-user-select: none; width: 744px;" src="http://www.google.com/mapfiles/iw_n.png" height="25" width="640">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 25px; height: 25px; position: absolute; top: 0px; z-index: 0; -moz-user-select: none; left: 769px;" src="http://www.google.com/mapfiles/iw_ne.png" height="25" width="25">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 25px; position: absolute; left: 0px; top: 25px; z-index: 0; -moz-user-select: none; height: 444px;" src="http://www.google.com/mapfiles/iw_w.png" height="640" width="25">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; position: absolute; left: 25px; top: 25px; z-index: 0; -moz-user-select: none; width: 744px; height: 444px;" src="http://www.google.com/mapfiles/iw_c.png" height="640" width="640">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 25px; position: absolute; top: 25px; z-index: 0; -moz-user-select: none; height: 444px; left: 769px;" src="http://www.google.com/mapfiles/iw_e.png" height="640" width="25">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 25px; height: 96px; position: absolute; left: 0px; z-index: 0; -moz-user-select: none; top: 469px;" src="http://www.google.com/mapfiles/iw_sw.png" height="96" width="25">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; height: 96px; position: absolute; left: 25px; z-index: 0; -moz-user-select: none; width: 186px; top: 469px;" src="http://www.google.com/mapfiles/iw_s.png" height="96" width="640">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 98px; height: 96px; position: absolute; z-index: 0; -moz-user-select: none; left: 211px; top: 469px;" src="http://www.google.com/mapfiles/iw_tap.png" height="96" width="98">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; height: 96px; position: absolute; z-index: 0; -moz-user-select: none; left: 309px; width: 460px; top: 469px;" src="http://www.google.com/mapfiles/iw_s.png" height="96" width="640">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 25px; height: 96px; position: absolute; z-index: 0; -moz-user-select: none; left: 769px; top: 469px;" src="http://www.google.com/mapfiles/iw_se.png" height="96" width="25"> <map name="iwMap0" id="iwMap0"> <area href="javascript:void(0)" coords="0,0,0,494,264,494,215,565,309,494,794,494,794,0" shape="poly"> <area href="javascript:void(0)" coords="" shape="poly"> <area href="javascript:void(0)" coords="" shape="poly"> <area href="javascript:void(0)" coords="" shape="poly"> <area href="javascript:void(0)" coords="" shape="poly"> <area href="javascript:void(0)" coords="" shape="poly"> <area href="javascript:void(0)" coords="" shape="poly"> <area href="javascript:void(0)" coords="" shape="poly"> <area href="javascript:void(0)" coords="" shape="poly"> <area href="javascript:void(0)" coords="" shape="poly"> <area href="javascript:void(0)" coords="" shape="poly"> </map>     <img usemap="#iwMap0" style="border: 0pt none ; margin: 0pt; padding: 0pt; position: absolute; left: 0px; top: 0px; z-index: 0; -moz-user-select: none; width: 794px; height: 565px;" src="http://www.google.com/mapfiles/transparent.gif">
+<div style="position: absolute; left: 15px; top: 15px; z-index: 3; cursor: auto; visibility: visible;">
+<div> <link rel="stylesheet" type="text/css" href="style23.css">
+<table class="ldb_tbl"> <tbody> <tr>
+
+    <td colspan="7" title="Data Source" class="st_name"> Shrewsbury </td>
+
+</tr> </tbody> <colgroup> <col class="stations"> <col class="times"> <col class="ontime"> <col class="stations"> <col class="times"> <col class="ontime"> <col class="tocs"> <col> </colgroup> <tbody> <tr>
+
+    <td colspan="7" title="Last update time" class="lastupdate"> Last updated: 06/08/2005 16:45:20 </td>
+
+</tr> <tr>
+
+    <td class="stations"> From </td>
+
+    <td abbr="at" class="times"> Timetabled     <br> Arrival </td>
+
+    <td abbr="expected" class="ontime"> Expected     <br> Arrival </td>
+
+    <td class="stations"> To </td>
+
+    <td abbr="at" class="times"> Timetabled     <br> Departure </td>
+
+    <td abbr="expected" class="ontime"> Expected     <br> Departure </td>
+
+    <td class="tocs"> Operator </td>
+
+</tr> <tr class="altrows">
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494635&amp;R=0" target="_blank"> Manchester Oxford Road </a>
+
+    </td>
+
+    <td class="times"> 1641 </td>
+
+    <td class="ontime"> On time </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494635&amp;R=0" target="_blank"> Cardiff Central </a>
+
+    </td>
+
+    <td class="times"> 1644 </td>
+
+    <td class="ontime"> On time </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494651&amp;R=0" target="_blank"> Milford Haven </a>
+
+    </td>
+
+    <td class="times"> 1646 </td>
+
+    <td class="ontime"> On time </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494651&amp;R=0" target="_blank"> Manchester Oxford Road </a>
+
+    </td>
+
+    <td class="times"> 1646 </td>
+
+    <td class="ontime"> On time </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr class="altrows">
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/term.aspx?T=SHRWBY++&amp;J=3493255&amp;R=0" target="_blank"> Birmingham New Street </a>
+
+    </td>
+
+    <td class="times"> 1652 </td>
+
+    <td class="ontime"> On time </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/term.aspx?T=SHRWBY++&amp;J=3493255&amp;R=0" target="_blank"> **Terminates** </a>
+
+    </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/CT.html" target="_blank"> Central Trains </a>
+
+    </td>
+
+</tr> <tr>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3493907&amp;R=0" target="_blank"> Shrewsbury </a>
+
+    </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3493907&amp;R=0" target="_blank"> Birmingham New Street </a>
+
+    </td>
+
+    <td class="times"> 1653 </td>
+
+    <td class="noinfo"> Starts here </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/CT.html" target="_blank"> Central Trains </a>
+
+    </td>
+
+</tr> <tr class="altrows">
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/term.aspx?T=SHRWBY++&amp;J=3494988&amp;R=0" target="_blank"> Swansea </a>
+
+    </td>
+
+    <td class="times"> 1712 </td>
+
+    <td class="times"> 1714 </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/term.aspx?T=SHRWBY++&amp;J=3494988&amp;R=0" target="_blank"> **Terminates** </a>
+
+    </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494556&amp;R=0" target="_blank"> Aberystwyth </a>
+
+    </td>
+
+    <td class="times"> 1722 </td>
+
+    <td class="times"> 1727 </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494556&amp;R=0" target="_blank"> Birmingham New Street </a>
+
+    </td>
+
+    <td class="times"> 1726 </td>
+
+    <td class="times"> 1727 </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr class="altrows">
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3495106&amp;R=0" target="_blank"> Shrewsbury </a>
+
+    </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3495106&amp;R=0" target="_blank"> Swansea </a>
+
+    </td>
+
+    <td class="times"> 1729 </td>
+
+    <td class="noinfo"> Starts here </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494588&amp;R=0" target="_blank"> Wolverhampton </a>
+
+    </td>
+
+    <td class="times"> 1725 </td>
+
+    <td class="noinfo"> No report </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494588&amp;R=0" target="_blank"> Aberystwyth </a>
+
+    </td>
+
+    <td class="times"> 1733 </td>
+
+    <td class="noinfo"> No report </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr class="altrows">
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/term.aspx?T=SHRWBY++&amp;J=3494914&amp;R=0" target="_blank"> Crewe </a>
+
+    </td>
+
+    <td class="times"> 1734 </td>
+
+    <td class="noinfo"> No report </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/term.aspx?T=SHRWBY++&amp;J=3494914&amp;R=0" target="_blank"> **Terminates** </a>
+
+    </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494771&amp;R=0" target="_blank"> Wolverhampton </a>
+
+    </td>
+
+    <td class="times"> 1725 </td>
+
+    <td class="noinfo"> No report </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494771&amp;R=0" target="_blank"> Chester </a>
+
+    </td>
+
+    <td class="times"> 1735 </td>
+
+    <td class="noinfo"> No report </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr class="altrows">
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494652&amp;R=0" target="_blank"> Cardiff Central </a>
+
+    </td>
+
+    <td class="times"> 1745 </td>
+
+    <td class="ontime"> On time </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494652&amp;R=0" target="_blank"> Manchester Oxford Road </a>
+
+    </td>
+
+    <td class="times"> 1745 </td>
+
+    <td class="times"> 1748 </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494636&amp;R=0" target="_blank"> Manchester Oxford Road </a>
+
+    </td>
+
+    <td class="times"> 1746 </td>
+
+    <td class="ontime"> On time </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494636&amp;R=0" target="_blank"> Cardiff Central </a>
+
+    </td>
+
+    <td class="times"> 1746 </td>
+
+    <td class="times"> 1748 </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr class="altrows">
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/term.aspx?T=SHRWBY++&amp;J=3493258&amp;R=0" target="_blank"> Birmingham New Street </a>
+
+    </td>
+
+    <td class="times"> 1751 </td>
+
+    <td class="noinfo"> No report </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/term.aspx?T=SHRWBY++&amp;J=3493258&amp;R=0" target="_blank"> **Terminates** </a>
+
+    </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/CT.html" target="_blank"> Central Trains </a>
+
+    </td>
+
+</tr> <tr>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3493908&amp;R=0" target="_blank"> Shrewsbury </a>
+
+    </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3493908&amp;R=0" target="_blank"> Birmingham New Street </a>
+
+    </td>
+
+    <td class="times"> 1752 </td>
+
+    <td class="noinfo"> Starts here </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/CT.html" target="_blank"> Central Trains </a>
+
+    </td>
+
+</tr> <tr class="altrows">
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494948&amp;R=0" target="_blank"> Shrewsbury </a>
+
+    </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td class="times"> &nbsp; </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494948&amp;R=0" target="_blank"> Crewe </a>
+
+    </td>
+
+    <td class="times"> 1805 </td>
+
+    <td class="noinfo"> Starts here </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494558&amp;R=0" target="_blank"> Holyhead </a>
+
+    </td>
+
+    <td class="times"> 1824 </td>
+
+    <td class="ontime"> On time </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494558&amp;R=0" target="_blank"> Birmingham New Street </a>
+
+    </td>
+
+    <td class="times"> 1825 </td>
+
+    <td class="ontime"> On time </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr class="altrows">
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494487&amp;R=0" target="_blank"> Birmingham New Street </a>
+
+    </td>
+
+    <td class="times"> 1825 </td>
+
+    <td class="noinfo"> No report </td>
+
+    <td>
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/train.aspx?T=SHRWBY++&amp;J=3494487&amp;R=0" target="_blank"> Chester </a>
+
+    </td>
+
+    <td class="times"> 1829 </td>
+
+    <td class="noinfo"> No report </td>
+
+    <td class="tocs">
+
+        <a href="http://nrekb.com/tocs/AW.html" target="_blank"> Arriva Trains Wales </a>
+
+    </td>
+
+</tr> <tr>
+
+    <td colspan="7" title="Data Source" class="copy_text">
+
+        <a href="http://www.livedepartureboards.co.uk/ldb/summary.aspx?T=SHR" target="_blank"> Data from National Rail Live Departure Boards </a>
+
+    </td>
+
+</tr> <tr>
+
+    <td colspan="7" title="Data Source" class="copy_text">
+
+        <a href="http://www.atoc.org" target="_blank"> ? Association of Train Operating Companies 2004 </a>
+
+    </td>
+
+</tr> </tbody> </table>
+</div>
+</div>
+    <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 14px; height: 13px; z-index: 4; -moz-user-select: none; position: absolute; cursor: pointer; left: 769px; top: 10px;" src="http://www.google.com/mapfiles/close.gif" height="13" width="14"> </div>
+<div class="noprint" style="position: absolute; z-index: 30000; left: 462px; top: 240px; visibility: visible;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 70px; height: 30px; position: absolute; top: 0px; z-index: 0; -moz-user-select: none; left: 141px;" src="http://www.google.com/mapfiles/iws_nw.png" height="30" width="70">
+<div style="overflow: hidden; position: absolute; height: 30px; top: 0px; z-index: 0; width: 699px; left: 211px;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 640px; height: 30px; position: absolute; z-index: 0; -moz-user-select: none; left: 0px; top: 0px;" src="http://www.google.com/mapfiles/iws_n.png" height="30" width="640"> </div>
+    <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 70px; height: 30px; position: absolute; top: 0px; z-index: 0; -moz-user-select: none; left: 910px;" src="http://www.google.com/mapfiles/iws_ne.png" height="30" width="70">
+<div style="overflow: hidden; position: absolute; top: 30px; z-index: 0; height: 111px; left: 30px; width: 222px;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 360px; height: 280px; position: absolute; z-index: 0; -moz-user-select: none; top: 0px; left: -169px;" src="http://www.google.com/mapfiles/iws_w.png" height="280" width="360"> </div>
+<div style="overflow: hidden; position: absolute; top: 30px; z-index: 0; width: 577px; height: 111px; left: 252px;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 640px; height: 640px; position: absolute; z-index: 0; -moz-user-select: none; left: 0px; top: 0px;" src="http://www.google.com/mapfiles/iws_c.png" height="640" width="640"> </div>
+<div style="overflow: hidden; position: absolute; top: 30px; z-index: 0; height: 111px; left: 829px; width: 444px;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 360px; height: 280px; position: absolute; z-index: 0; -moz-user-select: none; top: 0px; left: -169px;" src="http://www.google.com/mapfiles/iws_e.png" height="280" width="360"> </div>
+    <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 70px; height: 60px; position: absolute; left: 0px; z-index: 0; -moz-user-select: none; top: 141px;" src="http://www.google.com/mapfiles/iws_sw.png" height="60" width="70">
+<div style="overflow: hidden; position: absolute; height: 60px; left: 70px; z-index: 0; width: 141px; top: 141px;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 320px; height: 60px; position: absolute; z-index: 0; -moz-user-select: none; left: 0px; top: 0px;" src="http://www.google.com/mapfiles/iws_s.png" height="60" width="320"> </div>
+    <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 140px; height: 60px; position: absolute; z-index: 0; -moz-user-select: none; left: 211px; top: 141px;" src="http://www.google.com/mapfiles/iws_tap.png" height="60" width="140">
+<div style="overflow: hidden; position: absolute; height: 60px; z-index: 0; left: 351px; width: 448px; top: 141px;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 320px; height: 60px; position: absolute; z-index: 0; -moz-user-select: none; left: 0px; top: 0px;" src="http://www.google.com/mapfiles/iws_s.png" height="60" width="320"> </div>
+    <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 70px; height: 60px; position: absolute; z-index: 0; -moz-user-select: none; top: 141px; left: 799px;" src="http://www.google.com/mapfiles/iws_se.png" height="60" width="70"> </div>
+    <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 350px; height: 30px; position: absolute; -moz-user-select: none; cursor: pointer; left: 514px; top: 508px; z-index: 25008;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/bbc_v2.png" height="30" width="350">     <img class="noprint" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 1px; position: absolute; -moz-user-select: none; left: 514px; top: 508px; z-index: 15000;" src="http://www.blueghost.pwp.blueyonder.co.uk/bg_site/weather/trans.png" height="1" width="1"> </div>
+<div class="noprint" style="cursor: default; font-size: 11px; font-family: Arial,sans serif; -moz-user-select: none; color: black; position: absolute; right: 3px; bottom: 3px;">
+
+    <span> Map data ?2005 Tele Atlas - </span>
+
+    <a style="color: rgb(119, 119, 204);" href="http://www.google.com/help/terms_local.html"> Terms of Use </a>
+
+</div>
+<div class="noprint" style="font-size: 11px; font-family: Arial,sans serif; -moz-user-select: none; cursor: auto; height: 30px; position: absolute; left: 3px; bottom: 1px;">
+
+    <a title="Google Maps" href="http://maps.google.com">     <img class="[object HTMLDocument]" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 62px; height: 30px; -moz-user-select: none;" src="http://www.google.com/mapfiles/poweredby.png" height="30" width="62"> </a>
+
+</div>
+<div style="position: absolute; left: 8px; top: 8px;" class="noprint">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 59px; height: 64px; position: absolute; left: 0px; top: 0px; z-index: 0; -moz-user-select: none;" src="http://www.google.com/mapfiles/panshadow.png" height="64" width="59">     <img title="Go up" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 17px; height: 17px; position: absolute; left: 20px; top: 0px; z-index: 1; -moz-user-select: none; cursor: pointer;" src="http://www.google.com/mapfiles/north.png" height="17" width="17">     <img title="Go right" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 17px; height: 17px; position: absolute; left: 40px; top: 20px; z-index: 1; -moz-user-select: none; cursor: pointer;" src="http://www.google.com/mapfiles/east.png" height="17" width="17">     <img title="Go down" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 17px; height: 17px; position: absolute; left: 20px; top: 40px; z-index: 1; -moz-user-select: none; cursor: pointer;" src="http://www.google.com/mapfiles/south.png" height="17" width="17">     <img title="Go left" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 17px; height: 17px; position: absolute; left: 0px; top: 20px; z-index: 1; -moz-user-select: none; cursor: pointer;" src="http://www.google.com/mapfiles/west.png" height="17" width="17">     <img title="Return to the last result" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 17px; height: 17px; position: absolute; left: 20px; top: 20px; z-index: 1; -moz-user-select: none; cursor: pointer;" src="http://www.google.com/mapfiles/center.png" height="17" width="17">     <img title="Zoom In" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 17px; height: 17px; position: absolute; left: 20px; top: 70px; z-index: 1; -moz-user-select: none; cursor: pointer;" src="http://www.google.com/mapfiles/zoom-plus.png" height="17" width="17">     <img title="Zoom Out" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 17px; height: 17px; position: absolute; left: 20px; top: 260px; z-index: 1; -moz-user-select: none; cursor: pointer;" src="http://www.google.com/mapfiles/zoom-minus.png" height="17" width="17">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 19px; height: 214px; position: absolute; left: 20px; top: 64px; z-index: 0; -moz-user-select: none;" src="http://www.google.com/mapfiles/18slidershadow.png" height="214" width="19">
+<div style="position: absolute; left: 21px; top: 90px; width: 15px; height: 166px;">     <img title="Click to set zoom level" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 15px; height: 166px; position: absolute; left: 0px; top: 0px; z-index: 1; -moz-user-select: none; cursor: pointer;" src="http://www.google.com/mapfiles/18sliderbar.png" height="166" width="15">     <img title="Drag to zoom" style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 22px; height: 14px; z-index: 2; -moz-user-select: none; position: absolute; left: -2px; top: 46px;" src="http://www.google.com/mapfiles/slider.png" height="14" width="22"> </div>
+</div>
+<div class="noprint" style="cursor: default; font-size: 11px; font-family: Arial,sans serif; -moz-user-select: none; height: 19px; width: 229px; position: absolute; right: 7px; top: 7px;">
+<div style="height: 19px; width: 75px; overflow: hidden; position: absolute; top: 0px; left: 0px; cursor: pointer;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 2px; height: 19px; position: absolute; left: 0px; top: 0px; z-index: 0; -moz-user-select: none;" src="http://www.google.com/mapfiles/l5.png" height="19" width="2">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 69px; height: 19px; position: absolute; left: 2px; top: 0px; z-index: 0; -moz-user-select: none;" src="http://www.google.com/mapfiles/m5.png" height="19" width="69">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 4px; height: 19px; z-index: 0; -moz-user-select: none; position: absolute; top: 0px; right: 0px;" src="http://www.google.com/mapfiles/r5.png" height="19" width="4">
+<div style="position: absolute; left: 2px; width: 69px; right: 0px; height: 19px; font-size: 12px; text-align: center; padding-top: 1px; z-index: 1; font-weight: bold;"> Map </div>
+</div>
+<div style="height: 19px; width: 75px; overflow: hidden; position: absolute; top: 0px; left: 77px; cursor: pointer;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 2px; height: 19px; position: absolute; left: 0px; top: 0px; z-index: 0; -moz-user-select: none;" src="http://www.google.com/mapfiles/l1.png" height="19" width="2">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 69px; height: 19px; position: absolute; left: 2px; top: 0px; z-index: 0; -moz-user-select: none;" src="http://www.google.com/mapfiles/m1.png" height="19" width="69">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 4px; height: 19px; z-index: 0; -moz-user-select: none; position: absolute; top: 0px; right: 0px;" src="http://www.google.com/mapfiles/r1.png" height="19" width="4">
+<div style="position: absolute; left: 2px; width: 69px; right: 0px; height: 19px; font-size: 12px; text-align: center; padding-top: 1px; z-index: 1; font-weight: normal;"> Satellite </div>
+</div>
+<div style="height: 19px; width: 75px; overflow: hidden; position: absolute; top: 0px; left: 154px; cursor: pointer;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 2px; height: 19px; position: absolute; left: 0px; top: 0px; z-index: 0; -moz-user-select: none;" src="http://www.google.com/mapfiles/l1.png" height="19" width="2">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 69px; height: 19px; position: absolute; left: 2px; top: 0px; z-index: 0; -moz-user-select: none;" src="http://www.google.com/mapfiles/m1.png" height="19" width="69">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 4px; height: 19px; z-index: 0; -moz-user-select: none; position: absolute; top: 0px; right: 0px;" src="http://www.google.com/mapfiles/r1.png" height="19" width="4">
+<div style="position: absolute; left: 2px; width: 69px; right: 0px; height: 19px; font-size: 12px; text-align: center; padding-top: 1px; z-index: 1; font-weight: normal;"> Hybrid </div>
+</div>
+</div>
+<div class="noprint" title="Scale at the center of the map" style="cursor: default; font-size: 11px; font-family: Arial,sans serif; -moz-user-select: none; height: 26px; position: absolute; left: 71px; bottom: 5px; width: 90px;">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 4px; height: 26px; position: absolute; left: 0px; top: 1px; z-index: 0; -moz-user-select: none;" src="http://www.google.com/mapfiles/leftbar.png" height="26" width="4">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; height: 4px; position: absolute; left: 3px; top: 12px; z-index: 0; -moz-user-select: none; width: 86px;" src="http://www.google.com/mapfiles/horibar400.png" height="4" width="86">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 4px; height: 12px; position: absolute; top: 1px; z-index: 1; -moz-user-select: none; left: 70px;" src="http://www.google.com/mapfiles/topbar.png" height="12" width="4">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 4px; height: 12px; position: absolute; top: 15px; z-index: 1; -moz-user-select: none; left: 86px;" src="http://www.google.com/mapfiles/bottombar.png" height="12" width="4">     <img style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 1px; height: 4px; position: absolute; top: 12px; z-index: 1; -moz-user-select: none; left: 89px;" src="http://www.google.com/mapfiles/horibarcap.png" height="4" width="1">
+<div style="position: absolute; cursor: default; font-size: 11px; font-family: Arial,sans serif; -moz-user-select: none; left: 8px; bottom: 15px; color: black; width: 70px;"> 1 mi </div>
+<div style="position: absolute; cursor: default; font-size: 11px; font-family: Arial,sans serif; -moz-user-select: none; left: 8px; top: 16px; color: black; width: 86px;"> 2 km </div>
+</div>
+</div>
+
+<!--Access Keys-->
+
+    <a id="ak_w" accesskey="w" href="javascript:goTo('weather');" title="Show Weather"> </a>
+
+    <a id="ak_t" accesskey="t" href="javascript:goTo('traffic');" title="Show Road Traffic"> </a>
+
+    <a id="ak_r" accesskey="r" href="#" title="Show Rail"> </a>
+
+    <a id="ak_p" accesskey="p" href="javascript:getPermalink();" title="Permalink"> </a>
+
+    <a id="ak_reset" accesskey="x" href="javascript:zoomOut();" title="Reset Viewpoint"> </a>
+
+    <a id="ak_h" accesskey="h" href="javascript:openHelp();" title="Help"> </a>
+
+    <a id="ak_a" accesskey="a" href="javascript:openAbout();" title="About"> </a>
+
+    <img src="http://www.google.com/mapfiles/transparent.gif" style="position: absolute; visibility: hidden; top: -200px; left: -200px;">
+    <img src="http://maps.google.com/maps?ll=52.711027,-2.749242&amp;spn=0.158909,0.434647&amp;vp=52.711027,-2.749242&amp;z=5&amp;key=ABQIAAAA8YgzjtSJZhw4YnyN8zypJxRDjjN5V4nWNRKqqPVEKlMJGmfzHxRUs5-AILt1I8LJPTx3Ley-b_MktA" style="position: absolute; visibility: hidden; top: -10px; left: -10px; width: 1px; height: 1px;">
+<div style="position: absolute; left: -1280px; top: -1024px; width: 1280px; height: 1024px; visibility: hidden;">
+<div style="position: absolute; left: 15px; top: 15px; z-index: 3; cursor: auto; visibility: hidden; width: auto; height: auto;"> </div>
+</div>
+
+
+</body>

@@ -1,0 +1,379 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>About</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<div class="about_text">
+<h1>Google Local UK Transport &amp; Weather Overlay </h1>
+
+<div class="announce">
+<strong>NEW: 11 March 2011</strong> - Got some travel data back now on the web for England thanks to the Highways Agency Website RSS Feeds!</div><br />
+
+<div class="announce">
+<strong>NEW: 7 March 2011</strong> - Apologies for having to take the site down, but the BBC have withdrawn the feeds I used without notice to developers - they did promote their use and then didnt bother to tell us they were turning them off after actually turning them off. Until I can source similar data, and write something to convert it - and find the time to do all this then there is little point in offering you anything. I haven't the time to write messages on all the scripts/files you may have accessed so apologies for the genreal redirect here but it was the quickest thing I could come up with. Boycott the BBC!</div><br />
+
+<div class="announce">
+<strong>NEW: 16 May 2009</strong>When mousing over traffic delays if there is more than one point of data available, then the map will zoom in and show you 
+the stretch of road affected (hopefully).</div>
+<br />
+<div class="announce">
+<strong>22 January 2007</strong> I've been having loads of problems since my webhost updated from a PHP4 + PHP 5 (which I was using) combo to a single PHP 5 implementation. Sandly this broke my data fetching stuff so lost of the site didn't work. All should be back to normal now!
+</a></div>
+<br />
+<div class="announce">
+<strong>30 May 2006</strong> The site has had a massive overhaul over the past few days, see the <a href="#clog">changelog</a> for more details.
+</a></div>
+<br />
+<div class="announce">
+<strong>29 March 2006</strong> You can now get travel data direct on google maps (in a limted form). See <a href="http://bbc.blueghost.co.uk/about_geoRss.html">http://bbc.blueghost.co.uk/about_geoRss.html</a> for more details.</div>
+<br />
+<div class="announce"><strong>23 October:</strong>This data may not have been updated for the past few days because some of the BBC data is misssing (certain train company delay files) - this caused the update script to fail. I have since fixed this</div>
+<br />
+<div class="announce">
+<strong>NEW: 14 October</strong> - You can now get this overlay on Google Earth. <a href="http://bbc.blueghost.co.uk/earth/">Click here for more info.
+</a></div>
+<p>Any beta version mentioned here can be bookmarked if you wish, but may occasionally fail to work due to testing, or be superceeded. </p>
+<p>This site overlays various bits of <a href="#data" title="Find out more on the data used"><strong>data</strong></a> onto a <a href="http://maps.google.co.uk/" target="_blank"><strong>Google Map.</strong></a></p>
+<p>Designed for Resoulitons 1024 x 768 or better, but should work on lower resolutions if necessary. </p>
+<p>Any Comments then email me @ <img src="http://www.blueghost.co.uk/grease/email.png" width="320" height="30" alt="My Email Address" style="vertical-align:middle;" /></p>
+<h4><a href="http://bbc.blueghost.co.uk">Go Back</a></h4>
+<hr />
+<h2>Planned Features</h2>
+<ul>
+  <li><s>Move more data to the side bar (cookie preference allows you to choose whether to keep on-map pop-ups)
+    </s>
+    <ul>
+      <li><s>see under <em><strong>&quot;Options&quot;</strong></em> on side bar to set/unset </s></li>
+      <li><s>I plan to offer a sidebar (similar to <a href="http://bbc.blueghost.co.uk/site31.php" title="Beta Site"><strong>http://bbc.blueghost.co.uk/site31.php</strong></a>), and a non side-bar version (similar to <a href="http://bbc.blueghost.co.uk/site22.php" title="Beta Site"><strong>http://bbc.blueghost.co.uk/site22.php</strong></a>). Hopefully both will have similar or near identicial features just displayed differently
+        </s>
+        <ul>
+          <li><s>Both Version are near identical now in features</s></li>
+          </ul>
+      </li>
+      <li>Sidebar/ Non-sidebar now obsolete, just 1 version - <strong>30 May 2006 </strong></li>
+    </ul>
+  </li>
+  <li>Permalinks to any view
+    <ul>
+      <li>  try the <strong>Permalink</strong> link to the top left of each webpage </li>
+      <li><s>I will add the permalink feature to the non-sidebar version sonn once I get it finished </s></li>
+      <li><a href="guide_to_permalinks.html"><strong>See this page on how to use the permalinks </strong></a></li>
+      <li>need to track open traffic markers</li>
+      <li>need to pop-up weather markers if selected </li>
+    </ul>
+  </li>
+  <li>Motorway data
+    <ul>
+      <li> <s>added to <a href="http://bbc.blueghost.co.uk/site31.php" title="Beta Site"><strong><s>http://bbc.blueghost.co.uk/site31.php</s></strong></a>
+        </s>
+        <ul>
+          <li>added to both versions now </li>
+        </ul>
+      </li>
+      <li>see option <em><strong>&quot;Show Motorway Delays&quot;</strong></em> on side bar under <em><strong>&quot;Options&quot;</strong></em> for the sidebar version</li>
+      <li>see option <em><strong>&quot;Show Motorway Delays&quot;</strong></em> on the navigation bar at the top of the page while <strong>&quot;Traffic&quot;</strong> is selected</li>
+    </ul>
+  </li>
+  <li>Railways: Live Departure Board Info
+    <ul>
+      <li>added for some of my local stations in shropshire - <a href="ldb_eg.html"><strong>see this page for an example of how it works</strong></a> </li>
+      <li><a href="http://bbc.blueghost.co.uk/site31.php" title="Beta Site"><strong><s>http://bbc.blueghost.co.uk/site31.php</s></strong></a><s>, not on the non-sidebar version yet</s>        
+        <ul>
+          <li>viewable in both versions now </li>
+        </ul>
+      </li>
+      <li>select railways then click on the markers 
+        <ul>
+          <li>NB. This works better in Firefox, <a href="ldb_eg.html"><strong>see this page for an example</strong></a></li>
+          <li>And looks terrible in Internet Explorer when there are no trains. </li>
+        </ul>
+      </li>
+      </ul>
+  </li>
+  <li>Scrolling the map in Internet Explorer seems sluggish compared with Firefox
+    <ul>
+      <li>Need to identify + fix problem
+        <ul>
+          <li>Some work done in <strong>Bug Fix 30th July PM</strong> to address the problem</li>
+          <li>Still apparent - <strong>30 May 2006</strong> </li>
+        </ul>
+      </li>
+      </ul>
+  </li>
+  <li><s>Optimised version of each overlay
+    </s>
+    <ul>
+      <li><s>Each overlay has it's own page, the current script contains the javascript for all overlays - hence it can be slow</s></li>
+      <li><s>Intended for:
+        </s>
+        <ul>
+          <li><s>use when speed is not essential to the user</s></li>
+          <li><s>if they want to just bookmark a permalink for quick viewing of a single location and overlay</s></li>
+          </ul>
+      </li>
+      <li>This option had now been dismissed completely :) </li>
+    </ul>
+  </li>
+  <li><s>More data feeds from the <a href="http://backstage.bbc.co.uk/" target="_blank"><strong>bbc</strong></a> &amp; elsewhere </s>
+    <ul>
+      <li><s>News Feeds:
+        </s>
+        <ul>
+          <li><s><a href="http://backstage.bbc.co.uk/data/NewsFeeds?v=cso" target="_blank"><strong>BBC Local and National</strong></a> <strong>- Soon </strong></s></li>
+          <li><s>Other News Sites <strong>- Later </strong></s></li>
+          </ul>
+      </li>
+      <li><s>Sports Feeds
+        </s>
+        <ul>
+            <li><s><a href="http://backstage.bbc.co.uk/data/SportFeeds?v=3u3" target="_blank"><strong>BBC  National</strong></a> <strong>- Later </strong></s></li>
+            <li><s>Specialised feeds for sports such as: <strong>- Much Later</strong>
+              </s>
+              <ul>
+                <li><s>May be problematic - see <a href="http://backstage.bbc.co.uk/ideas/archives/2005/05/league_tables.html" target="_blank"><strong>http://backstage.bbc.co.uk/ideas/archives/2005/05/league_tables.html</strong></a></s></li>
+                  <li><s>football: combine travel/weather/fixture info for a particular team</s></li>
+                  <li><s>cricket: weather/news/travel for a particular test match (or county)</s></li>
+                  <li><s>rugby: similar to football idea - although I don't follow it some may find it useful </s></li>
+              </ul>
+            </li>
+          </ul>
+      </li>
+      <li>Haven't got the time to implement any of these ideas any more </li>
+    </ul>
+  </li>
+  </ul>
+<hr />
+<h2 id="clog">Changelog</h2>
+<p>
+<div class="announce">
+<p><a>Traffic Lines</a><br />
+  ----------------------------<br />
+  <em>16 May 2009</em><br />
+  -----------------------------<br />
+  When mousing over traffic alert markers, if there is enough data available the map will try to show the stretch of road affected by the delays<br />
+  ----------------------------<br />
+  </p>
+ </div>
+ <br />
+ <div class="announce">
+<strong>NEW: 14 October</strong> - You can now get this overlay on Google Earth. <a href="http://bbc.blueghost.co.uk/earth/">Click here for more info.
+</a>
+</div><br />
+<div class="announce">
+<a>Town Locating</a><br />
+  ----------------------------<br />
+  <em>09 August 2006</em><br />
+  -----------------------------<br />
+  Thanks to the <a href="http://code.google.com/apis/ajaxsearch/" target="_blank">Google AJAX Search API </a>you can now do UK Geocoding of things like post codes and town/city names.<br />
+  So I decided to update my site to include a town/post code searcher<br />
+  Its located on the right hand side menu, enter a town/post code and then press enter, it will return some search results and just click a result to add it to the map<br />
+  ----------------------------<br />
+</div><br />
+<div class="announce">
+<a>Long Time No See</a><br />
+  ----------------------------<br />
+  <em>30 May 2006</em><br />
+  -----------------------------<br />
+  Well its been 7 months! Finally got round to updating to use the newer Goolge Maps API 2, I also took the time to redesign the site.<br />
+  Its currently in testing, but seems to be mostly working<br />
+  As usual it works best in Firefox, as this is what I use to test it in. Use any other browser at your own risk!<br />
+Both sites (sidebar &amp; non sidebar) are now one. <br />
+</div><br />
+<div class="announce">
+    <a>Software Update</a><br />
+  ----------------------------<br />
+  <em>23 October 2005 PM</em><br />
+  -----------------------------<br />
+  Updated to use the GxMarker class when necessary. <a href="http://groups.google.com/group/Google-Maps-API/browse_thread/thread/a9661be918e6ec14/a9b18d797300ecce?q=tooltip&amp;rnum=2&amp;hl=en#a9b18d797300ecce" target="_blank">See this post on Google Groups for more info</a>.<br />
+  </div><br />
+  <div class="announce">
+  <a>Backend Update</a><br />
+  ----------------------------<br />
+    <em>16 October 2005 PM</em><br />
+  -----------------------------<br />
+  Few backend optimisations<br />
+  Added <a href="http://www.bbc.co.uk/travelnews/xml/tpegml_en/pti.xml" target="_blank">PTI feed</a> for rail delays, don't know why it wasn't there before<br />
+  ----------------------------<br />
+  </div><br />
+  <div class="announce">
+  <a href="http://bbc.blueghost.co.uk/site34.php" target="_blank">Version 0.3.4 (sidebar)</a><br />
+  ----------------------------<br />
+    <em>11 October 2005 PM</em><br />
+  -----------------------------<br />
+  Added Search Box to the top right hand side<br />
+  Works for Weather Locations and Travel Data (not rail)<br />
+  It works using AJAX so just type and see the results in the sidebar<br />
+  The link in the sidebar will take to you to the relevant location - you still have to click the marker yourself at present<br />
+  ----------------------------<br />
+  </div><br />
+  <div class="announce">
+    <a href="http://bbc.blueghost.co.uk/site24.php" target="_blank">Version 0.2.4 (non-sidebar)</a> & <a href="http://bbc.blueghost.co.uk/site32.php" target="_blank">Version 0.3.2 (Sidebar)</a><br />
+  ----------------------------<br />
+    <em>31st July 2005 PM</em><br />
+  -----------------------------<br />
+  Moved most common javascript to common.js file<br />
+  Optimised some other (duplicated) code to take up less space<br />
+  ----------------------------<br />
+  </div><br />
+  <div class="announce">
+    <strong>Bug Fix</strong><br />
+  ----------------------------<br />
+    <em>30th July 2005 PM</em><br />
+  -----------------------------<br />
+  Only a few lines changed to improve some errors with rail data pages<br />
+  Only moves logo (weather.com/bbc) at end of moving<br />
+  -----------------------------<br />
+  </div><br />
+  <div class="announce">
+    <a href="http://bbc.blueghost.co.uk/site23.php" target="_blank">Version 0.2.3 (non-sidebar)</a> & <a href="http://bbc.blueghost.co.uk/site31.php" target="_blank">Version 0.3.1 (Sidebar)</a><br />
+  ----------------------------<br />
+    <em>27th July 2005 PM</em><br />
+  -----------------------------<br />
+  Redesign on the top navigation bar<br />
+  Can now see live departure boards and motorways in non-sidebar version.<br />
+  Moved Default Viewpoint up to include more of Scotland<br />
+  -----------------------------<br />
+  </div><br />
+  <div class="announce">
+    <a href="http://bbc.blueghost.co.uk/site22.php" target="_blank">Version 0.2.2</a><strong> - legacy site (should still work) </strong><br />
+  ----------------------------<br />
+    <em>26th July 2005 PM</em><br />
+  -----------------------------<br />
+  Added Permalink feature to non-side bar version - <a href="guide_to_permalinks.html">See this page on how to use the permalinks</a><br />
+  Few optimisations<br />
+  -----------------------------<br />
+  </div><br />
+  <div class="announce">
+    <a href="http://bbc.blueghost.co.uk/site21.php" target="_blank">Version 0.2.1</a><strong>- legacy site (should still work) </strong><br />
+  ----------------------------<br />
+    <em>23rd July 2005 PM</em><br />
+  -----------------------------<br />
+  Updated top-navigation bar to one line as this works better in Internet Explorer<br />
+  Hybrid Map type (see Top right of map) - added by Google<br />
+  Few stylesheet/html updates brought in from Beta Version 0.3<br />
+  Validates to W3C XHTML 1.0 Transitional, for whatever reason adding the DOCTYPE to the html breaks the page, but the following link confirms the validation: <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fbbc.blueghost.co.uk%2Fsite21.php&charset=%28detect+automatically%29&doctype=XHTML+1.0+Transitional" target="_blank">http://validator.w3.org/check?uri=http%3A%2F%2Fbbc.blueghost.co.uk%2Fsite21.php&charset=%28detect+automatically%29&doctype=XHTML+1.0+Transitional</a><br />
+  -----------------------------<br />
+  </div><br />
+  <div class="announce">
+    <a href="http://bbc.blueghost.co.uk/site3.php" title="Beta Site" target="_blank">Version 0.3 Beta Released</a> <strong>- legacy site (should still work) </strong><br />
+  ----------------------------<br />
+    <em>17th July 2005 PM</em> <br />
+  -----------------------------<br />
+  Only linked from here, not main site yet: <a href="http://bbc.blueghost.co.uk/site3.php" title="Beta Site">http://bbc.blueghost.co.uk/site3.php</a><br />
+  Adds Side bar.<br />
+  Adds Motorways to UK Traffic (option in sidebar).<br />
+  ----------------------------<br />
+  </div><br />
+  <div class="announce">
+    <strong>Backend Changed</strong><br />
+  ----------------------------<br />
+    <em>17th July 2005 PM</em><br />
+  -----------------------------<br />
+  Data is grabbed using automatic cron jobs. <br />
+  Weather search data cached. <br />
+  Hopefully quicker???<br />
+  ----------------------------<br />
+  </div><br />
+  <div class="announce">
+    <strong>Version 0.2 - Greasemonkey Script</strong><br />
+  ----------------------------<br />
+    <em>16th July 2005 PM</em><br />
+  -----------------------------<br />
+  Added a Traffic Data Overlay to <a href="http://maps.google.co.uk" target="_blank">http://maps.google.co.uk</a> using <a href="http://greasemonkey.mozdev.org/" target="_blank">Greasemonkey</a> extenstion for <a href="http://www.spreadfirefox.com/?q=affiliates&id=69594&t=84" target="_blank">Firefox</a>,<br />
+  See <a href="http://www.blueghost.co.uk/gmaps_uk_traffic.html" target="_blank">http://www.blueghost.co.uk/gmaps_uk_traffic.html</a> for more<br />
+  ----------------------------<br />
+  </div><br />
+  <div class="announce">
+    <a href="http://bbc.blueghost.co.uk/site2.php" target="_blank">Version 0.2</a> <strong>- legacy site (should still work) </strong><br />
+  ----------------------------<br />
+    <em>14th July 2005 PM</em><br />
+  -----------------------------<br />
+  Updated Traffic Data System and added some (Javascript)caching for traffic and rail data<br />
+  -----------------------------<br />
+  </div><br />
+  <div class="announce">
+    <a href="http://bbc.blueghost.co.uk/site.php" target="_blank">Version 0.1</a><strong> - legacy site (should still work) </strong><br />
+  ----------------------------<br />
+    <em>7th July 2005</em><br />
+  -----------------------------<br />
+  Added BBC Travel Data<br />
+  -----------------------------<br />
+  </div><br />
+  <div class="announce">
+    <strong>Version 0.01</strong> - no longer available <br />
+  ----------------------------<br />
+    <em>30th June 2005</em><br />
+  -----------------------------<br />
+  Initial release: Only weather data
+  </div><br />
+<hr />
+<a id="data"></a>
+<h1>About Weather Data</h1>
+<hr />
+<p>This site gets weather data from <a href="http://www.weather.com/?prod=xoap&par=1009003705" target="_blank">weather.com&reg;</a> and displays it on the map.<br />
+  You can click on the weather icons to show more information.<br/>
+  The links provided here are required to fit in with <a href="http://www.weather.com/?prod=xoap&par=1009003705" target="_blank">weather.com&reg;</a> terms and conditions although they are pointless to UK users as they only work for US locations.<br/>
+  You can drag the map by holding the mouse down on it and dragging it around. As you zoom in more weather stations appear.<br/>
+  7 day data is updated every 12 hours, current data is updated every 30 mins.<br />
+  Links are provided to the <a href="http://www.bbc.co.uk/weather" target="_blank">BBC Weather site</a> for each location.<br />
+  The Map is provided by <a href="http://maps.google.co.uk" target="_blank">Google Maps</a> and uses their Google Maps API.</p>
+<p>The data grabbing has been optimised by using a cron job to get the current data every hour, and 10-day data every 12 hours. It also caches search results for the same period. This should mean the pages load more quickly due to the fact they don't need to check to see if they are getting up-to-date data. </p>
+<p>If searching through the 10 day forecast and you stay at the same location the data should load almost instantaneously due to the fact it will cache the xml javascript object without refetching it from the server.</p>
+<p>*** The bbc now provide rss feeds for weather, but the data is in such a poor format compared to the weather.com I have decided to keep with the weather.com feeds until the bbc sort out some better format for their feeds *** </p>
+<hr />
+<h1>About Traffic Data</h1>
+<hr />
+<p><strong>Work in Progress!</strong><br />
+  You select the county/area by clicking on the icons on the map, you can then show/hide the delays/roadworks in that area.
+  You can view as many areas as you want, but the more you do the more memory is used.<br />
+  This Data come from the <a target="_blank" href="http://backstage.bbc.co.uk/data/TravelFeeds?v=138u">BBC's TPEG Travel Feeds</a>.
+  They are converted to an easier format via PHP so that they can be easily parsed in Javascript.<br />
+  I convert them from TPEG files as the RSS feeds don't contain Geographical co-ordinates to position reports on the Google Map.<br />
+  The Converted files are visible @ <a href="http://bbc.blueghost.co.uk/travel_data/" target="_blank">http://bbc.blueghost.co.uk/travel_data/</a>  </p>
+<p>The data is automatically updated every <s>hour</s> 30 minutes, <s>i may cut this to half an hour depending on how much bandwidth it takes up</s> - DONE
+</p>
+<h2>Limitations/Bugs</h2>
+<ul>
+	<li>When reloading this map it forgets the all locations are now hidden, any previously unhidden will still require you to press "Hide Delays" before pressing "Show Delays"</li>
+    <li><s>Not all locations have meaningful names - need to have extra database field to store it.</s>
+      <ul>
+        <li>DONE - separate field for display names (some scripts need updating at present to show this) </li>
+      </ul>
+    </li>
+    <li><s>Doesn't hold all locations, I haven't added them all yet</s>. Un-added list @ <a href="http://bbc.blueghost.co.uk/un_added_locs.htm" target="_blank">http://bbc.blueghost.co.uk/un_added_locs.htm</a>
+      <ul>
+        <li>Most Now Added.</li>
+      </ul>
+    </li>
+  </ul>
+ <p>
+supported by <a target="_blank" href="http://backstage.bbc.co.uk/">backstage.bbc.co.uk"</a></p>
+<hr />
+<h1>About Railway Data</h1>
+<hr />
+<p>This Data come from the <a target="_blank" href="http://backstage.bbc.co.uk/data/TravelFeeds?v=138u">BBC's TPEG Travel Feeds</a>.
+  They are converted to an easier format via PHP so that they can be easily parsed in Javascript.<br />
+  I convert them from TPEG files as the RSS feeds don't contain Geographical co-ordinates to position reports on the Google Map.<br />
+  The Converted files are visible @ <a href="http://bbc.blueghost.co.uk/travel_data/" target="_blank">http://bbc.blueghost.co.uk/travel_data/</a>  </p>
+<p>The data is automatically updated every <s>hour</s> 30 minutes, <s>i may cut this to half an hour depending on how much bandwidth it takes up</s> - DONE </p>
+<p>Live Departure Board Data is taken from the National Rail Website. The relevant Data is extracted (firefox only currently) and displayed in a map pop-up. </p>
+<p>
+    supported by <a target="_blank" href="http://backstage.bbc.co.uk/">backstage.bbc.co.uk</a></p>
+<hr />
+<h1>About Live Departure Boards</h1>
+<hr />
+<p>This is a manual process to add railway stations to my database. <a href="http://pritch.blueghost.co.uk/wordpress/uk-train-stations-locations/" target="_blank">See this page on how to add your local station</a> : <a href="http://pritch.blueghost.co.uk/wordpress/uk-train-stations-locations/" target="_blank">http://pritch.blueghost.co.uk/wordpress/uk-train-stations-locations/</a></p>
+<p>I use the virgin live departure boards as they still use the old national rail interface (although with Virgin Branding). I prefer the old style as it is easier to understand and contains no adverts. The new national rail website is harder to follow and contains adverts hence I don't link to it.</p>
+<p>
+  supported by <a target="_blank" href="http://www.virgintrains.co.uk/travelling_with_us/our_network/departure_boards/default.aspx">Virgin Trains Live Departure Boards </a></p>
+<p>*** You can now use the search function to find any UK train station *** </p>
+<hr />
+<p>Any Comments then email me @ <img src="http://www.blueghost.co.uk/grease/email.png" width="320" height="30" alt="My Email Address" style="vertical-align:middle;" /></p>
+<h4><a href="http://bbc.blueghost.co.uk">Go Back</a></h4>
+</div>
+</body>
+</html>

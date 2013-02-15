@@ -1,0 +1,18 @@
+#tLinks {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#tLinks a {
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	display: block;
+}
+#tLinks a:hover {
+	color: #0066FF;
+	text-decoration: underline;
+}
+body {
+	background-color: #ECE9D8;
+}

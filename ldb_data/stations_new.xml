@@ -1,0 +1,2523 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ldb_data>
+	<station name="Abbey Wood (London)" code="ABW" lat="51.490957" lon="0.120287"/>
+	<station name="Aber" code="ABE" lat="51.575382" lon="-3.230133"/>
+	<station name="Abercynon North" code="ABR" lat="51.644873" lon="-3.326313"/>
+	<station name="Abercynon South" code="ACY" lat="51.643007" lon="-3.329765"/>
+	<station name="Aberdare" code="ABA" lat="51.714723" lon="-3.441704"/>
+	<station name="Aberdeen" code="ABD" lat="57.143591" lon="-2.098804"/>
+	<station name="Aberdour" code="AUR" lat="56.054604" lon="-3.300914"/>
+	<station name="Aberdovey" code="AVY" lat="52.544322" lon="-4.055988"/>
+	<station name="Abererch" code="ABH" lat="52.898292" lon="-4.37505"/>
+	<station name="Abergavenny" code="AGV" lat="51.81767" lon="-3.008827"/>
+	<station name="Abergele and Pensarn" code="AGL" lat="53.294721" lon="-3.582118"/>
+	<station name="Aberystwyth" code="AYW" lat="52.41396" lon="-4.081767"/>
+	<station name="Accrington" code="ACR" lat="53.752973" lon="-2.369535"/>
+	<station name="Achanalt" code="AAT" lat="57.609698" lon="-4.913899"/>
+	<station name="Achnasheen" code="ACN" lat="57.579663" lon="-5.071906"/>
+	<station name="Achnashellach" code="ACH" lat="57.482114" lon="-5.332886"/>
+	<station name="Acklington" code="ACK" lat="55.306515" lon="-1.651604"/>
+	<station name="Acle" code="ACL" lat="52.635271" lon="1.54294"/>
+	<station name="Acocks Green" code="ACG" lat="52.449472" lon="-1.819475"/>
+	<station name="Acton Bridge" code="ACB" lat="53.266361" lon="-2.602809"/>
+	<station name="Acton Central" code="ACC" lat="51.508368" lon="-0.262593"/>
+	<station name="Acton Main Line" code="AML" lat="51.517226" lon="-0.266578"/>
+	<station name="Adderley Park" code="ADD" lat="52.48305" lon="-1.855973"/>
+	<station name="Addiewell" code="ADW" lat="55.843284" lon="-3.606327"/>
+	<station name="Addlestone" code="ASN" lat="51.372723" lon="-0.484841"/>
+	<station name="Adisham (Kent)" code="ADM" lat="51.241244" lon="1.198664"/>
+	<station name="Adlington (Cheshire)" code="ADC" lat="53.319924" lon="-2.133369"/>
+	<station name="Adlington (Lancs)" code="ADL" lat="53.612745" lon="-2.602949"/>
+	<station name="Adwick" code="AWK" lat="53.57211" lon="-1.180048"/>
+	<station name="Aigburth" code="AIG" lat="53.364596" lon="-2.927386"/>
+	<station name="Ainsdale" code="ANS" lat="53.602069" lon="-3.042397"/>
+	<station name="Aintree" code="AIN" lat="53.473988" lon="-2.956734"/>
+	<station name="Airbles" code="AIR" lat="55.782089" lon="-3.99464"/>
+	<station name="Airdrie" code="ADR" lat="55.863922" lon="-3.981648"/>
+	<station name="Albany Park" code="AYP" lat="51.435277" lon="0.125844"/>
+	<station name="Albrighton" code="ALB" lat="52.638071" lon="-2.268906"/>
+	<station name="Alderley Edge" code="ALD" lat="53.303711" lon="-2.236855"/>
+	<station name="Aldermaston" code="AMT" lat="51.401746" lon="-1.138185"/>
+	<station name="Aldershot" code="AHT" lat="51.246124" lon="-0.760218"/>
+	<station name="Aldrington" code="AGT" lat="50.836086" lon="-0.182673"/>
+	<station name="Alexandra Palace" code="AAP" lat="51.597864" lon="-0.1205"/>
+	<station name="Alexandra Parade" code="AXP" lat="55.863417" lon="-4.210828"/>
+	<station name="Alexandria" code="ALX" lat="55.985161" lon="-4.577097"/>
+	<station name="Alfreton and Mansfield Parkway" code="ALF" lat="53.100719" lon="-1.369738"/>
+	
+	<station name="Allerton" code="ALE" lat="53.35855" lon="-2.890005"/>
+	<station name="Alness" code="ASS" lat="57.694346" lon="-4.250389"/>
+	<station name="Alnmouth" code="ALM" lat="55.392753" lon="-1.636546"/>
+	<station name="Alresford (Essex)" code="ALR" lat="51.8542" lon="0.996111"/>
+	<station name="Alsager" code="ASG" lat="53.093018" lon="-2.298517"/>
+	<station name="Althorne" code="ALN" lat="51.647863" lon="0.751759"/>
+	<station name="Althorpe" code="ALP" lat="53.585505" lon="-0.732965"/>
+	<station name="Altnabreac" code="ABC" lat="58.388461" lon="-3.70587"/>
+	<station name="Alton" code="AON" lat="51.151958" lon="-0.966634"/>
+	<station name="Altrincham" code="ALT" lat="53.387602" lon="-2.347405"/>
+	<station name="Alvechurch" code="ALV" lat="52.347318" lon="-1.96799"/>
+	<station name="Ambergate" code="AMB" lat="53.059538" lon="-1.479934"/>
+	<station name="Amberley" code="AMY" lat="50.896536" lon="-0.541293"/>
+	<station name="Amersham (LRT)" code="AMR" lat="51.674041" lon="-0.607726"/>
+	<station name="Ammanford" code="AMF" lat="51.795712" lon="-3.996695"/>
+	<station name="Ancaster" code="ANC" lat="52.987739" lon="-0.533755"/>
+	<station name="Anderston" code="AND" lat="55.860222" lon="-4.270603"/>
+	<station name="Andover" code="ADV" lat="51.211532" lon="-1.49225"/>
+	<station name="Anerley" code="ANY" lat="51.412315" lon="-0.065789"/>
+	<station name="Angel Road" code="AGR" lat="51.612153" lon="-0.049349"/>
+	<station name="Angmering" code="ANG" lat="50.816247" lon="-0.489321"/>
+	<station name="Annan" code="ANN" lat="54.983216" lon="-3.26264"/>
+	<station name="Anniesland" code="ANL" lat="55.889221" lon="-4.321549"/>
+	<station name="Ansdell and Fairhaven" code="AFV" lat="53.741578" lon="-2.993529"/>
+	<station name="Appleby" code="APP" lat="54.580425" lon="-2.48644"/>
+	<station name="Appledore (Kent)" code="APD" lat="51.033658" lon="0.817358"/>
+	<station name="Appleford" code="APF" lat="51.639435" lon="-1.242327"/>
+	<station name="Appley Bridge" code="APB" lat="53.578657" lon="-2.719691"/>
+	<station name="Apsley" code="APS" lat="51.731996" lon="-0.462381"/>
+	<station name="Arbroath" code="ARB" lat="56.559302" lon="-2.589733"/>
+	<station name="Ardgay" code="ARD" lat="57.881161" lon="-4.36222"/>
+	<station name="Ardlui" code="AUI" lat="56.301938" lon="-4.721519"/>
+	<station name="Ardrossan Harbour" code="ADS" lat="55.640262" lon="-4.822385"/>
+	<station name="Ardrossan South Beach" code="ASB" lat="55.641514" lon="-4.801967"/>
+	<station name="Ardrossan Town" code="ADN" lat="55.640095" lon="-4.812307"/>
+	<station name="Ardwick" code="ADK" lat="53.471546" lon="-2.214724"/>
+	<station name="Argyle Street" code="AGS" lat="55.857177" lon="-4.250561"/>
+	<station name="Arisaig" code="ARG" lat="56.912969" lon="-5.839752"/>
+	<station name="Arlesey" code="ARL" lat="52.025545" lon="-0.266317"/>
+	<station name="Armathwaite" code="AWT" lat="54.809006" lon="-2.77182"/>
+	<station name="Arnside" code="ARN" lat="54.20251" lon="-2.827799"/>
+	<station name="Arram" code="ARR" lat="53.884125" lon="-0.426395"/>
+	<station name="Arrochar and Tarbet" code="ART" lat="56.203307" lon="-4.722952"/>
+	<station name="Arundel" code="ARU" lat="50.848038" lon="-0.546274"/>
+	<station name="Ascot (Berks)" code="ACT" lat="51.40619" lon="-0.676505"/>
+	<station name="Ascott-Under-Wychwood" code="AUW" lat="51.867202" lon="-1.563875"/>
+	<station name="Ash" code="ASH" lat="51.249542" lon="-0.712741"/>
+	<station name="Ash Vale" code="AHV" lat="51.272248" lon="-0.721874"/>
+	<station name="Ashburys" code="ABY" lat="53.471802" lon="-2.195236"/>
+	<station name="Ashchurch For Tewkesbury" code="ASC" lat="51.998328" lon="-2.10875"/>
+	<station name="Ashfield" code="ASF" lat="55.888784" lon="-4.248496"/>
+	<station name="Ashford (Kent)" code="AFK" lat="51.143459" lon="0.875076"/>
+	<station name="Ashford (Surrey)" code="AFS" lat="51.436018" lon="-0.469852"/>
+	<station name="Ashford International" code="ASI" lat="51.143459" lon="0.875076"/>
+	<station name="Ashley (Cheshire)" code="ASY" lat="53.355599" lon="-2.341726"/>
+	<station name="Ashtead" code="AHD" lat="51.317503" lon="-0.307531"/>
+	<station name="Ashton-Under-Lyne" code="AHN" lat="53.491017" lon="-2.092224"/>
+	<station name="Ashurst" code="AHS" lat="51.129746" lon="0.152553"/>
+	<station name="Ashurst New Forest" code="ANF" lat="50.889546" lon="-1.526063"/>
+	<station name="Ashwell and Morden" code="AWM" lat="52.030727" lon="-0.10953"/>
+	<station name="Askam" code="ASK" lat="54.189014" lon="-3.204311"/>
+	<station name="Aslockton" code="ALK" lat="52.951484" lon="-0.897945"/>
+	<station name="Aspatria" code="ASP" lat="54.758438" lon="-3.332619"/>
+	<station name="Aspley Guise" code="APG" lat="52.021175" lon="-0.63186"/>
+	<station name="Aston" code="AST" lat="52.504256" lon="-1.872291"/>
+	<station name="Atherstone (Warks)" code="ATH" lat="52.578531" lon="-1.552205"/>
+	<station name="Atherton (Manchester)" code="ATN" lat="53.52936" lon="-2.480237"/>
+	<station name="Attadale" code="ATT" lat="57.394463" lon="-5.455514"/>
+	<station name="Attenborough" code="ATB" lat="52.906453" lon="-1.231036"/>
+	<station name="Attleborough" code="ATL" lat="52.514884" lon="1.022542"/>
+	<station name="Auchinleck" code="AUK" lat="55.469819" lon="-4.297903"/>
+	<station name="Audley End" code="AUD" lat="52.004776" lon="0.207024"/>
+	<station name="Aughton Park" code="AUG" lat="53.553688" lon="-2.896188"/>
+	<station name="Aviemore" code="AVM" lat="57.188216" lon="-3.828765"/>
+	<station name="Avoncliff" code="AVF" lat="51.339157" lon="-2.281947"/>
+	<station name="Avonmouth" code="AVN" lat="51.50005" lon="-2.699646"/>
+	<station name="Axminster" code="AXM" lat="50.779062" lon="-3.004632"/>
+	<station name="Aylesbury" code="AYS" lat="51.813722" lon="-0.814991"/>
+	<station name="Aylesford" code="AYL" lat="51.301158" lon="0.466687"/>
+	<station name="Aylesham" code="AYH" lat="51.227212" lon="1.209935"/>
+	<station name="Ayr" code="AYR" lat="55.45825" lon="-4.625532"/>
+	<station name="Bache" code="BAC" lat="53.208316" lon="-2.891821"/>
+	<station name="Baglan" code="BAJ" lat="51.614613" lon="-3.810028"/>
+	<station name="Bagshot" code="BAG" lat="51.364611" lon="-0.688716"/>
+	<station name="Baildon" code="BLD" lat="53.850386" lon="-1.753574"/>
+	<station name="Baillieston" code="BIO" lat="55.844188" lon="-4.11368"/>
+	<station name="Balcombe" code="BAB" lat="51.055403" lon="-0.137185"/>
+	<station name="Baldock" code="BDK" lat="51.993012" lon="-0.187314"/>
+	<station name="Balham" code="BAL" lat="51.443013" lon="-0.151437"/>
+	<station name="Balloch Central" code="BHC" lat="56.002324" lon="-4.582996"/>
+	<station name="Balmossie" code="BSI" lat="56.474662" lon="-2.83821"/>
+	<station name="Bamber Bridge" code="BMB" lat="53.726847" lon="-2.66082"/>
+	<station name="Bamford" code="BAM" lat="53.339132" lon="-1.689107"/>
+	<station name="Banavie" code="BNV" lat="56.843875" lon="-5.09591"/>
+	<station name="Banbury" code="BAN" lat="52.060731" lon="-1.328092"/>
+	<station name="Bangor (Gwynedd)" code="BNG" lat="53.222573" lon="-4.135843"/>
+	<station name="Bank Hall" code="BAH" lat="53.437867" lon="-2.988349"/>
+	<station name="Banstead" code="BAD" lat="51.329232" lon="-0.213672"/>
+	<station name="Barassie" code="BSS" lat="55.56046" lon="-4.650761"/>
+	<station name="Barbican (LRT)" code="ZBB" lat="51.520584" lon="-0.097555"/>
+	<station name="Bardon Mill" code="BLL" lat="54.974535" lon="-2.346461"/>
+	<station name="Bare Lane" code="BAR" lat="54.074482" lon="-2.835136"/>
+	<station name="Bargeddie" code="BGI" lat="55.851085" lon="-4.073175"/>
+	<station name="Bargoed" code="BGD" lat="51.693224" lon="-3.230428"/>
+	<station name="Barking" code="BKG" lat="51.539439" lon="0.080741"/>
+	<station name="Barlaston" code="BRT" lat="52.942533" lon="-2.168252"/>
+	<station name="Barming" code="BMG" lat="51.284429" lon="0.479553"/>
+	<station name="Barmouth" code="BRM" lat="52.722285" lon="-4.056374"/>
+	<station name="Barnehurst" code="BNH" lat="51.46497" lon="0.159779"/>
+	<station name="Barnes" code="BNS" lat="51.466834" lon="-0.241282"/>
+	<station name="Barnes Bridge" code="BNI" lat="51.471719" lon="-0.251764"/>
+	<station name="Barnetby" code="BTB" lat="53.575599" lon="-0.408766"/>
+	<station name="Barnham" code="BAA" lat="50.830819" lon="-0.640507"/>
+	<station name="Barnhill" code="BNL" lat="55.878027" lon="-4.22413"/>
+	<station name="Barnsley" code="BNY" lat="53.554557" lon="-1.477318"/>
+	<station name="Barnstaple" code="BNP" lat="51.073572" lon="-4.06349"/>
+	<station name="Barnt Green" code="BTG" lat="52.361251" lon="-1.992332"/>
+	<station name="Barrhead" code="BRR" lat="55.803843" lon="-4.397367"/>
+	<station name="Barrhill" code="BRL" lat="55.096143" lon="-4.781588"/>
+	<station name="Barrow Haven" code="BAV" lat="53.697409" lon="-0.392324"/>
+	<station name="Barrow upon Soar" code="BWS" lat="52.749278" lon="-1.146131"/>
+	<station name="Barrow-in-Furness" code="BIF" lat="54.118213" lon="-3.225062"/>
+	<station name="Barry" code="BRY" lat="51.396276" lon="-3.284289"/>
+	<station name="Barry Docks" code="BYD" lat="51.401975" lon="-3.263485"/>
+	<station name="Barry Island" code="BYI" lat="51.392614" lon="-3.272931"/>
+	<station name="Barry Links" code="BYL" lat="56.493181" lon="-2.745595"/>
+	<station name="Barton-on-Humber" code="BAU" lat="53.688739" lon="-0.44311"/>
+	<station name="Basildon" code="BSO" lat="51.568306" lon="0.456687"/>
+	<station name="Basingstoke" code="BSK" lat="51.26832" lon="-1.087516"/>
+	<station name="Bat and Ball" code="BBL" lat="51.289763" lon="0.193702"/>
+	<station name="Bath Spa" code="BTH" lat="51.377598" lon="-2.357106"/>
+	<station name="Bathgate" code="BHG" lat="55.899146" lon="-3.640095"/>
+	<station name="Batley" code="BTL" lat="53.709813" lon="-1.622916"/>
+	<station name="Battersby" code="BTT" lat="54.457481" lon="-1.093554"/>
+	<station name="Battersea Park" code="BAK" lat="51.477235" lon="-0.147208"/>
+	<station name="Battle" code="BAT" lat="50.912532" lon="0.495237"/>
+	<station name="Battlesbridge" code="BLB" lat="51.624953" lon="0.566576"/>
+	<station name="Bayford" code="BAY" lat="51.75841" lon="-0.095356"/>
+	<station name="Beaconsfield" code="BCF" lat="51.611466" lon="-0.643357"/>
+	<station name="Bearley" code="BER" lat="52.244938" lon="-1.749652"/>
+	<station name="Bearsden" code="BRN" lat="55.916543" lon="-4.333127"/>
+	<station name="Bearsted" code="BSD" lat="51.275693" lon="0.577598"/>
+	<station name="Beasdale" code="BSL" lat="56.900053" lon="-5.763588"/>
+	<station name="Beaulieu Road" code="BEU" lat="50.855492" lon="-1.504492"/>
+	<station name="Beauly" code="BEL" lat="57.477322" lon="-4.467736"/>
+	<station name="Bebington" code="BEB" lat="53.35827" lon="-3.003808"/>
+	<station name="Beccles" code="BCC" lat="52.458455" lon="1.570102"/>
+	<station name="Beckenham Hill" code="BEC" lat="51.424429" lon="-0.016003"/>
+	<station name="Beckenham Junction" code="BKJ" lat="51.410992" lon="-0.026078"/>
+	<station name="Bedford" code="BDM" lat="52.135452" lon="-0.479299"/>
+	<station name="Bedford St Johns" code="BSJ" lat="52.129367" lon="-0.467739"/>
+	<station name="Bedhampton" code="BDH" lat="50.854109" lon="-0.995692"/>
+	<station name="Bedminster" code="BMT" lat="51.440194" lon="-2.594135"/>
+	<station name="Bedworth" code="BEH" lat="52.478632" lon="-1.467695"/>
+	<station name="Bedwyn" code="BDW" lat="51.379309" lon="-1.598465"/>
+	<station name="Beeston" code="BEE" lat="52.920686" lon="-1.207726"/>
+	<station name="Bekesbourne" code="BKS" lat="51.261395" lon="1.136673"/>
+	<station name="Belle Vue" code="BLV" lat="53.461784" lon="-2.180449"/>
+	<station name="Bellgrove" code="BLG" lat="55.856885" lon="-4.224426"/>
+	<station name="Bellingham" code="BGM" lat="51.43303" lon="-0.019504"/>
+	<station name="Bellshill" code="BLH" lat="55.816795" lon="-4.024628"/>
+	<station name="Belmont" code="BLM" lat="51.344144" lon="-0.198818"/>
+	<station name="Belper" code="BLP" lat="53.024119" lon="-1.482324"/>
+	<station name="Beltring" code="BEG" lat="51.204133" lon="0.403712"/>
+	<station name="Belvedere" code="BVD" lat="51.492126" lon="0.152314"/>
+	<station name="Bempton" code="BEM" lat="54.127664" lon="-0.180428"/>
+	<station name="Ben Rhydding" code="BEY" lat="53.925905" lon="-1.79844"/>
+	<station name="Benfleet" code="BEF" lat="51.543897" lon="0.56187"/>
+	<station name="Bentham" code="BEN" lat="54.115388" lon="-2.511312"/>
+	<station name="Bentley (Hants)" code="BTY" lat="53.543993" lon="-1.150801"/>
+	<station name="Bentley (South Yorks)" code="BYK" lat="51.18113" lon="-0.867869"/>
+	<station name="Bere Alston" code="BAS" lat="50.485609" lon="-4.200127"/>
+	<station name="Bere Ferrers" code="BFE" lat="50.451473" lon="-4.181391"/>
+	<station name="Berkhamsted" code="BKM" lat="51.763328" lon="-0.561772"/>
+	<station name="Berkswell" code="BKW" lat="52.395991" lon="-1.64185"/>
+	<station name="Berney Arms" code="BYA" lat="52.590564" lon="1.631009"/>
+	<station name="Berry Brow" code="BBW" lat="53.62111" lon="-1.79344"/>
+	<station name="Berrylands" code="BRS" lat="51.398873" lon="-0.280267"/>
+	<station name="Berwick (Sussex)" code="BRK" lat="50.8402" lon="0.165796"/>
+	<station name="Berwick-Upon-Tweed" code="BWK" lat="55.773643" lon="-2.010301"/>
+	<station name="Bescar Lane" code="BES" lat="53.623632" lon="-2.913984"/>
+	<station name="Bescot Stadium" code="BSC" lat="52.563009" lon="-1.991572"/>
+	<station name="Betchworth" code="BTO" lat="51.24771" lon="-0.267502"/>
+	<station name="Bethnal Green" code="BET" lat="51.524017" lon="-0.059225"/>
+	<station name="Betws-y-Coed" code="BYC" lat="53.09258" lon="-3.800465"/>
+	<station name="Beverley" code="BEV" lat="53.841802" lon="-0.423095"/>
+	<station name="Bexhill" code="BEX" lat="50.840973" lon="0.476958"/>
+	<station name="Bexley" code="BXY" lat="51.44011" lon="0.14729"/>
+	<station name="Bexleyheath" code="BXH" lat="51.463475" lon="0.133437"/>
+	<station name="Bicester North" code="BCS" lat="51.903734" lon="-1.151235"/>
+	<station name="Bicester Town" code="BIT" lat="51.892418" lon="-1.149001"/>
+	<station name="Bickley" code="BKL" lat="51.400048" lon="0.044315"/>
+	<station name="Bidston" code="BID" lat="53.409197" lon="-3.078613"/>
+	<station name="Biggleswade" code="BIW" lat="52.084554" lon="-0.260865"/>
+	<station name="Bilbrook" code="BBK" lat="52.623703" lon="-2.186404"/>
+	<station name="Billericay" code="BIC" lat="51.628826" lon="0.417905"/>
+	<station name="Billingham" code="BIL" lat="54.605739" lon="-1.279812"/>
+	<station name="Billingshurst" code="BIG" lat="51.0152" lon="-0.450044"/>
+	<station name="Bingham" code="BIN" lat="52.954057" lon="-0.950889"/>
+	<station name="Bingley" code="BIY" lat="53.848814" lon="-1.837671"/>
+	<station name="Birchgrove" code="BCG" lat="51.521218" lon="-3.202478"/>
+	<station name="Birchington-on-Sea" code="BCH" lat="51.377374" lon="1.300977"/>
+	<station name="Birchwood" code="BWD" lat="53.41273" lon="-2.525134"/>
+	<station name="Birkbeck" code="BIK" lat="51.403903" lon="-0.055637"/>
+	<station name="Birkdale" code="BDL" lat="53.633856" lon="-3.014853"/>
+	<station name="Birkenhead Central" code="BKC" lat="53.388495" lon="-3.020448"/>
+	<station name="Birkenhead North" code="BKN" lat="53.404427" lon="-3.057426"/>
+	<station name="Birkenhead Park" code="BKP" lat="53.397513" lon="-3.03973"/>
+	<station name="Birmingham International" code="BHI" lat="52.450448" lon="-1.725619"/>
+	<station name="Birmingham Moor Street" code="BMO" lat="52.479044" lon="-1.892553"/>
+	<station name="Birmingham New Street" code="BHM" lat="52.477796" lon="-1.898406"/>
+	<station name="Birmingham Snow Hill" code="BSW" lat="52.482472" lon="-1.898209"/>
+	<station name="Bishop Auckland" code="BIA" lat="54.65719" lon="-1.678069"/>
+	<station name="Bishopbriggs" code="BBG" lat="55.904056" lon="-4.224595"/>
+	<station name="Bishops Stortford" code="BIS" lat="51.86612" lon="0.165615"/>
+	<station name="Bishopstone" code="BIP" lat="50.779821" lon="0.082542"/>
+	<station name="Bishopton" code="BPT" lat="55.902351" lon="-4.500964"/>
+	<station name="Bitterne" code="BTE" lat="50.917926" lon="-1.376503"/>
+	<station name="Blackburn" code="BBN" lat="53.746478" lon="-2.478857"/>
+	<station name="Blackheath" code="BKH" lat="51.465703" lon="0.008661"/>
+	<station name="Blackhorse Road" code="BHO" lat="51.586697" lon="-0.040951"/>
+	<station name="Blackpool North" code="BPN" lat="53.821669" lon="-3.048992"/>
+	<station name="Blackpool Pleasure Beach" code="BPB" lat="53.788244" lon="-3.054027"/>
+	<station name="Blackpool South" code="BPS" lat="53.79864" lon="-3.048755"/>
+	<station name="Blackrod" code="BLK" lat="53.590531" lon="-2.569196"/>
+	<station name="Blackwater" code="BAW" lat="51.331883" lon="-0.777329"/>
+	<station name="Blaenau Ffestiniog" code="BFF" lat="52.994135" lon="-3.93616"/>
+	<station name="Blair Atholl" code="BLA" lat="56.765064" lon="-3.848942"/>
+	<station name="Blairhill" code="BAI" lat="55.866167" lon="-4.043137"/>
+	<station name="Blake Street" code="BKT" lat="52.604739" lon="-1.844602"/>
+	<station name="Blakedown" code="BKD" lat="52.406392" lon="-2.176588"/>
+	<station name="Blantyre" code="BLT" lat="55.797273" lon="-4.087402"/>
+	<station name="Blaydon" code="BLO" lat="54.965916" lon="-1.713573"/>
+	<station name="Bleasby" code="BSB" lat="53.040882" lon="-0.94406"/>
+	<station name="Bletchley" code="BLY" lat="51.995722" lon="-0.736545"/>
+	<station name="Bloxwich" code="BLX" lat="52.618198" lon="-2.011506"/>
+	<station name="Bloxwich North" code="BWN" lat="52.625097" lon="-2.017409"/>
+	<station name="Blundellsands and Crosby" code="BLN" lat="53.487447" lon="-3.040128"/>
+	<station name="Blythe Bridge" code="BYB" lat="52.967971" lon="-2.066832"/>
+	<station name="Bodmin Parkway" code="BOD" lat="50.445708" lon="-4.663429"/>
+	<station name="Bodorgan" code="BOR" lat="53.20406" lon="-4.41581"/>
+	<station name="Bognor Regis" code="BOG" lat="50.78719" lon="-0.675978"/>
+	<station name="Bogston" code="BGS" lat="55.937133" lon="-4.710982"/>
+	<station name="Bolton" code="BON" lat="53.575092" lon="-2.427516"/>
+	<station name="Bolton-on-Dearne" code="BTD" lat="53.519762" lon="-1.311756"/>
+	<station name="Bookham" code="BKA" lat="51.288651" lon="-0.383937"/>
+	<station name="Bootle (Cumbria)" code="BOC" lat="54.291092" lon="-3.393506"/>
+	<station name="Bootle New Strand" code="BNW" lat="53.453312" lon="-2.995094"/>
+	<station name="Bootle Oriel Road" code="BOT" lat="53.446859" lon="-2.996223"/>
+	<station name="Bordesley" code="BBS" lat="52.471318" lon="-1.876668"/>
+	<station name="Borough Green and Wrotham" code="BRG" lat="51.29306" lon="0.306018"/>
+	<station name="Borth" code="BRH" lat="52.491098" lon="-4.049637"/>
+	<station name="Bosham" code="BOH" lat="50.84246" lon="-0.847548"/>
+	<station name="Boston" code="BSN" lat="52.978189" lon="-0.030903"/>
+	<station name="Botley" code="BOE" lat="50.916186" lon="-1.259505"/>
+	<station name="Bottesford" code="BTF" lat="52.944606" lon="-0.794794"/>
+	<station name="Bourne End" code="BNE" lat="51.576906" lon="-0.71098"/>
+	<station name="Bournemouth" code="BMH" lat="50.726959" lon="-1.864446"/>
+	<station name="Bournville" code="BRV" lat="52.427216" lon="-1.926704"/>
+	<station name="Bow Brickhill" code="BWB" lat="52.004226" lon="-0.696372"/>
+	<station name="Bowes Park" code="BOP" lat="51.606767" lon="-0.120004"/>
+	<station name="Bowling" code="BWG" lat="55.931077" lon="-4.492705"/>
+	<station name="Boxhill and Westhumble" code="BXW" lat="51.254006" lon="-0.328668"/>
+	<station name="Bracknell" code="BCE" lat="51.413034" lon="-0.752812"/>
+	<station name="Bradford Forster Square" code="BDQ" lat="53.797178" lon="-1.752957"/>
+	<station name="Bradford Interchange" code="BDI" lat="53.790656" lon="-1.749437"/>
+	<station name="Bradford-on-Avon" code="BOA" lat="51.34441" lon="-2.252748"/>
+	<station name="Brading" code="BDN" lat="50.678291" lon="-1.138061"/>
+	<station name="Braintree" code="BTR" lat="51.875048" lon="0.556049"/>
+	<station name="Braintree Freeport" code="BTP" lat="51.869014" lon="0.568706"/>
+	<station name="Bramhall" code="BML" lat="53.360733" lon="-2.163479"/>
+	<station name="Bramley (Hants)" code="BMY" lat="53.805758" lon="-1.638116"/>
+	<station name="Bramley (West Yorks)" code="BLE" lat="51.33023" lon="-1.060854"/>
+	<station name="Brampton (Cumbria)" code="BMP" lat="54.932478" lon="-2.701868"/>
+	<station name="Brampton (Suffolk)" code="BRP" lat="52.39572" lon="1.543928"/>
+	<station name="Branchton" code="BCN" lat="55.940477" lon="-4.8036"/>
+	<station name="Brandon" code="BND" lat="52.454216" lon="0.623395"/>
+	<station name="Branksome" code="BSM" lat="50.72654" lon="-1.918569"/>
+	<station name="Braystones (Cumbria)" code="BYS" lat="54.439073" lon="-3.541367"/>
+	<station name="Bredbury" code="BDY" lat="53.422601" lon="-2.109475"/>
+	<station name="Breich" code="BRC" lat="55.826908" lon="-3.668623"/>
+	<station name="Brentford" code="BFD" lat="51.487615" lon="-0.309321"/>
+	<station name="Brentwood" code="BRE" lat="51.613528" lon="0.299872"/>
+	<station name="Bricket Wood" code="BWO" lat="51.705634" lon="-0.358765"/>
+	<station name="Bridge of Allan" code="BEA" lat="56.15597" lon="-3.957244"/>
+	<station name="Bridge of Orchy" code="BRO" lat="56.51647" lon="-4.76456"/>
+	<station name="Bridgend" code="BGN" lat="51.506711" lon="-3.574901"/>
+	<station name="Bridgeton" code="BDG" lat="55.84885" lon="-4.226182"/>
+	<station name="Bridgwater" code="BWT" lat="51.127721" lon="-2.990182"/>
+	<station name="Bridlington" code="BDT" lat="54.084559" lon="-0.198189"/>
+	<station name="Brierfield" code="BRF" lat="53.823928" lon="-2.236591"/>
+	<station name="Brigg" code="BGG" lat="53.549109" lon="-0.486346"/>
+	<station name="Brighouse" code="BGH" lat="53.698089" lon="-1.77945"/>
+	<station name="Brighton" code="BTN" lat="50.828886" lon="-0.14107"/>
+	<station name="Brimsdown" code="BMD" lat="51.65563" lon="-0.030814"/>
+	<station name="Brinnington" code="BNT" lat="53.431966" lon="-2.134592"/>
+	<station name="Bristol Parkway" code="BPW" lat="51.513783" lon="-2.54443"/>
+	<station name="Bristol Temple Meads" code="BRI" lat="51.449241" lon="-2.580932"/>
+	<station name="Brithdir" code="BHD" lat="51.710398" lon="-3.228336"/>
+	<station name="British Steel Redcar" code="RBS" lat="54.60994" lon="-1.112351"/>
+	<station name="Briton Ferry" code="BNF" lat="51.638196" lon="-3.820237"/>
+	<station name="Brixton" code="BRX" lat="51.463041" lon="-0.112888"/>
+	<station name="Broad Green" code="BGE" lat="53.406636" lon="-2.891974"/>
+	<station name="Broadbottom" code="BDB" lat="53.440667" lon="-2.015813"/>
+	<station name="Broadstairs" code="BSR" lat="51.360303" lon="1.433823"/>
+	<station name="Brockenhurst" code="BCU" lat="50.81705" lon="-1.572091"/>
+	<station name="Brockholes" code="BHS" lat="53.596691" lon="-1.769211"/>
+	<station name="Brockley" code="BCY" lat="51.464158" lon="-0.037434"/>
+	<station name="Bromborough" code="BOM" lat="53.321893" lon="-2.987301"/>
+	<station name="Bromborough Rake" code="BMR" lat="53.330219" lon="-2.990625"/>
+	<station name="Bromley Cross" code="BMC" lat="53.614468" lon="-2.410656"/>
+	<station name="Bromley North" code="BMN" lat="51.408399" lon="0.016943"/>
+	<station name="Bromley South" code="BMS" lat="51.400026" lon="0.018352"/>
+	<station name="Bromsgrove" code="BMV" lat="52.321935" lon="-2.04775"/>
+	<station name="Brondesbury" code="BSY" lat="51.54518" lon="-0.202015"/>
+	<station name="Brondesbury Park" code="BSP" lat="51.540734" lon="-0.209804"/>
+	<station name="Brookmans Park" code="BPK" lat="51.720981" lon="-0.204502"/>
+	<station name="Brookwood" code="BKO" lat="51.303245" lon="-0.636748"/>
+	<station name="Broome" code="BME" lat="52.422995" lon="-2.884642"/>
+	<station name="Broomfleet" code="BMF" lat="53.740075" lon="-0.672045"/>
+	<station name="Brora" code="BRA" lat="58.012423" lon="-3.852436"/>
+	<station name="Brough" code="BUH" lat="53.726881" lon="-0.578542"/>
+	<station name="Broughty Ferry" code="BYF" lat="56.46773" lon="-2.873241"/>
+	<station name="Broxbourne" code="BXB" lat="51.746862" lon="-0.010529"/>
+	<station name="Bruce Grove" code="BCV" lat="51.593633" lon="-0.070089"/>
+	<station name="Brundall" code="BDA" lat="52.619413" lon="1.438878"/>
+	<station name="Brundall Gardens" code="BGA" lat="52.623328" lon="1.417671"/>
+	<station name="Brunstane" code="BSU" lat="55.941822" lon="-3.100785"/>
+	<station name="Brunswick" code="BRW" lat="53.383236" lon="-2.976483"/>
+	<station name="Bruton" code="BRU" lat="51.111186" lon="-2.447125"/>
+	<station name="Bryn" code="BYN" lat="53.499653" lon="-2.64743"/>
+	<station name="Buckenham" code="BUC" lat="52.597822" lon="1.469969"/>
+	<station name="Buckley" code="BCK" lat="53.162568" lon="-3.05519"/>
+	<station name="Bucknell" code="BUK" lat="52.356993" lon="-2.948473"/>
+	<station name="Bugle" code="BGL" lat="50.400049" lon="-4.792021"/>
+	<station name="Builth Road" code="BHR" lat="52.169386" lon="-3.426691"/>
+	<station name="Bulwell" code="BLW" lat="52.999739" lon="-1.195497"/>
+	<station name="Bures" code="BUE" lat="51.971169" lon="0.769414"/>
+	<station name="Burgess Hill" code="BUG" lat="50.953549" lon="-0.127766"/>
+	<station name="Burley Park" code="BUY" lat="53.81205" lon="-1.577783"/>
+	<station name="Burley-In-Wharfedale" code="BUW" lat="53.907813" lon="-1.752993"/>
+	<station name="Burnage" code="BNA" lat="53.421442" lon="-2.215724"/>
+	<station name="Burneside (Cumbria)" code="BUD" lat="54.355577" lon="-2.767386"/>
+	<station name="Burnham (Bucks)" code="BNM" lat="51.523046" lon="-0.647572"/>
+	<station name="Burnham-on-Crouch" code="BUU" lat="51.633511" lon="0.812863"/>
+	<station name="Burnley Barracks" code="BUB" lat="53.790902" lon="-2.258094"/>
+	<station name="Burnley Central" code="BNC" lat="53.794004" lon="-2.243887"/>
+	<station name="Burnley Manchester Road" code="BYM" lat="53.784983" lon="-2.24932"/>
+	<station name="Burnside (Strathclyde)" code="BUI" lat="55.816863" lon="-4.202141"/>
+	<station name="Burntisland" code="BTS" lat="56.057138" lon="-3.234334"/>
+	<station name="Burscough Bridge" code="BCB" lat="53.605308" lon="-2.84134"/>
+	<station name="Burscough Junction" code="BCJ" lat="53.59754" lon="-2.840666"/>
+	<station name="Bursledon" code="BUO" lat="50.883406" lon="-1.304704"/>
+	<station name="Burton Joyce" code="BUJ" lat="52.983559" lon="-1.040627"/>
+	<station name="Burton-on-Trent" code="BUT" lat="52.806183" lon="-1.642353"/>
+	<station name="Bury St Edmunds" code="BSE" lat="52.253697" lon="0.712581"/>
+	<station name="Busby" code="BUS" lat="55.780532" lon="-4.262318"/>
+	<station name="Bush Hill Park" code="BHK" lat="51.641339" lon="-0.06935"/>
+	<station name="Bushey" code="BSH" lat="51.64483" lon="-0.384678"/>
+	<station name="Butlers Lane" code="BUL" lat="52.592543" lon="-1.838141"/>
+	<station name="Buxted" code="BXD" lat="50.989752" lon="0.131404"/>
+	<station name="Buxton" code="BUX" lat="53.260789" lon="-1.912293"/>
+	<station name="Byfleet and New Haw" code="BFN" lat="51.349334" lon="-0.481668"/>
+	<station name="Bynea" code="BYE" lat="51.672126" lon="-4.099201"/>
+	<station name="Cadoxton" code="CAD" lat="51.412138" lon="-3.248871"/>
+	<station name="Caergwrle" code="CGW" lat="53.107045" lon="-3.032469"/>
+	<station name="Caerphilly" code="CPH" lat="51.571569" lon="-3.219326"/>
+	<station name="Caersws" code="CWS" lat="52.516221" lon="-3.432703"/>
+	<station name="Caldicot" code="CDT" lat="51.58443" lon="-2.760882"/>
+	<station name="Caledonian Road and Barnsbury" code="CIR" lat="51.543665" lon="-0.113941"/>
+	<station name="Calstock" code="CSK" lat="50.497988" lon="-4.208688"/>
+	<station name="Cam and Dursley" code="CDU" lat="51.71755" lon="-2.358966"/>
+	<station name="Camberley" code="CAM" lat="51.336383" lon="-0.7439"/>
+	<station name="Camborne" code="CBN" lat="50.209593" lon="-5.298243"/>
+	<station name="Cambridge" code="CBG" lat="52.194132" lon="0.137381"/>
+	<station name="Cambridge Heath (London)" code="CBH" lat="51.532201" lon="-0.057222"/>
+	<station name="Cambuslang" code="CBL" lat="55.819521" lon="-4.173394"/>
+	<station name="Camden Road" code="CMD" lat="51.54191" lon="-0.138472"/>
+	<station name="Camelon" code="CMO" lat="56.00609" lon="-3.818659"/>
+	<station name="Canley" code="CNL" lat="52.399196" lon="-1.547737"/>
+	<station name="Canning Town" code="CNT" lat="51.513538" lon="0.008542"/>
+	<station name="Cannock" code="CAO" lat="52.686427" lon="-2.022362"/>
+	<station name="Canonbury" code="CNN" lat="51.548715" lon="-0.09168"/>
+	<station name="Canterbury East" code="CBE" lat="51.274249" lon="1.075747"/>
+	<station name="Canterbury West" code="CBW" lat="51.283781" lon="1.075668"/>
+	<station name="Cantley" code="CNY" lat="52.579623" lon="1.513403"/>
+	<station name="Capenhurst" code="CPU" lat="53.260038" lon="-2.942719"/>
+	<station name="Carbis Bay" code="CBB" lat="50.19724" lon="-5.464215"/>
+	<station name="Cardenden" code="CDD" lat="56.141158" lon="-3.260499"/>
+	<station name="Cardiff Bay" code="CDB" lat="51.467598" lon="-3.166657"/>
+	<station name="Cardiff Central" code="CDF" lat="51.475743" lon="-3.178933"/>
+	<station name="Cardiff Queen Street" code="CDQ" lat="51.482255" lon="-3.170642"/>
+	<station name="Cardonald" code="CDO" lat="55.852575" lon="-4.340453"/>
+	<station name="Cardross" code="CDR" lat="55.960364" lon="-4.652909"/>
+	<station name="Carfin" code="CRF" lat="55.807522" lon="-3.956158"/>
+	<station name="Cark" code="CAK" lat="54.178089" lon="-2.974505"/>
+	<station name="Carlisle" code="CAR" lat="54.890518" lon="-2.934343"/>
+	<station name="Carlton" code="CTO" lat="52.965003" lon="-1.078863"/>
+	<station name="Carluke" code="CLU" lat="55.730939" lon="-3.84884"/>
+	<station name="Carmarthen" code="CMN" lat="51.853174" lon="-4.305478"/>
+	<station name="Carmyle" code="CML" lat="55.833853" lon="-4.158735"/>
+	<station name="Carnforth" code="CNF" lat="54.129388" lon="-2.771145"/>
+	<station name="Carnoustie" code="CAN" lat="56.500802" lon="-2.705402"/>
+	<station name="Carntyne" code="CAY" lat="55.854789" lon="-4.17903"/>
+	<station name="Carpenders Park" code="CPK" lat="51.627457" lon="-0.385249"/>
+	<station name="Carrbridge" code="CAG" lat="57.279794" lon="-3.828615"/>
+	<station name="Carshalton" code="CSH" lat="51.36876" lon="-0.16627"/>
+	<station name="Carshalton Beeches" code="CSB" lat="51.357277" lon="-0.170023"/>
+	<station name="Carstairs" code="CRS" lat="55.690883" lon="-3.668088"/>
+	<station name="Cartsdyke" code="CDY" lat="55.942304" lon="-4.732234"/>
+	<station name="Castle Bar Park" code="CBP" lat="51.52293" lon="-0.331403"/>
+	<station name="Castle Cary" code="CLC" lat="51.099691" lon="-2.522347"/>
+	<station name="Castleford" code="CFD" lat="53.724119" lon="-1.354679"/>
+	<station name="Castleton (Manchester)" code="CAS" lat="53.591955" lon="-2.178465"/>
+	<station name="Castleton Moor" code="CSM" lat="54.466842" lon="-0.946648"/>
+	<station name="Caterham" code="CAT" lat="51.282307" lon="-0.078515"/>
+	<station name="Catford" code="CTF" lat="51.444463" lon="-0.026326"/>
+	<station name="Catford Bridge" code="CFB" lat="51.444583" lon="-0.025072"/>
+	<station name="Cathays" code="CYS" lat="51.489088" lon="-3.178904"/>
+	<station name="Cathcart" code="CCT" lat="55.817449" lon="-4.261215"/>
+	<station name="Cattal" code="CTL" lat="53.997331" lon="-1.320109"/>
+	<station name="Causeland" code="CAU" lat="50.405138" lon="-4.466391"/>
+	<station name="Cefn-y-Bedd" code="CYB" lat="53.098806" lon="-3.031006"/>
+	<station name="Chadwell Heath" code="CTH" lat="51.567959" lon="0.129429"/>
+	<station name="Chafford Hundred" code="CFH" lat="51.485591" lon="0.287528"/>
+	<station name="Chalfont and Latimer (LRT)" code="CFO" lat="51.667872" lon="-0.560268"/>
+	<station name="Chalkwell" code="CHW" lat="51.538726" lon="0.67026"/>
+	<station name="Chandlers Ford" code="CFR" lat="50.983474" lon="-1.384967"/>
+	<station name="Chapel-en-le-Frith" code="CEF" lat="53.312181" lon="-1.918639"/>
+	<station name="Chapeltown" code="CLN" lat="51.015779" lon="-4.024092"/>
+	<station name="Chapleton" code="CPN" lat="53.462506" lon="-1.466379"/>
+	<station name="Chappel and Wakes Colne" code="CWC" lat="51.92463" lon="0.758514"/>
+	<station name="Charing (Kent)" code="CHG" lat="51.208402" lon="0.789238"/>
+	<station name="Charing Cross (Glasgow)" code="CHC" lat="55.864979" lon="-4.270296"/>
+	<station name="Charlbury" code="CBY" lat="51.872385" lon="-1.489868"/>
+	<station name="Charlton" code="CTN" lat="51.48667" lon="0.031064"/>
+	<station name="Chartham" code="CRT" lat="51.257037" lon="1.018327"/>
+	<station name="Chassen Road" code="CSR" lat="53.446055" lon="-2.368753"/>
+	<station name="Chatham" code="CTM" lat="51.380041" lon="0.521509"/>
+	<station name="Chathill" code="CHT" lat="55.536622" lon="-1.706444"/>
+	<station name="Cheadle Hulme" code="CHU" lat="53.37628" lon="-2.188187"/>
+	<station name="Cheam" code="CHE" lat="51.355751" lon="-0.21444"/>
+	<station name="Cheddington" code="CED" lat="51.857748" lon="-0.662027"/>
+	<station name="Chelford (Cheshire)" code="CEL" lat="53.270348" lon="-2.280616"/>
+	<station name="Chelmsford" code="CHM" lat="51.736557" lon="0.468862"/>
+	<station name="Chelsfield" code="CLD" lat="51.356679" lon="0.108466"/>
+	<station name="Cheltenham Spa" code="CNM" lat="51.897632" lon="-2.09932"/>
+	<station name="Chepstow" code="CPW" lat="51.640033" lon="-2.671001"/>
+	<station name="Cherry Tree" code="CYT" lat="53.73314" lon="-2.518728"/>
+	<station name="Chertsey" code="CHY" lat="51.38683" lon="-0.509978"/>
+	<station name="Cheshunt" code="CHN" lat="51.702781" lon="-0.023864"/>
+	<station name="Chessington North" code="CSN" lat="51.363882" lon="-0.300802"/>
+	<station name="Chessington South" code="CSS" lat="51.356858" lon="-0.307804"/>
+	<station name="Chester" code="CTR" lat="53.19678" lon="-2.879885"/>
+	<station name="Chester Road" code="CRD" lat="52.535347" lon="-1.83264"/>
+	<station name="Chesterfield" code="CHD" lat="53.238133" lon="-1.419903"/>
+	<station name="Chester-le-Street" code="CLS" lat="54.855117" lon="-1.578204"/>
+	<station name="Chestfield and Swalecliffe" code="CSW" lat="51.360118" lon="1.067081"/>
+	<station name="Chetnole" code="CNO" lat="50.866694" lon="-2.572597"/>
+	<station name="Chichester" code="CCH" lat="50.832112" lon="-0.786564"/>
+	<station name="Chilham" code="CIL" lat="51.244393" lon="0.976924"/>
+	<station name="Chilworth" code="CHL" lat="51.214867" lon="-0.524013"/>
+	<station name="Chingford" code="CHI" lat="51.633082" lon="0.009754"/>
+	<station name="Chinley" code="CLY" lat="53.340363" lon="-1.943213"/>
+	<station name="Chippenham" code="CPM" lat="51.462498" lon="-2.115485"/>
+	<station name="Chipstead" code="CHP" lat="51.3089" lon="-0.169624"/>
+	<station name="Chirk" code="CRK" lat="52.933455" lon="-3.066218"/>
+	<station name="Chislehurst" code="CIT" lat="51.405235" lon="0.057707"/>
+	<station name="Chiswick" code="CHK" lat="51.480876" lon="-0.267373"/>
+	<station name="Cholsey" code="CHO" lat="51.5702" lon="-1.158203"/>
+	<station name="Chorley" code="CRL" lat="53.652736" lon="-2.626838"/>
+	<station name="Chorleywood" code="CLW" lat="51.654265" lon="-0.518888"/>
+	<station name="Christchurch" code="CHR" lat="50.738276" lon="-1.784576"/>
+	
+	<station name="Church and Oswaldtwistle" code="CTW" lat="53.750518" lon="-2.390849"/>
+	<station name="Church Fenton" code="CHF" lat="53.826491" lon="-1.227482"/>
+	<station name="Church Stretton" code="CTT" lat="52.537465" lon="-2.803526"/>
+	<station name="Cilmeri" code="CIM" lat="52.150361" lon="-3.456904"/>
+	<station name="City Thameslink" code="CTK" lat="51.516103" lon="-0.103689"/>
+	<station name="Clacton" code="CLT" lat="51.794415" lon="1.154128"/>
+	<station name="Clandon" code="CLA" lat="51.263815" lon="-0.503074"/>
+	<station name="Clapham (North Yorks)" code="CPY" lat="54.105479" lon="-2.41012"/>
+	<station name="Clapham High Street" code="CLP" lat="51.465977" lon="-0.132775"/>
+	<station name="Clapham Junction" code="CLJ" lat="51.464605" lon="-0.170178"/>
+	<station name="Clapton" code="CPT" lat="51.561597" lon="-0.056699"/>
+	<station name="Clarbeston Road" code="CLR" lat="51.851724" lon="-4.882305"/>
+	<station name="Clarkston" code="CKS" lat="55.789492" lon="-4.275933"/>
+	<station name="Claverdon" code="CLV" lat="52.276549" lon="-1.69649"/>
+	<station name="Claygate" code="CLG" lat="51.36095" lon="-0.348255"/>
+	<station name="Cleethorpes" code="CLE" lat="53.56183" lon="-0.029313"/>
+	<station name="Cleland" code="CEA" lat="55.804264" lon="-3.910494"/>
+	<station name="Clifton (Manchester)" code="CLI" lat="53.522459" lon="-2.314733"/>
+	<station name="Clifton Down" code="CFN" lat="51.464613" lon="-2.610605"/>
+	<station name="Clitheroe" code="CLH" lat="53.873428" lon="-2.394563"/>
+	<station name="Clock House" code="CLK" lat="51.408442" lon="-0.040843"/>
+	<station name="Clunderwen" code="CUW" lat="51.840109" lon="-4.730774"/>
+	<station name="Clydebank" code="CYK" lat="55.900561" lon="-4.404431"/>
+	<station name="Coatbridge Central" code="CBC" lat="55.86257" lon="-4.032497"/>
+	<station name="Coatbridge Sunnyside" code="CBS" lat="55.866708" lon="-4.028252"/>
+	<station name="Coatdyke" code="COA" lat="55.863962" lon="-4.004361"/>
+	
+	<station name="Codsall" code="CSL" lat="52.627198" lon="-2.201944"/>
+	<station name="Cogan" code="CGN" lat="51.445442" lon="-3.188916"/>
+	<station name="Colchester" code="COL" lat="51.900608" lon="0.892651"/>
+	<station name="Colchester Town" code="CET" lat="51.886263" lon="0.904823"/>
+	<station name="Collingham" code="CLM" lat="53.144377" lon="-0.749609"/>
+	<station name="Collington" code="CLL" lat="50.83915" lon="0.457247"/>
+	<station name="Colne" code="CNE" lat="53.854577" lon="-2.181273"/>
+	<station name="Colwall" code="CWL" lat="52.079702" lon="-2.356529"/>
+	<station name="Colwyn Bay" code="CWB" lat="53.296583" lon="-3.725307"/>
+	<station name="Combe (Oxon)" code="CME" lat="51.832316" lon="-1.394321"/>
+	<station name="Commondale" code="COM" lat="54.481379" lon="-0.975541"/>
+	<station name="Congleton" code="CNG" lat="53.157921" lon="-2.192214"/>
+	<station name="Conisbrough" code="CNS" lat="53.489351" lon="-1.234209"/>
+	<station name="Connel Ferry" code="CON" lat="56.452278" lon="-5.383519"/>
+	<station name="Cononley" code="CEY" lat="53.917439" lon="-2.012052"/>
+	<station name="Conway Park" code="CNP" lat="53.393403" lon="-3.02292"/>
+	<station name="Conwy" code="CNW" lat="53.279889" lon="-3.829784"/>
+	<station name="Cooden Beach" code="COB" lat="50.833424" lon="0.427248"/>
+	<station name="Cookham" code="COO" lat="51.557096" lon="-0.722547"/>
+	<station name="Cooksbridge" code="CBR" lat="50.903572" lon="-0.009319"/>
+	<station name="Coombe (Cornwall)" code="COE" lat="50.444727" lon="-4.480705"/>
+	<station name="Copplestone" code="COP" lat="50.814333" lon="-3.751279"/>
+	<station name="Corbridge" code="CRB" lat="54.965759" lon="-2.016441"/>
+	<station name="Corkerhill" code="CKH" lat="55.837503" lon="-4.334654"/>
+	<station name="Corkickle" code="CKL" lat="54.541797" lon="-3.581652"/>
+	<station name="Corpach" code="CPA" lat="56.84246" lon="-5.121515"/>
+	<station name="Corrour" code="CRR" lat="56.760251" lon="-4.690589"/>
+	<station name="Coryton" code="COY" lat="51.520293" lon="-3.231334"/>
+	<station name="Coseley" code="CSY" lat="52.545019" lon="-2.085627"/>
+	<station name="Cosford" code="COS" lat="52.645019" lon="-2.300595"/>
+	<station name="Cosham" code="CSA" lat="50.841741" lon="-1.066972"/>
+	<station name="Cottingham" code="CGM" lat="53.78149" lon="-0.406673"/>
+	<station name="Cottingley" code="COT" lat="53.767753" lon="-1.587551"/>
+	<station name="Coulsdon South" code="CDS" lat="51.31592" lon="-0.13761"/>
+	<station name="Coventry" code="COV" lat="52.400932" lon="-1.51402"/>
+	<station name="Cowden" code="CWN" lat="51.155575" lon="0.11004"/>
+	<station name="Cowdenbeath" code="COW" lat="56.111686" lon="-3.343839"/>
+	<station name="Cradley Heath" code="CRA" lat="52.469479" lon="-2.09075"/>
+	<station name="Craigendoran" code="CGD" lat="55.994853" lon="-4.711596"/>
+	<station name="Cramlington" code="CRM" lat="55.088029" lon="-1.598735"/>
+	<station name="Craven Arms" code="CRV" lat="52.442397" lon="-2.837902"/>
+	<station name="Crawley" code="CRW" lat="51.111901" lon="-0.186704"/>
+	<station name="Crayford" code="CRY" lat="51.448235" lon="0.178703"/>
+	<station name="Crediton" code="CDI" lat="50.783116" lon="-3.647026"/>
+	<station name="Cressing" code="CES" lat="51.851936" lon="0.578867"/>
+	<station name="Cressington" code="CSG" lat="53.358626" lon="-2.912475"/>
+	<station name="Creswell (Derbys)" code="CWD" lat="53.263995" lon="-1.216426"/>
+	<station name="Crewe" code="CRE" lat="53.088555" lon="-2.432726"/>
+	<station name="Crewkerne" code="CKN" lat="50.873541" lon="-2.77722"/>
+	<station name="Crews Hill" code="CWH" lat="51.684906" lon="-0.107422"/>
+	<station name="Crianlarich" code="CNR" lat="56.391365" lon="-4.618349"/>
+	<station name="Criccieth" code="CCC" lat="52.918471" lon="-4.237059"/>
+	<station name="Cricklewood" code="CRI" lat="51.558894" lon="-0.212483"/>
+	<station name="Croftfoot" code="CFF" lat="55.818244" lon="-4.227763"/>
+	<station name="Crofton Park" code="CFT" lat="51.455164" lon="-0.036515"/>
+	<station name="Cromer" code="CMR" lat="52.930882" lon="1.293514"/>
+	<station name="Cromford" code="CMF" lat="53.112801" lon="-1.549526"/>
+	<station name="Crookston" code="CKT" lat="55.842099" lon="-4.364711"/>
+	<station name="Cross Gates" code="CRG" lat="53.804773" lon="-1.451503"/>
+	<station name="Crossflatts" code="CFL" lat="53.858906" lon="-1.845183"/>
+	<station name="Crosshill" code="COI" lat="55.83261" lon="-4.256099"/>
+	<station name="Crossmyloof" code="CMY" lat="55.833833" lon="-4.283965"/>
+	<station name="Croston" code="CSO" lat="53.667163" lon="-2.778506"/>
+	<station name="Crouch Hill" code="CRH" lat="51.571451" lon="-0.11657"/>
+	<station name="Crowborough" code="COH" lat="51.045646" lon="0.188386"/>
+	<station name="Crowhurst" code="CWU" lat="50.888306" lon="0.501579"/>
+	<station name="Crowle" code="CWE" lat="53.589884" lon="-0.816748"/>
+	<station name="Crowthorne" code="CRN" lat="51.366689" lon="-0.819578"/>
+	<station name="Croy" code="CRO" lat="55.955301" lon="-4.036355"/>
+	<station name="Crystal Palace" code="CYP" lat="51.418028" lon="-0.072571"/>
+	<station name="Cuddington" code="CUD" lat="53.239754" lon="-2.599696"/>
+	<station name="Cuffley" code="CUF" lat="51.708202" lon="-0.109682"/>
+	<station name="Culham" code="CUM" lat="51.654331" lon="-1.236487"/>
+	<station name="Culrain" code="CUA" lat="57.919273" lon="-4.404277"/>
+	<station name="Cumbernauld" code="CUB" lat="55.941812" lon="-3.980175"/>
+	<station name="Cupar" code="CUP" lat="56.317177" lon="-3.008806"/>
+	<station name="Curriehill" code="CUH" lat="55.900453" lon="-3.318683"/>
+	<station name="Custom House" code="CUS" lat="51.509424" lon="0.026504"/>
+	<station name="Cuxton" code="CUX" lat="51.373909" lon="0.461932"/>
+	<station name="Cwmbach" code="CMH" lat="51.701406" lon="-3.413595"/>
+	<station name="Cwmbran" code="CWM" lat="51.65736" lon="-3.016023"/>
+	<station name="Cynghordy" code="CYN" lat="52.051567" lon="-3.747927"/>
+	<station name="Dagenham Dock" code="DDK" lat="51.525915" lon="0.146657"/>
+	<station name="Daisy Hill" code="DSY" lat="53.53928" lon="-2.51554"/>
+	<station name="Dalgety Bay" code="DAG" lat="56.042241" lon="-3.367945"/>
+	<station name="Dalmally" code="DAL" lat="56.400986" lon="-4.983569"/>
+	<station name="Dalmarnock" code="DAK" lat="55.841912" lon="-4.21733"/>
+	<station name="Dalmeny" code="DAM" lat="55.98628" lon="-3.381693"/>
+	<station name="Dalmuir" code="DMR" lat="55.911736" lon="-4.426655"/>
+	<station name="Dalreoch" code="DLR" lat="55.947445" lon="-4.577689"/>
+	<station name="Dalry" code="DLY" lat="55.705953" lon="-4.71089"/>
+	<station name="Dalston (Cumbria)" code="DLS" lat="54.846123" lon="-2.987903"/>
+	<station name="Dalston Kingsland" code="DLK" lat="51.548175" lon="-0.075279"/>
+	<station name="Dalton (Cumbria)" code="DLT" lat="54.15427" lon="-3.178485"/>
+	<station name="Dalwhinnie" code="DLW" lat="56.935002" lon="-4.246167"/>
+	<station name="Danby" code="DNY" lat="54.466079" lon="-0.910841"/>
+	<station name="Danescourt" code="DCT" lat="51.499797" lon="-3.233694"/>
+	<station name="Danzey" code="DZY" lat="52.324432" lon="-1.82073"/>
+	<station name="Darlington" code="DAR" lat="54.521589" lon="-1.545604"/>
+	<station name="Darnall" code="DAN" lat="53.384436" lon="-1.41167"/>
+	<station name="Darsham" code="DSM" lat="52.273408" lon="1.523268"/>
+	<station name="Dartford" code="DFD" lat="51.447618" lon="0.219091"/>
+	<station name="Darton" code="DRT" lat="53.588544" lon="-1.531196"/>
+	<station name="Darwen" code="DWN" lat="53.697507" lon="-2.464495"/>
+	<station name="Datchet" code="DAT" lat="51.482776" lon="-0.580145"/>
+	<station name="Davenport" code="DVN" lat="53.390947" lon="-2.152736"/>
+	<station name="Dawlish" code="DWL" lat="50.580528" lon="-3.464707"/>
+	<station name="Dawlish Warren" code="DWW" lat="50.597853" lon="-3.443245"/>
+	<station name="Deal" code="DEA" lat="51.222757" lon="1.399025"/>
+	<station name="Dean (Wilts)" code="DEN" lat="51.042006" lon="-1.634602"/>
+	<station name="Dean Lane" code="DNN" lat="53.50418" lon="-2.183823"/>
+	<station name="Deansgate" code="DGT" lat="53.474085" lon="-2.251148"/>
+	<station name="Deganwy" code="DGY" lat="53.295018" lon="-3.834873"/>
+	<station name="Deighton" code="DHN" lat="53.66849" lon="-1.751899"/>
+	<station name="Delamere" code="DLM" lat="53.228698" lon="-2.666789"/>
+	<station name="Denby Dale" code="DBD" lat="53.573198" lon="-1.663211"/>
+	<station name="Denham" code="DNM" lat="51.578348" lon="-0.497851"/>
+	<station name="Denham Golf Club" code="DGC" lat="51.580219" lon="-0.517996"/>
+	<station name="Denmark Hill" code="DMK" lat="51.468262" lon="-0.089091"/>
+	<station name="Dent" code="DNT" lat="54.283062" lon="-2.363644"/>
+	<station name="Denton" code="DTN" lat="53.457105" lon="-2.130671"/>
+	<station name="Deptford" code="DEP" lat="51.478894" lon="-0.026755"/>
+	<station name="Derby" code="DBY" lat="52.916061" lon="-1.463029"/>
+	<station name="Derby Road (Ipswich)" code="DBR" lat="52.049956" lon="1.183103"/>
+	<station name="Derker" code="DKR" lat="53.549604" lon="-2.101482"/>
+	<station name="Devonport" code="DPT" lat="50.378411" lon="-4.170841"/>
+	<station name="Dewsbury" code="DEW" lat="53.692943" lon="-1.632267"/>
+	<station name="Didcot Parkway" code="DID" lat="51.611232" lon="-1.242536"/>
+	<station name="Digby and Sowton" code="DIG" lat="50.714103" lon="-3.473234"/>
+	<station name="Dilton Marsh" code="DMH" lat="51.24884" lon="-2.207923"/>
+	<station name="Dinas (Mid Glamorgan)" code="DMG" lat="51.617183" lon="-3.436366"/>
+	<station name="Dinas Powys" code="DNS" lat="51.431731" lon="-3.218501"/>
+	<station name="Dingle Road" code="DGL" lat="51.44016" lon="-3.180912"/>
+	<station name="Dingwall" code="DIN" lat="57.594295" lon="-4.42205"/>
+	<station name="Dinsdale" code="DND" lat="54.51476" lon="-1.467311"/>
+	<station name="Dinting" code="DTG" lat="53.449252" lon="-1.970642"/>
+	<station name="DIsley" code="DSL" lat="53.357853" lon="-2.042717"/>
+	<station name="Diss" code="DIS" lat="52.37337" lon="1.124231"/>
+	<station name="Dockyard (Devon)" code="DOC" lat="50.38192" lon="-4.176271"/>
+	<station name="Dodworth" code="DOD" lat="53.544073" lon="-1.53208"/>
+	<station name="Dolau" code="DOL" lat="52.294901" lon="-3.263019"/>
+	<station name="Doleham" code="DLH" lat="50.918348" lon="0.610198"/>
+	<station name="Dolgarrog" code="DLG" lat="53.186105" lon="-3.823223"/>
+	<station name="Dolwyddelan" code="DWD" lat="53.051442" lon="-3.884866"/>
+	<station name="Doncaster" code="DON" lat="53.522749" lon="-1.139798"/>
+	<station name="Dorchester South" code="DCH" lat="50.709047" lon="-2.436336"/>
+	<station name="Dorchester West" code="DCW" lat="50.710504" lon="-2.442389"/>
+	<station name="Dore" code="DOR" lat="53.327915" lon="-1.515242"/>
+	<station name="Dorking" code="DKG" lat="51.241035" lon="-0.324076"/>
+	<station name="Dorking Deepdene" code="DPD" lat="51.238846" lon="-0.324186"/>
+	<station name="Dorking West" code="DKT" lat="51.236146" lon="-0.339284"/>
+	<station name="Dormans" code="DMS" lat="51.155719" lon="-0.004008"/>
+	<station name="Dorridge" code="DDG" lat="52.372259" lon="-1.753448"/>
+	<station name="Dove Holes" code="DVH" lat="53.300209" lon="-1.889453"/>
+	<station name="Dover Priory" code="DVP" lat="51.125687" lon="1.305256"/>
+	<station name="Dovercourt" code="DVC" lat="51.938876" lon="1.280465"/>
+	<station name="Dovey Junction" code="DVY" lat="52.564692" lon="-3.923922"/>
+	<station name="Downham Market" code="DOW" lat="52.604304" lon="0.365678"/>
+	<station name="Drayton Green" code="DRG" lat="51.516498" lon="-0.330298"/>
+	<station name="Drayton Park" code="DYP" lat="51.552569" lon="-0.105122"/>
+	<station name="Drem" code="DRM" lat="56.004664" lon="-2.786943"/>
+	<station name="Driffield" code="DRF" lat="54.001493" lon="-0.434766"/>
+	<station name="Drigg" code="DRI" lat="54.377169" lon="-3.444586"/>
+	<station name="Droitwich Spa" code="DTW" lat="52.26801" lon="-2.158751"/>
+	<station name="Dronfield" code="DRO" lat="53.301236" lon="-1.46953"/>
+	<station name="Drumchapel" code="DMC" lat="55.904573" lon="-4.363549"/>
+	<station name="Drumfrochar" code="DFR" lat="55.941222" lon="-4.771901"/>
+	<station name="Drumgelloch" code="DRU" lat="55.865955" lon="-3.954913"/>
+	<station name="Drumry" code="DMY" lat="55.904387" lon="-4.385121"/>
+	<station name="Duddeston" code="DUD" lat="52.488167" lon="-1.871953"/>
+	<station name="Dudley Port" code="DDP" lat="52.524494" lon="-2.04913"/>
+	<station name="Duffield" code="DFI" lat="52.988925" lon="-1.486327"/>
+	<station name="Duirinish" code="DRN" lat="57.319743" lon="-5.692024"/>
+	<station name="Duke Street" code="DST" lat="55.858494" lon="-4.21288"/>
+	<station name="Dullingham" code="DUL" lat="52.20165" lon="0.366029"/>
+	<station name="Dumbarton Central" code="DBC" lat="55.946651" lon="-4.566773"/>
+	<station name="Dumbarton East" code="DBE" lat="55.942559" lon="-4.553945"/>
+	<station name="Dumbreck" code="DUM" lat="55.844505" lon="-4.301477"/>
+	<station name="Dumfries" code="DMF" lat="55.072618" lon="-3.604173"/>
+	<station name="Dumpton Park" code="DMP" lat="51.345942" lon="1.427406"/>
+	<station name="Dunbar" code="DUN" lat="55.997759" lon="-2.513641"/>
+	<station name="Dunblane" code="DBL" lat="56.185595" lon="-3.965551"/>
+	<station name="Dunbridge" code="DBG" lat="51.033551" lon="-1.547129"/>
+	<station name="Duncraig" code="DCG" lat="57.337136" lon="-5.637264"/>
+	<station name="Dundee" code="DEE" lat="56.456846" lon="-2.970236"/>
+	<station name="Dunfermline Queen Margaret" code="DFL" lat="56.080052" lon="-3.422072"/>
+	<station name="Dunfermline Town" code="DFE" lat="56.068291" lon="-3.451604"/>
+	<station name="Dunkeld and Birnam" code="DKD" lat="56.556729" lon="-3.578294"/>
+	<station name="Dunlop" code="DNL" lat="55.712175" lon="-4.532499"/>
+	<station name="Dunrobin Castle" code="DNO" lat="57.985905" lon="-3.946863"/>
+	<station name="Dunston" code="DOT" lat="54.949445" lon="-1.636231"/>
+	<station name="Dunton Green" code="DNG" lat="51.296692" lon="0.171952"/>
+	<station name="Durham" code="DHM" lat="54.778898" lon="-1.582112"/>
+	<station name="Durrington-on-Sea" code="DUR" lat="50.817091" lon="-0.410947"/>
+	<station name="Dyce" code="DYC" lat="57.205767" lon="-2.19304"/>
+	<station name="Dyffryn Ardudwy" code="DYF" lat="52.788996" lon="-4.104974"/>
+	<station name="Eaglescliffe" code="EAG" lat="54.529352" lon="-1.349669"/>
+	<station name="Ealing Broadway" code="EAL" lat="51.514852" lon="-0.300485"/>
+	<station name="Earlestown" code="ERL" lat="53.450916" lon="-2.638373"/>
+	<station name="Earley" code="EAR" lat="51.44088" lon="-0.918034"/>
+	<station name="Earlsfield" code="EAD" lat="51.442388" lon="-0.187431"/>
+	<station name="Earlswood (Surrey)" code="ELD" lat="51.228604" lon="-0.170586"/>
+	<station name="Earlswood (West Midlands)" code="EWD" lat="52.36692" lon="-1.861411"/>
+	<station name="East Croydon" code="ECR" lat="51.375832" lon="-0.092572"/>
+	<station name="East Didsbury" code="EDY" lat="53.409542" lon="-2.222107"/>
+	<station name="East Dulwich" code="EDW" lat="51.461569" lon="-0.080135"/>
+	<station name="East Farleigh" code="EFL" lat="51.254861" lon="0.484847"/>
+	<station name="East Garforth" code="EGF" lat="53.791868" lon="-1.37021"/>
+	<station name="East Grinstead" code="EGR" lat="51.126263" lon="-0.017735"/>
+	<station name="East Kilbride" code="EKL" lat="55.766105" lon="-4.180318"/>
+	<station name="East Malling" code="EML" lat="51.285647" lon="0.4394"/>
+	<station name="East Tilbury" code="ETL" lat="51.484537" lon="0.412771"/>
+	<station name="East Worthing" code="EWR" lat="50.821081" lon="-0.354877"/>
+	<station name="Eastbourne" code="EBN" lat="50.769463" lon="0.280271"/>
+	<station name="Eastbrook" code="EBK" lat="51.437562" lon="-3.206172"/>
+	<station name="Easterhouse" code="EST" lat="55.859532" lon="-4.107212"/>
+	<station name="Eastham Rake" code="ERA" lat="53.307358" lon="-2.981589"/>
+	<station name="Eastleigh" code="ESL" lat="50.969062" lon="-1.349258"/>
+	<station name="Eastrington" code="EGN" lat="53.755151" lon="-0.787421"/>
+	<station name="Eccles" code="ECC" lat="53.485533" lon="-2.334227"/>
+	<station name="Eccles Road" code="ECS" lat="52.471157" lon="0.970053"/>
+	<station name="Eccleston Park" code="ECL" lat="53.430533" lon="-2.781401"/>
+	<station name="Edale" code="EDL" lat="53.36503" lon="-1.81705"/>
+	<station name="Eden Park" code="EDN" lat="51.390255" lon="-0.026748"/>
+	<station name="Edenbridge" code="EBR" lat="51.208334" lon="0.060183"/>
+	<station name="Edenbridge Town" code="EBT" lat="51.200086" lon="0.067299"/>
+	<station name="Edge Hill" code="EDG" lat="53.402656" lon="-2.947558"/>
+	<station name="Edinburgh Park" code="EDP" lat="55.927457" lon="-3.307711"/>
+	<station name="Edinburgh Waverley" code="EDB" lat="55.951916" lon="-3.189132"/>
+	<station name="Edmonton Green" code="EDR" lat="51.624717" lon="-0.061336"/>
+	<station name="Effingham Junction" code="EFF" lat="51.290958" lon="-0.419581"/>
+	<station name="Eggesford" code="EGG" lat="50.887797" lon="-3.875345"/>
+	<station name="Egham" code="EGH" lat="51.429142" lon="-0.546718"/>
+	<station name="Egton" code="EGT" lat="54.437263" lon="-0.761246"/>
+	<station name="Elephant and Castle" code="EPH" lat="51.494079" lon="-0.098492"/>
+	<station name="Elgin" code="ELG" lat="57.642963" lon="-3.311557"/>
+	<station name="Ellesmere Port" code="ELP" lat="53.282074" lon="-2.896917"/>
+	<station name="Elmers End" code="ELE" lat="51.397821" lon="-0.049989"/>
+	<station name="Elmstead Woods" code="ESD" lat="51.416963" lon="0.044214"/>
+	<station name="Elmswell" code="ESW" lat="52.238342" lon="0.912677"/>
+	<station name="Elsecar" code="ELR" lat="53.498883" lon="-1.426723"/>
+	<station name="Elsenham" code="ESM" lat="51.92032" lon="0.228244"/>
+	<station name="Elstree and Borehamwood" code="ELS" lat="51.652786" lon="-0.280014"/>
+	<station name="Eltham" code="ELW" lat="51.455418" lon="0.052273"/>
+	<station name="Elton and Orston" code="ELO" lat="52.952019" lon="-0.855877"/>
+	<station name="Ely (Cambs)" code="ELY" lat="52.390305" lon="0.266176"/>
+	<station name="Emerson Park" code="EMP" lat="51.568486" lon="0.21989"/>
+	<station name="Emsworth" code="EMS" lat="50.851262" lon="-0.93871"/>
+	<station name="Enfield Chase" code="ENC" lat="51.652963" lon="-0.090759"/>
+	<station name="Enfield Lock" code="ENL" lat="51.670872" lon="-0.028592"/>
+	<station name="Enfield Town" code="ENF" lat="51.651929" lon="-0.079368"/>
+	<station name="Entwistle" code="ENT" lat="53.655235" lon="-2.413692"/>
+	<station name="Epsom" code="EPS" lat="51.334256" lon="-0.268969"/>
+	<station name="Epsom Downs" code="EPD" lat="51.323737" lon="-0.238712"/>
+	<station name="Erdington" code="ERD" lat="52.528125" lon="-1.840017"/>
+	<station name="Eridge" code="ERI" lat="51.089182" lon="0.200793"/>
+	<station name="Erith" code="ERH" lat="51.480776" lon="0.176241"/>
+	<station name="Esher" code="ESH" lat="51.379822" lon="-0.353274"/>
+	<station name="Essex Road" code="EXR" lat="51.540666" lon="-0.095762"/>
+	<station name="Etchingham" code="ETC" lat="51.010236" lon="0.44332"/>
+	<station name="Etruria" code="ETR" lat="53.019496" lon="-2.201837"/>
+	<station name="Euxton Balshaw Lane" code="EBA" lat="53.659836" lon="-2.671366"/>
+	<station name="Evesham" code="EVE" lat="52.098366" lon="-1.947069"/>
+	<station name="Ewell East" code="EWE" lat="51.345184" lon="-0.241314"/>
+	<station name="Ewell West" code="EWW" lat="51.350895" lon="-0.256245"/>
+	<station name="Exeter Central" code="EXC" lat="50.726374" lon="-3.532912"/>
+	<station name="Exeter St Davids" code="EXD" lat="50.729365" lon="-3.543278"/>
+	<station name="Exeter St Thomas" code="EXT" lat="50.717087" lon="-3.53873"/>
+	<station name="Exhibition Centre (Glasgow)" code="EXG" lat="55.861459" lon="-4.283514"/>
+	<station name="Exmouth" code="EXM" lat="50.621518" lon="-3.415247"/>
+	<station name="Exton" code="EXN" lat="50.667587" lon="-3.443374"/>
+	<station name="Eynsford" code="EYN" lat="51.362541" lon="0.204569"/>
+	<station name="Failsworth" code="FLS" lat="53.5106" lon="-2.163067"/>
+	<station name="Fairbourne" code="FRB" lat="52.696266" lon="-4.048649"/>
+	<station name="Fairfield" code="FRF" lat="53.471236" lon="-2.145351"/>
+	<station name="Fairlie" code="FRL" lat="55.751997" lon="-4.853056"/>
+	<station name="Fairwater" code="FRW" lat="51.493865" lon="-3.233595"/>
+	<station name="Falconwood" code="FCN" lat="51.459203" lon="0.079448"/>
+	<station name="Falkirk Grahamston" code="FKG" lat="56.002057" lon="-3.78466"/>
+	<station name="Falkirk High" code="FKK" lat="55.991671" lon="-3.793062"/>
+	<station name="Falls of Cruachan" code="FOC" lat="56.394074" lon="-5.113473"/>
+	<station name="Falmer" code="FMR" lat="50.862138" lon="-0.087637"/>
+	<station name="Falmouth Docks" code="FAL" lat="50.150461" lon="-5.056018"/>
+	<station name="Falmouth Town" code="FMT" lat="50.148202" lon="-5.063929"/>
+	<station name="Fambridge" code="FAM" lat="51.64855" lon="0.682992"/>
+	<station name="Fareham" code="FRM" lat="51.296781" lon="-0.755911"/>
+	<station name="Farnborough Main" code="FNB" lat="50.853397" lon="-1.19254"/>
+	<station name="Farnborough North" code="FNN" lat="51.302239" lon="-0.743184"/>
+	<station name="Farncombe" code="FNC" lat="51.196457" lon="-0.604844"/>
+	<station name="Farnham" code="FNH" lat="51.211882" lon="-0.792541"/>
+	<station name="Farningham Road" code="FNR" lat="51.401506" lon="0.234916"/>
+	<station name="Farnworth" code="FNW" lat="53.550095" lon="-2.38797"/>
+	<station name="Farringdon (London)" code="ZFD" lat="51.520572" lon="-0.104752"/>
+	<station name="Fauldhouse" code="FLD" lat="55.82235" lon="-3.720158"/>
+	<station name="Faversham" code="FAV" lat="51.311709" lon="0.889986"/>
+	<station name="Faygate" code="FGT" lat="51.095778" lon="-0.263052"/>
+	<station name="Fazakerley" code="FAZ" lat="53.469204" lon="-2.936827"/>
+	<station name="Fearn" code="FRN" lat="57.778342" lon="-3.993803"/>
+	<station name="Featherstone" code="FEA" lat="53.678668" lon="-1.359127"/>
+	<station name="Felixstowe" code="FLX" lat="51.966835" lon="1.349803"/>
+	<station name="Feltham" code="FEL" lat="51.448345" lon="-0.408854"/>
+	<station name="Feniton" code="FNT" lat="50.786563" lon="-3.285466"/>
+	<station name="Fenny Stratford" code="FEN" lat="51.99997" lon="-0.716717"/>
+	<station name="Fernhill" code="FER" lat="51.686719" lon="-3.396836"/>
+	<station name="Ferriby" code="FRY" lat="53.71698" lon="-0.507217"/>
+	<station name="Ferryside" code="FYS" lat="51.768366" lon="-4.369302"/>
+	<station name="Ffairfach" code="FFA" lat="51.872942" lon="-3.992731"/>
+	<station name="Filey" code="FIL" lat="54.209739" lon="-0.293588"/>
+	<station name="Filton Abbey Wood" code="FIT" lat="51.50495" lon="-2.561951"/>
+	<station name="Finchley Road and Frognal" code="FNY" lat="51.550268" lon="-0.182906"/>
+	<station name="Finsbury Park (London)" code="FPK" lat="51.564797" lon="-0.105792"/>
+	<station name="Finstock" code="FIN" lat="51.852824" lon="-1.469565"/>
+	<station name="Fishbourne (Sussex)" code="FSB" lat="50.838763" lon="-0.81531"/>
+	<station name="Fishersgate" code="FSG" lat="50.833937" lon="-0.218906"/>
+	<station name="Fishguard Harbour" code="FGH" lat="52.009759" lon="-4.98678"/>
+	<station name="Fiskerton" code="FSK" lat="53.060677" lon="-0.911566"/>
+	<station name="Fitzwilliam" code="FZW" lat="53.632257" lon="-1.373811"/>
+	<station name="Five Ways" code="FWY" lat="52.471014" lon="-1.91284"/>
+	<station name="Fleet" code="FLE" lat="51.290647" lon="-0.831331"/>
+	<station name="Flimby" code="FLM" lat="54.689804" lon="-3.520737"/>
+	<station name="Flint" code="FLN" lat="53.250085" lon="-3.132935"/>
+	<station name="Flitwick" code="FLT" lat="52.003533" lon="-0.494652"/>
+	<station name="Flixton" code="FLI" lat="53.443635" lon="-2.384241"/>
+	<station name="Flowery Field" code="FLF" lat="53.461741" lon="-2.080895"/>
+	<station name="Folkestone Central" code="FKC" lat="51.082748" lon="1.168871"/>
+	<station name="Folkestone West" code="FKW" lat="51.084685" lon="1.154098"/>
+	<station name="Ford" code="FOD" lat="50.829367" lon="-0.578574"/>
+	<station name="Forest Gate" code="FOG" lat="51.549386" lon="0.024063"/>
+	<station name="Forest Hill" code="FOH" lat="51.439992" lon="-0.052697"/>
+	<station name="Formby" code="FBY" lat="53.553502" lon="-3.070831"/>
+	<station name="Forres" code="FOR" lat="57.609559" lon="-3.626035"/>
+	<station name="Forsinard" code="FRS" lat="58.356855" lon="-3.89729"/>
+	<station name="Fort Matilda" code="FTM" lat="55.958935" lon="-4.795276"/>
+	<station name="Fort William" code="FTW" lat="56.820373" lon="-5.106077"/>
+	<station name="Four Oaks" code="FOK" lat="52.580051" lon="-1.828356"/>
+	<station name="Foxfield" code="FOX" lat="54.258536" lon="-3.215534"/>
+	<station name="Foxton" code="FXN" lat="52.119173" lon="0.056257"/>
+	<station name="Frant" code="FRT" lat="51.103927" lon="0.294712"/>
+	<station name="Fratton" code="FTN" lat="50.796288" lon="-1.073901"/>
+	<station name="Freshfield" code="FRE" lat="53.566073" lon="-3.071816"/>
+	<station name="Freshford" code="FFD" lat="51.341751" lon="-2.300993"/>
+	<station name="Frimley" code="FML" lat="51.311794" lon="-0.74725"/>
+	<station name="Frinton-on-Sea" code="FRI" lat="51.837691" lon="1.243364"/>
+	<station name="Frizinghall" code="FZH" lat="53.819916" lon="-1.76873"/>
+	<station name="Frodsham" code="FRD" lat="53.295385" lon="-2.724595"/>
+	<station name="Frome" code="FRO" lat="51.226953" lon="-2.309692"/>
+	<station name="Fulwell" code="FLW" lat="51.433744" lon="-0.349496"/>
+	<station name="Furness Vale" code="FNV" lat="53.348597" lon="-1.989219"/>
+	<station name="Furze Platt" code="FZP" lat="51.532926" lon="-0.728599"/>
+	<station name="Gainsborough Central" code="GNB" lat="53.398446" lon="-0.769469"/>
+	<station name="Gainsborough Lea Road" code="GBL" lat="53.386021" lon="-0.769098"/>
+	<station name="Garelochhead" code="GCH" lat="56.079924" lon="-4.825487"/>
+	<station name="Garforth" code="GRF" lat="53.796602" lon="-1.382588"/>
+	<station name="Gargrave" code="GGV" lat="53.978318" lon="-2.105282"/>
+	<station name="Garrowhill" code="GAR" lat="55.855231" lon="-4.12889"/>
+	<station name="Garscadden" code="GRS" lat="55.887456" lon="-4.364827"/>
+	<station name="Garsdale" code="GSD" lat="54.321407" lon="-2.326653"/>
+	<station name="Garston (Herts)" code="GSN" lat="51.686738" lon="-0.381878"/>
+	<station name="Garston (Merseyside)" code="GRM" lat="53.357126" lon="-2.894932"/>
+	<station name="Garswood" code="GSW" lat="53.488085" lon="-2.671233"/>
+	<station name="Garth (Mid Glamorgan)" code="GMG" lat="51.596729" lon="-3.642142"/>
+	<station name="Garth (Powys)" code="GTH" lat="52.13311" lon="-3.530196"/>
+	<station name="Garve" code="GVE" lat="57.61324" lon="-4.688518"/>
+	<station name="Gathurst" code="GST" lat="53.559451" lon="-2.694187"/>
+	<station name="Gatley" code="GTY" lat="53.39253" lon="-2.231252"/>
+	<station name="Gatwick Airport" code="GTW" lat="51.156989" lon="-0.160869"/>
+	<station name="Georgemas Junction" code="GGJ" lat="58.513383" lon="-3.452233"/>
+	<station name="Gerrards Cross" code="GER" lat="51.5885" lon="-0.555459"/>
+	<station name="Gidea Park" code="GDP" lat="51.582086" lon="0.206217"/>
+	<station name="Giffnock" code="GFN" lat="55.803912" lon="-4.292915"/>
+	<station name="Giggleswick" code="GIG" lat="54.062325" lon="-2.30356"/>
+	<station name="Gilberdyke" code="GBD" lat="53.747893" lon="-0.732413"/>
+	<station name="Gilfach Fargoed" code="GFF" lat="51.683991" lon="-3.227533"/>
+	<station name="Gillingham (Dorset)" code="GIL" lat="51.033603" lon="-2.272691"/>
+	<station name="Gillingham (Kent)" code="GLM" lat="51.386413" lon="0.549991"/>
+	<station name="Gilshochill" code="GSC" lat="55.897243" lon="-4.283002"/>
+	<station name="Gipsy Hill" code="GIP" lat="51.424559" lon="-0.083809"/>
+	<station name="Girvan" code="GIR" lat="55.246853" lon="-4.84903"/>
+	<station name="Glaisdale" code="GLS" lat="54.439533" lon="-0.793857"/>
+	<station name="Glan Conwy" code="GCW" lat="53.268784" lon="-3.797435"/>
+	<station name="Glasgow Central" code="GLC" lat="55.859022" lon="-4.258233"/>
+	<station name="Glasgow Queen Street" code="GLQ" lat="55.862319" lon="-4.251247"/>
+	<station name="Glasshoughton" code="GLH" lat="53.708681" lon="-1.34098"/>
+	<station name="Glazebrook" code="GLZ" lat="53.428209" lon="-2.459576"/>
+	<station name="Gleneagles" code="GLE" lat="56.274179" lon="-3.731512"/>
+	<station name="Glenfinnan" code="GLF" lat="56.872295" lon="-5.449437"/>
+	<station name="Glengarnock" code="GLG" lat="55.738836" lon="-4.674498"/>
+	<station name="Glenrothes with Thornton" code="GLT" lat="56.162184" lon="-3.143622"/>
+	<station name="Glossop" code="GLO" lat="53.44489" lon="-1.950774"/>
+	<station name="Gloucester" code="GCR" lat="51.865729" lon="-2.238893"/>
+	<station name="Glynde" code="GLY" lat="50.858879" lon="0.069957"/>
+	<station name="Gobowen" code="GOB" lat="52.893926" lon="-3.037357"/>
+	<station name="Godalming" code="GOD" lat="51.186782" lon="-0.618391"/>
+	<station name="Godley" code="GDL" lat="53.452069" lon="-2.055411"/>
+	<station name="Godstone" code="GDN" lat="51.218129" lon="-0.051147"/>
+	<station name="Goldthorpe" code="GOE" lat="53.533792" lon="-1.312582"/>
+	<station name="Golf Street" code="GOF" lat="56.49795" lon="-2.720266"/>
+	<station name="Golspie" code="GOL" lat="57.970675" lon="-3.987691"/>
+	<station name="Gomshall" code="GOM" lat="51.219301" lon="-0.441977"/>
+	<station name="Goodmayes" code="GMY" lat="51.565536" lon="0.110594"/>
+	<station name="Goole" code="GOO" lat="53.704975" lon="-0.874342"/>
+	<station name="Goostrey" code="GTR" lat="53.223012" lon="-2.325948"/>
+	<station name="Gordon Hill" code="GDH" lat="51.663481" lon="-0.095142"/>
+	<station name="Goring and Streatley" code="GOR" lat="51.52201" lon="-1.133388"/>
+	<station name="Goring-by-Sea" code="GBS" lat="50.817249" lon="-0.433738"/>
+	<station name="Gorton" code="GTO" lat="53.468993" lon="-2.166964"/>
+	<station name="Gospel Oak" code="GPO" lat="51.555501" lon="-0.150775"/>
+	<station name="Gourock" code="GRK" lat="55.962228" lon="-4.815892"/>
+	<station name="Gowerton" code="GWN" lat="51.648713" lon="-4.035552"/>
+	<station name="Goxhill" code="GOX" lat="53.676801" lon="-0.33724"/>
+	<station name="Grange Park" code="GPK" lat="51.648857" lon="-0.092931"/>
+	<station name="Grange-Over-Sands" code="GOS" lat="54.195758" lon="-2.902756"/>
+	<station name="Grangetown (South Glamorgan)" code="GTN" lat="51.467134" lon="-3.18966"/>
+	<station name="Grantham" code="GRA" lat="52.907134" lon="-0.643999"/>
+	<station name="Grateley" code="GRT" lat="51.169814" lon="-1.620048"/>
+	<station name="Gravelly Hill" code="GVH" lat="52.515462" lon="-1.853077"/>
+	<station name="Gravesend" code="GRV" lat="51.441161" lon="0.366183"/>
+	<station name="Grays" code="GRY" lat="51.476328" lon="0.321329"/>
+	<station name="Great Ayton" code="GTA" lat="54.48949" lon="-1.115224"/>
+	<station name="Great Bentley" code="GRB" lat="51.851942" lon="1.065698"/>
+	<station name="Great Chesterford" code="GRC" lat="52.059878" lon="0.193207"/>
+	<station name="Great Coates" code="GCT" lat="53.575805" lon="-0.130107"/>
+	<station name="Great Malvern" code="GMV" lat="52.10885" lon="-2.318479"/>
+	<station name="Great Missenden" code="GMN" lat="51.703399" lon="-0.709329"/>
+	<station name="Great Yarmouth" code="GYM" lat="52.612951" lon="1.72062"/>
+	<station name="Green Lane" code="GNL" lat="53.38325" lon="-3.016771"/>
+	<station name="Green Road" code="GNR" lat="54.244041" lon="-3.24529"/>
+	<station name="Greenbank" code="GBK" lat="53.252051" lon="-2.533013"/>
+	<station name="Greenfaulds" code="GRL" lat="55.935205" lon="-3.992917"/>
+	<station name="Greenfield" code="GNF" lat="53.538884" lon="-2.013895"/>
+	<station name="Greenford" code="GFD" lat="51.54275" lon="-0.346168"/>
+	<station name="Greenhithe for Bluewater" code="GNH" lat="51.450491" lon="0.279122"/>
+	<station name="Greenock Central" code="GKC" lat="55.945326" lon="-4.751731"/>
+	<station name="Greenock West" code="GKW" lat="55.94752" lon="-4.767793"/>
+	<station name="Greenwich" code="GNW" lat="51.477971" lon="-0.01474"/>
+	<station name="Gretna Green" code="GEA" lat="55.001369" lon="-3.065582"/>
+	<station name="Grimsby Docks" code="GMD" lat="53.574344" lon="-0.07575"/>
+	<station name="Grimsby Town" code="GMB" lat="53.563517" lon="-0.086619"/>
+	<station name="Grindleford" code="GRN" lat="53.305372" lon="-1.625138"/>
+	<station name="Grosmont" code="GMT" lat="54.436471" lon="-0.725209"/>
+	<station name="Grove Park" code="GRP" lat="51.430856" lon="0.021569"/>
+	<station name="Guide Bridge" code="GUI" lat="53.474496" lon="-2.114042"/>
+	<station name="Guildford" code="GLD" lat="51.2369" lon="-0.581036"/>
+	<station name="Guiseley" code="GSY" lat="53.875914" lon="-1.715027"/>
+	<station name="Gunnersbury" code="GUN" lat="51.491287" lon="-0.275228"/>
+	<station name="Gunnislake" code="GSL" lat="50.516539" lon="-4.219149"/>
+	<station name="Gunton" code="GNT" lat="52.865714" lon="1.350175"/>
+	<station name="Gwersyllt" code="GWE" lat="53.072934" lon="-3.017861"/>
+	<station name="Gypsy Lane" code="GYP" lat="54.533309" lon="-1.180138"/>
+	<station name="Habrough" code="HAB" lat="53.606124" lon="-0.269059"/>
+	<station name="Hackbridge" code="HCB" lat="51.377272" lon="-0.153438"/>
+	<station name="Hackney Central" code="HKC" lat="51.547131" lon="-0.055154"/>
+	<station name="Hackney Downs" code="HAC" lat="51.548611" lon="-0.060259"/>
+	<station name="Hackney Wick" code="HKW" lat="51.543365" lon="-0.024833"/>
+	<station name="Haddenham and Thame Parkway" code="HDM" lat="51.771291" lon="-0.942285"/>
+	<station name="Haddiscoe" code="HAD" lat="52.529934" lon="1.623433"/>
+	<station name="Hadfield" code="HDF" lat="53.461035" lon="-1.96546"/>
+	<station name="Hadley Wood" code="HDW" lat="51.668881" lon="-0.175857"/>
+	<station name="Hag Fold" code="HGF" lat="53.533626" lon="-2.494245"/>
+	<station name="Hagley" code="HAG" lat="52.42225" lon="-2.146624"/>
+	<station name="Hairmyres" code="HMY" lat="55.761791" lon="-4.219235"/>
+	<station name="Hale" code="HAL" lat="53.378528" lon="-2.347668"/>
+	<station name="Halesworth" code="HAS" lat="52.346995" lon="1.506059"/>
+	<station name="Halewood" code="HED" lat="53.364535" lon="-2.829728"/>
+	<station name="Halifax" code="HFX" lat="53.721033" lon="-1.853675"/>
+	<station name="Hall Green" code="HLG" lat="52.43671" lon="-1.846193"/>
+	
+	<station name="Hall Road" code="HLR" lat="53.497481" lon="-3.049704"/>
+	<station name="Halling" code="HAI" lat="51.352383" lon="0.445381"/>
+	<station name="Haltwhistle" code="HWH" lat="54.967852" lon="-2.463047"/>
+	<station name="Ham Street" code="HMT" lat="51.068177" lon="0.855256"/>
+	<station name="Hamble" code="HME" lat="50.870764" lon="-1.328241"/>
+	<station name="Hamilton Central" code="HNC" lat="55.773116" lon="-4.038367"/>
+	<station name="Hamilton Square" code="BKQ" lat="53.394512" lon="-3.014397"/>
+	<station name="Hamilton West" code="HNW" lat="55.778866" lon="-4.055331"/>
+	<station name="Hammerton" code="HMM" lat="53.996274" lon="-1.283916"/>
+	<station name="Hampden Park (Sussex)" code="HMD" lat="50.79641" lon="0.279393"/>
+	<station name="Hampstead Heath" code="HDH" lat="51.555252" lon="-0.165265"/>
+	<station name="Hampton (London)" code="HMP" lat="51.416034" lon="-0.371157"/>
+	<station name="Hampton Court" code="HMC" lat="51.40235" lon="-0.342954"/>
+	<station name="Hampton Wick" code="HMW" lat="51.414423" lon="-0.312244"/>
+	<station name="Hampton-in-Arden" code="HIA" lat="52.428856" lon="-1.700371"/>
+	<station name="Hamstead (Birmingham)" code="HSD" lat="52.53128" lon="-1.929036"/>
+	<station name="Hamworthy" code="HAM" lat="50.724974" lon="-2.018507"/>
+	<station name="Hanborough" code="HND" lat="51.825262" lon="-1.374192"/>
+	<station name="Handforth" code="HTH" lat="53.346309" lon="-2.213898"/>
+	<station name="Hanwell" code="HAN" lat="51.511779" lon="-0.338386"/>
+	<station name="Hapton" code="HPN" lat="53.781614" lon="-2.316812"/>
+	<station name="Harlech" code="HRL" lat="52.861528" lon="-4.109478"/>
+	<station name="Harlesden" code="HDN" lat="51.536245" lon="-0.257139"/>
+	<station name="Harling Road" code="HRD" lat="52.454083" lon="0.908699"/>
+	<station name="Harlington (Beds)" code="HLN" lat="51.961897" lon="-0.495191"/>
+	<station name="Harlow Mill" code="HWM" lat="51.790377" lon="0.132436"/>
+	<station name="Harlow Town" code="HWN" lat="51.781126" lon="0.095082"/>
+	<station name="Harold Wood" code="HRO" lat="51.593075" lon="0.234112"/>
+	<station name="Harpenden" code="HPD" lat="51.815004" lon="-0.352115"/>
+	<station name="Harrietsham" code="HRM" lat="51.24487" lon="0.672488"/>
+	<station name="Harringay" code="HGY" lat="51.577504" lon="-0.104962"/>
+	<station name="Harringay Green Lanes" code="HRY" lat="51.577203" lon="-0.097829"/>
+	<station name="Harrington" code="HRR" lat="54.613536" lon="-3.565709"/>
+	<station name="Harrogate" code="HGT" lat="53.993251" lon="-1.537277"/>
+	<station name="Harrow and Wealdstone" code="HRW" lat="51.592093" lon="-0.334895"/>
+	<station name="Harrow-on-the-Hill" code="HOH" lat="51.579284" lon="-0.336824"/>
+	<station name="Hartford" code="HTF" lat="53.241834" lon="-2.554447"/>
+	<station name="Hartlebury" code="HBY" lat="52.334431" lon="-2.221178"/>
+	<station name="Hartlepool" code="HPL" lat="54.686822" lon="-1.208184"/>
+	<station name="Hartwood" code="HTW" lat="55.811058" lon="-3.838855"/>
+	<station name="Harwich International" code="HPQ" lat="51.947367" lon="1.254003"/>
+	<station name="Harwich Town" code="HWC" lat="51.944165" lon="1.286767"/>
+	<station name="Haslemere" code="HSL" lat="51.088589" lon="-0.719808"/>
+	<station name="Hassocks" code="HSK" lat="50.924417" lon="-0.145471"/>
+	<station name="Hastings" code="HGS" lat="50.857705" lon="0.576475"/>
+	<station name="Hatch End" code="HTE" lat="51.609442" lon="-0.36842"/>
+	<station name="Hatfield (Herts)" code="HAT" lat="51.765102" lon="-0.21595"/>
+	<station name="Hatfield and Stainforth" code="HFS" lat="53.588398" lon="-1.024443"/>
+	<station name="Hatfield Peverel" code="HAP" lat="51.77971" lon="0.591897"/>
+	<station name="Hathersage" code="HSG" lat="53.326044" lon="-1.652123"/>
+	<station name="Hattersley" code="HTY" lat="53.44518" lon="-2.040724"/>
+	<station name="Hatton (Warks)" code="HTN" lat="52.295229" lon="-1.672802"/>
+	<station name="Havant" code="HAV" lat="50.85436" lon="-0.981828"/>
+	<station name="Havenhouse" code="HVN" lat="53.114673" lon="0.272629"/>
+	<station name="Haverfordwest" code="HVF" lat="51.802625" lon="-4.95859"/>
+	<station name="Hawarden" code="HWD" lat="53.185498" lon="-3.032021"/>
+	<station name="Hawarden Bridge" code="HWB" lat="53.219746" lon="-3.030336"/>
+	<station name="Hawkhead" code="HKH" lat="55.841908" lon="-4.399906"/>
+	<station name="Haydon Bridge" code="HDB" lat="54.974905" lon="-2.248529"/>
+	<station name="Haydons Road" code="HYR" lat="51.425453" lon="-0.188627"/>
+	<station name="Hayes (Kent)" code="HYS" lat="51.376655" lon="0.010578"/>
+	<station name="Hayes and Harlington" code="HAY" lat="51.502881" lon="-0.420244"/>
+	<station name="Hayle" code="HYL" lat="50.185384" lon="-5.419734"/>
+	<station name="Haymarket" code="HYM" lat="55.945621" lon="-3.218174"/>
+	<station name="Haywards Heath" code="HHE" lat="51.005526" lon="-0.10519"/>
+	<station name="Hazel Grove" code="HAZ" lat="53.377236" lon="-2.121911"/>
+	<station name="Headcorn" code="HCN" lat="51.165438" lon="0.627931"/>
+	<station name="Headingley" code="HDY" lat="53.817896" lon="-1.59434"/>
+	<station name="Headstone Lane" code="HDL" lat="51.602899" lon="-0.357116"/>
+	<station name="Heald Green" code="HDG" lat="53.369832" lon="-2.236725"/>
+	<station name="Healing" code="HLI" lat="53.581737" lon="-0.160154"/>
+	<station name="Heath High Level" code="HHL" lat="51.516942" lon="-3.181634"/>
+	<station name="Heath Low Level" code="HLL" lat="51.516005" lon="-3.182271"/>
+	<station name="Heathrow Airport T123" code="HXX" lat="51.471238" lon="-0.453712"/>
+	<station name="Heathrow Airport T4" code="HAF" lat="51.458812" lon="-0.446216"/>
+	<station name="Heaton Chapel" code="HTC" lat="53.425831" lon="-2.179442"/>
+	<station name="Hebden Bridge" code="HBD" lat="53.738041" lon="-2.009403"/>
+	<station name="Heckington" code="HEC" lat="52.977296" lon="-0.29407"/>
+	<station name="Hedge End" code="HDE" lat="50.932376" lon="-1.294904"/>
+	<station name="Hednesford" code="HNF" lat="52.709924" lon="-2.002096"/>
+	<station name="Heighington" code="HEI" lat="54.596499" lon="-1.581489"/>
+	<station name="Helensburgh Central" code="HLC" lat="56.003997" lon="-4.73189"/>
+	<station name="Helensburgh Upper" code="HLU" lat="56.012569" lon="-4.730901"/>
+	<station name="Hellifield" code="HLD" lat="54.01099" lon="-2.228008"/>
+	<station name="Helmsdale" code="HMS" lat="58.117691" lon="-3.658834"/>
+	<station name="Helsby" code="HSB" lat="53.275763" lon="-2.770643"/>
+	<station name="Hemel Hempstead" code="HML" lat="51.742161" lon="-0.49065"/>
+	<station name="Hendon" code="HEN" lat="51.579942" lon="-0.238795"/>
+	<station name="Hengoed" code="HNG" lat="51.647081" lon="-3.225734"/>
+	<station name="Henley-in-Arden" code="HNL" lat="52.290766" lon="-1.784296"/>
+	<station name="Henley-on-Thames" code="HOT" lat="51.53391" lon="-0.899487"/>
+	<station name="Hensall" code="HEL" lat="53.698439" lon="-1.11469"/>
+	<station name="Hereford" code="HFD" lat="52.060946" lon="-2.708033"/>
+	<station name="Herne Bay" code="HNB" lat="51.364564" lon="1.118463"/>
+	<station name="Herne Hill" code="HNH" lat="51.452876" lon="-0.101728"/>
+	<station name="Hersham" code="HER" lat="51.376588" lon="-0.389827"/>
+	<station name="Hertford East" code="HFE" lat="51.798998" lon="-0.072355"/>
+	<station name="Hertford North" code="HFN" lat="51.798927" lon="-0.092094"/>
+	<station name="Hessle" code="HES" lat="53.717484" lon="-0.44158"/>
+	<station name="Heswall" code="HSW" lat="53.329732" lon="-3.073328"/>
+	<station name="Hever" code="HEV" lat="51.181335" lon="0.094924"/>
+	<station name="Heworth" code="HEW" lat="54.951533" lon="-1.555435"/>
+	<station name="Hexham" code="HEX" lat="54.97293" lon="-2.093206"/>
+	<station name="Heyford" code="HYD" lat="51.918719" lon="-1.299871"/>
+	<station name="Heysham Port" code="HHB" lat="54.033026" lon="-2.912858"/>
+	<station name="High Brooms" code="HIB" lat="51.14955" lon="0.277605"/>
+	<station name="High Street (Glasgow)" code="HST" lat="55.859487" lon="-4.240194"/>
+	<station name="High Wycombe" code="HWY" lat="51.629797" lon="-0.746036"/>
+	<station name="Higham" code="HGM" lat="51.427138" lon="0.465658"/>
+	<station name="Highams Park" code="HIP" lat="51.608256" lon="-0.000205"/>
+	<station name="Highbridge and Burnham" code="HIG" lat="51.218268" lon="-2.97157"/>
+	<station name="Highbury and Islington" code="HHY" lat="51.546133" lon="-0.103677"/>
+	<station name="Hightown" code="HTO" lat="53.525087" lon="-3.057192"/>
+	<station name="Hildenborough" code="HLB" lat="51.214675" lon="0.227206"/>
+	<station name="Hillfoot" code="HLF" lat="55.919796" lon="-4.320985"/>
+	<station name="Hillington East" code="HLE" lat="55.853894" lon="-4.354876"/>
+	<station name="Hillington West" code="HLW" lat="55.855794" lon="-4.372087"/>
+	<station name="Hillside" code="HIL" lat="53.621938" lon="-3.025048"/>
+	<station name="Hilsea" code="HLS" lat="50.827917" lon="-1.059095"/>
+	<station name="Hinchley Wood" code="HYW" lat="51.375059" lon="-0.340373"/>
+	<station name="Hinckley (Leics)" code="HNK" lat="52.535217" lon="-1.371446"/>
+	<station name="Hindley" code="HIN" lat="53.542179" lon="-2.575583"/>
+	<station name="Hinton Admiral" code="HNA" lat="50.752513" lon="-1.714124"/>
+	<station name="Hitchin" code="HIT" lat="51.953757" lon="-0.264012"/>
+	<station name="Hither Green" code="HGR" lat="51.451615" lon="-0.000853"/>
+	<station name="Hockley" code="HOC" lat="51.603603" lon="0.659129"/>
+	<station name="Hollingbourne" code="HBN" lat="51.264906" lon="0.628714"/>
+	<station name="Hollinwood" code="HOD" lat="53.520428" lon="-2.147359"/>
+	<station name="Holmes Chapel" code="HCH" lat="53.1996" lon="-2.350749"/>
+	<station name="Holmwood" code="HLM" lat="51.180495" lon="-0.321518"/>
+	<station name="Holton Heath" code="HOL" lat="50.711514" lon="-2.076571"/>
+	<station name="Holyhead" code="HHD" lat="53.306992" lon="-4.631351"/>
+	<station name="Holytown" code="HLY" lat="55.81256" lon="-3.973625"/>
+	<station name="Homerton" code="HMN" lat="51.547101" lon="-0.042615"/>
+	<station name="Honeybourne" code="HYB" lat="52.10149" lon="-1.83373"/>
+	<station name="Honiton" code="HON" lat="50.796008" lon="-3.186995"/>
+	<station name="Honley" code="HOY" lat="53.608311" lon="-1.781195"/>
+	<station name="Honor Oak Park" code="HPA" lat="51.450007" lon="-0.045343"/>
+	<station name="Hook" code="HOK" lat="51.279753" lon="-0.961515"/>
+	<station name="Hooton" code="HOO" lat="53.297126" lon="-2.977703"/>
+	<station name="Hope (Derbyshire)" code="HOP" lat="53.345829" lon="-1.729715"/>
+	<station name="Hope (Flintshire)" code="HPE" lat="53.116456" lon="-3.036802"/>
+	<station name="Hopton Heath" code="HPT" lat="52.391311" lon="-2.912031"/>
+	<station name="Horley" code="HOR" lat="51.168061" lon="-0.160666"/>
+	<station name="Hornbeam Park" code="HBP" lat="53.980109" lon="-1.526802"/>
+	<station name="Hornsey" code="HRN" lat="51.586375" lon="-0.112067"/>
+	<station name="Horsforth" code="HRS" lat="53.847448" lon="-1.629989"/>
+	<station name="Horsham" code="HRH" lat="51.066017" lon="-0.318778"/>
+	<station name="Horsley" code="HSY" lat="51.279032" lon="-0.435694"/>
+	<station name="Horton-in-Ribblesdale" code="HIR" lat="54.148886" lon="-2.301498"/>
+	<station name="Horwich Parkway" code="HWI" lat="53.578135" lon="-2.539441"/>
+	<station name="Hoscar" code="HSC" lat="53.597625" lon="-2.804331"/>
+	<station name="Hough Green" code="HGN" lat="53.37252" lon="-2.775759"/>
+	<station name="Hounslow" code="HOU" lat="51.461878" lon="-0.362339"/>
+	<station name="Hove" code="HOV" lat="50.834982" lon="-0.170836"/>
+	<station name="Hoveton and Wroxham" code="HXM" lat="52.71545" lon="1.407719"/>
+	<station name="How Wood (Herts)" code="HWW" lat="51.717333" lon="-0.344715"/>
+	<station name="Howden" code="HOW" lat="53.764752" lon="-0.86105"/>
+	<station name="Howood" code="HOZ" lat="55.810474" lon="-4.562573"/>
+	<station name="Hoylake" code="HYK" lat="53.389928" lon="-3.178965"/>
+	<station name="Hubberts Bridge" code="HBB" lat="52.975483" lon="-0.110537"/>
+	<station name="Hucknall" code="HKN" lat="53.038394" lon="-1.195811"/>
+	<station name="Huddersfield" code="HUD" lat="53.648508" lon="-1.784329"/>
+	<station name="Hull" code="HUL" lat="53.744132" lon="-0.346077"/>
+	<station name="Humphrey Park" code="HUP" lat="53.452041" lon="-2.328878"/>
+	<station name="Huncoat" code="HCT" lat="53.772305" lon="-2.346705"/>
+	<station name="Hungerford" code="HGD" lat="51.41484" lon="-1.512392"/>
+	<station name="Hunmanby" code="HUB" lat="54.173927" lon="-0.314463"/>
+	<station name="Huntingdon" code="HUN" lat="52.328147" lon="-0.19262"/>
+	<station name="Huntly" code="HNT" lat="57.444621" lon="-2.775422"/>
+	<station name="Hunts Cross" code="HNX" lat="53.360791" lon="-2.855151"/>
+	<station name="Hurst Green" code="HUR" lat="51.244393" lon="0.004163"/>
+	<station name="Hutton Cranswick" code="HUT" lat="53.956037" lon="-0.43396"/>
+	<station name="Huyton" code="HUY" lat="53.409516" lon="-2.843191"/>
+	<station name="Hyde Central" code="HYC" lat="53.451462" lon="-2.084952"/>
+	<station name="Hyde North" code="HYT" lat="53.464656" lon="-2.085021"/>
+	<station name="Hykeham" code="HKM" lat="53.195097" lon="-0.599354"/>
+	<station name="Hyndland" code="HYN" lat="55.87922" lon="-4.313943"/>
+	<station name="Hythe (Essex)" code="HYH" lat="51.886032" lon="0.92849"/>
+	<station name="IBM (Greenock)" code="IBM" lat="55.929237" lon="-4.826817"/>
+	<station name="Ifield" code="IFI" lat="51.115529" lon="-0.214916"/>
+	<station name="Ilford" code="IFD" lat="51.559168" lon="0.069747"/>
+	<station name="Ilkley" code="ILK" lat="53.924696" lon="-1.821832"/>
+	<station name="Ince (Manchester)" code="INC" lat="53.538934" lon="-2.611799"/>
+	<station name="Ince and Elton" code="INE" lat="53.276686" lon="-2.818157"/>
+	<station name="Ingatestone" code="INT" lat="51.666324" lon="0.383661"/>
+	<station name="Insch" code="INS" lat="57.337397" lon="-2.617393"/>
+	<station name="Invergordon" code="IGD" lat="57.688689" lon="-4.175216"/>
+	<station name="Invergowrie" code="ING" lat="56.456211" lon="-3.057906"/>
+	<station name="Inverkeithing" code="INK" lat="56.035093" lon="-3.395638"/>
+	<station name="Inverkip" code="INP" lat="55.906023" lon="-4.873637"/>
+	<station name="Inverness" code="INV" lat="57.479865" lon="-4.223807"/>
+	<station name="Invershin" code="INH" lat="57.925076" lon="-4.399275"/>
+	<station name="Inverurie" code="INR" lat="57.286451" lon="-2.373281"/>
+	<station name="Ipswich" code="IPS" lat="52.050495" lon="1.144165"/>
+	<station name="Irlam" code="IRL" lat="53.434093" lon="-2.432773"/>
+	<station name="Irvine" code="IRV" lat="55.611708" lon="-4.675059"/>
+	<station name="Isleworth" code="ISL" lat="51.474697" lon="-0.337883"/>
+	<station name="Islip" code="ISP" lat="51.825041" lon="-1.238917"/>
+	<station name="Iver" code="IVR" lat="51.50833" lon="-0.506623"/>
+	<station name="Ivybridge" code="IVY" lat="50.393459" lon="-3.904953"/>
+	<station name="Jewellery Quarter" code="JEQ" lat="52.489726" lon="-1.914532"/>
+	<station name="Johnston (Dyfed)" code="JOH" lat="51.75627" lon="-4.996843"/>
+	<station name="Johnstone" code="JHN" lat="55.834151" lon="-4.503466"/>
+	<station name="Jordanhill" code="JOR" lat="55.882559" lon="-4.325398"/>
+	<station name="Kearsley" code="KSL" lat="53.544203" lon="-2.375128"/>
+	<station name="Kearsney" code="KSN" lat="51.149184" lon="1.272108"/>
+	<station name="Keighley" code="KEI" lat="53.868084" lon="-1.901589"/>
+	<station name="Keith" code="KEH" lat="57.551517" lon="-2.954331"/>
+	<station name="Kelvedon" code="KEL" lat="51.84061" lon="0.702539"/>
+	<station name="Kemble" code="KEM" lat="51.677036" lon="-2.022981"/>
+	<station name="Kempston Hardwick" code="KMH" lat="52.092151" lon="-0.503751"/>
+	<station name="Kempton Park" code="KMP" lat="51.420879" lon="-0.409529"/>
+	<station name="Kemsing" code="KMS" lat="51.297162" lon="0.247498"/>
+	<station name="Kemsley" code="KML" lat="51.361672" lon="0.735541"/>
+	<station name="Kendal" code="KEN" lat="54.331719" lon="-2.740062"/>
+	<station name="Kenley" code="KLY" lat="51.324799" lon="-0.100403"/>
+	<station name="Kennett" code="KNE" lat="52.277159" lon="0.490585"/>
+	<station name="Kennishead" code="KNS" lat="55.813178" lon="-4.324823"/>
+	<station name="Kensal Green" code="KNL" lat="51.530556" lon="-0.224133"/>
+	<station name="Kensal Rise" code="KNR" lat="51.534615" lon="-0.219463"/>
+	<station name="Kensington Olympia" code="KPA" lat="51.498239" lon="-0.210333"/>
+	<station name="Kent House" code="KTH" lat="51.412284" lon="-0.045508"/>
+	<station name="Kentish Town (London)" code="KTN" lat="51.550713" lon="-0.139548"/>
+	<station name="Kentish Town West" code="KTW" lat="51.546936" lon="-0.146336"/>
+	<station name="Kenton" code="KNT" lat="51.581217" lon="-0.315903"/>
+	<station name="Kents Bank" code="KBK" lat="54.172663" lon="-2.924971"/>
+	<station name="Kettering" code="KET" lat="52.393361" lon="-0.732014"/>
+	<station name="Kew Bridge" code="KWB" lat="51.489621" lon="-0.287058"/>
+	<station name="Kew Gardens" code="KWG" lat="51.476397" lon="-0.28497"/>
+	<station name="Keyham" code="KEY" lat="50.390036" lon="-4.180286"/>
+	<station name="Keynsham" code="KYN" lat="51.418202" lon="-2.496569"/>
+	<station name="Kidbrooke" code="KDB" lat="51.462243" lon="0.026929"/>
+	<station name="Kidderminster" code="KID" lat="52.384651" lon="-2.238435"/>
+	<station name="Kidsgrove" code="KDG" lat="53.08599" lon="-2.244559"/>
+	<station name="Kidwelly" code="KWL" lat="51.734007" lon="-4.315779"/>
+	<station name="Kilburn High Road" code="KBN" lat="51.537648" lon="-0.1913"/>
+	<station name="Kildale" code="KLD" lat="54.477886" lon="-1.066628"/>
+	<station name="Kildonan" code="KIL" lat="58.170781" lon="-3.868758"/>
+	<station name="Kilgetty" code="KGT" lat="51.732502" lon="-4.714254"/>
+	<station name="Kilmarnock" code="KMK" lat="55.611989" lon="-4.498028"/>
+	<station name="Kilmaurs" code="KLM" lat="55.63687" lon="-4.530473"/>
+	<station name="Kilpatrick" code="KPT" lat="55.924364" lon="-4.45301"/>
+	<station name="Kilwinning" code="KWN" lat="55.655822" lon="-4.709421"/>
+	<station name="Kinbrace" code="KBC" lat="58.257971" lon="-3.941325"/>
+	<station name="Kingham" code="KGM" lat="51.901886" lon="-1.628428"/>
+	<station name="Kinghorn" code="KGH" lat="56.069274" lon="-3.174651"/>
+	<station name="Kings Cross Thameslink" code="KCM" lat="51.530826" lon="-0.120217"/>
+	<station name="Kings Langley" code="KGL" lat="51.705809" lon="-0.437792"/>
+	<station name="Kings Lynn" code="KLN" lat="52.754242" lon="0.403421"/>
+	<station name="Kings Norton" code="KNN" lat="52.41399" lon="-1.934616"/>
+	<station name="Kings Nympton" code="KGN" lat="50.935811" lon="-3.905514"/>
+	<station name="Kings Park" code="KGP" lat="55.819454" lon="-4.245348"/>
+	<station name="Kings Sutton" code="KGS" lat="52.020973" lon="-1.280819"/>
+	<station name="Kingsknowe" code="KGE" lat="55.919172" lon="-3.264659"/>
+	<station name="Kingston" code="KNG" lat="51.412943" lon="-0.301382"/>
+	<station name="Kingswood" code="KND" lat="51.294913" lon="-0.210539"/>
+	<station name="Kingussie" code="KIN" lat="57.077562" lon="-4.054633"/>
+	<station name="Kintbury" code="KIT" lat="51.402533" lon="-1.446033"/>
+	<station name="Kirby Cross" code="KBX" lat="51.841407" lon="1.215536"/>
+	<station name="Kirk Sandall" code="KKS" lat="53.563562" lon="-1.074386"/>
+	<station name="Kirkby" code="KIR" lat="53.486499" lon="-2.902509"/>
+	<station name="Kirkby in Ashfield" code="KKB" lat="53.099753" lon="-1.253207"/>
+	<station name="Kirkby Stephen" code="KSW" lat="54.454898" lon="-2.368451"/>
+	<station name="Kirkby-in-Furness" code="KBF" lat="54.232449" lon="-3.187388"/>
+	<station name="Kirkcaldy" code="KDY" lat="56.11179" lon="-3.167099"/>
+	<station name="Kirkconnel" code="KRK" lat="55.3875" lon="-3.999699"/>
+	<station name="Kirkdale" code="KKD" lat="53.440619" lon="-2.981521"/>
+	<station name="Kirkham and Wesham" code="KKM" lat="53.786764" lon="-2.883033"/>
+	<station name="Kirkhill" code="KKH" lat="55.813696" lon="-4.167725"/>
+	<station name="Kirknewton" code="KKN" lat="55.888823" lon="-3.433525"/>
+	<station name="Kirkwood" code="KWD" lat="55.853988" lon="-4.04861"/>
+	<station name="Kirton Lindsey" code="KTL" lat="53.485335" lon="-0.593397"/>
+	<station name="Kiveton Bridge" code="KIV" lat="53.336597" lon="-1.239812"/>
+	<station name="Kiveton Park" code="KVP" lat="53.340906" lon="-1.267337"/>
+	<station name="Knaresborough" code="KNA" lat="54.009283" lon="-1.469741"/>
+	<station name="Knebworth" code="KBW" lat="51.866778" lon="-0.186941"/>
+	<station name="Knighton" code="KNI" lat="52.345189" lon="-3.042705"/>
+	<station name="Knockholt" code="KCK" lat="51.345699" lon="0.130171"/>
+	<station name="Knottingley" code="KNO" lat="53.706314" lon="-1.258933"/>
+	<station name="Knucklas" code="KNU" lat="52.35968" lon="-3.096028"/>
+	<station name="Knutsford" code="KNF" lat="53.301855" lon="-2.371756"/>
+	<station name="Kyle of Lochalsh" code="KYL" lat="57.280078" lon="-5.714041"/>
+	<station name="Ladybank" code="LDY" lat="56.274057" lon="-3.121508"/>
+	<station name="Ladywell" code="LAD" lat="51.45602" lon="-0.019304"/>
+	<station name="Laindon" code="LAI" lat="51.56765" lon="0.423312"/>
+	<station name="Lairg" code="LRG" lat="58.00116" lon="-4.400402"/>
+	<station name="Lake (Isle of Wight)" code="LKE" lat="50.646043" lon="-1.166368"/>
+	<station name="Lakenheath" code="LAK" lat="52.44777" lon="0.534197"/>
+	<station name="Lamphey" code="LAM" lat="51.667141" lon="-4.873214"/>
+	<station name="Lanark" code="LNK" lat="55.673345" lon="-3.772361"/>
+	<station name="Lancaster" code="LAN" lat="54.049035" lon="-2.807674"/>
+	<station name="Lancing" code="LAC" lat="50.826671" lon="-0.32327"/>
+	<station name="Landywood" code="LAW" lat="52.657367" lon="-2.020797"/>
+	<station name="Langbank" code="LGB" lat="55.924808" lon="-4.586282"/>
+	<station name="Langho" code="LHO" lat="53.804783" lon="-2.448298"/>
+	<station name="Langley (Berks)" code="LNY" lat="51.507494" lon="-0.542011"/>
+	<station name="Langley Green" code="LGG" lat="52.493094" lon="-2.005716"/>
+	<station name="Langley Mill" code="LGM" lat="53.018524" lon="-1.331037"/>
+	<station name="Langside" code="LGS" lat="55.820309" lon="-4.277321"/>
+	<station name="Langwathby" code="LGW" lat="54.693955" lon="-2.662763"/>
+	<station name="Langwith Whaley Thorns" code="LAG" lat="53.232059" lon="-1.209277"/>
+	<station name="Lapford" code="LAP" lat="50.856784" lon="-3.810694"/>
+	<station name="Lapworth" code="LPW" lat="52.343226" lon="-1.725114"/>
+	<station name="Larbert" code="LBT" lat="56.022534" lon="-3.829742"/>
+	<station name="Largs" code="LAR" lat="55.792991" lon="-4.867314"/>
+	<station name="Lawrence Hill" code="LWH" lat="51.458132" lon="-2.564241"/>
+	<station name="Layton (Lancs)" code="LAY" lat="53.834803" lon="-3.030577"/>
+	<station name="Lazonby and Kirkoswald" code="LZB" lat="54.751283" lon="-2.704618"/>
+	<station name="Lea Green" code="LEG" lat="53.426718" lon="-2.724912"/>
+	<station name="Lea Hall" code="LEH" lat="52.480045" lon="-1.784926"/>
+	<station name="Leagrave" code="LEA" lat="51.90533" lon="-0.45843"/>
+	<station name="Lealholm" code="LHM" lat="54.460724" lon="-0.826872"/>
+	<station name="Leamington Spa" code="LMS" lat="52.284567" lon="-1.53584"/>
+	<station name="Leasowe" code="LSW" lat="53.407983" lon="-3.099151"/>
+	<station name="Leatherhead" code="LHD" lat="51.299067" lon="-0.33305"/>
+	<station name="Ledbury" code="LED" lat="52.045054" lon="-2.426212"/>
+	<station name="Lee" code="LEE" lat="51.449723" lon="0.013128"/>
+	<station name="Leeds" code="LDS" lat="53.794415" lon="-1.547426"/>
+	<station name="Leicester" code="LEI" lat="52.631057" lon="-1.124484"/>
+	<station name="Leigh (Kent)" code="LIH" lat="51.193961" lon="0.21104"/>
+	<station name="Leigh-on-Sea" code="LES" lat="51.541175" lon="0.639454"/>
+	<station name="Leighton Buzzard" code="LBZ" lat="51.916496" lon="-0.677073"/>
+	<station name="Lelant" code="LEL" lat="50.183817" lon="-5.436605"/>
+	<station name="Lelant Saltings" code="LTS" lat="50.178177" lon="-5.442267"/>
+	<station name="Lenham" code="LEN" lat="51.23389" lon="0.708066"/>
+	<station name="Lenzie" code="LNZ" lat="55.921467" lon="-4.154585"/>
+	<station name="Leominster" code="LEO" lat="52.225738" lon="-2.730407"/>
+	<station name="Letchworth Garden City" code="LET" lat="51.980092" lon="-0.22909"/>
+	<station name="Leuchars" code="LEU" lat="56.375941" lon="-2.892805"/>
+	<station name="Levenshulme" code="LVM" lat="53.444423" lon="-2.192988"/>
+	<station name="Lewes" code="LWS" lat="50.870363" lon="0.012072"/>
+	<station name="Lewisham" code="LEW" lat="51.465473" lon="-0.013982"/>
+	<station name="Leyland" code="LEY" lat="53.698909" lon="-2.686766"/>
+	<station name="Leyton Midland Road" code="LEM" lat="51.569153" lon="-0.006469"/>
+	<station name="Leytonstone High Road" code="LER" lat="51.563339" lon="0.008557"/>
+	<station name="Lichfield City" code="LIC" lat="52.680209" lon="-1.825506"/>
+	<station name="Lichfield Trent Valley" code="LTV" lat="52.686577" lon="-1.799939"/>
+	<station name="Lidlington" code="LID" lat="52.041523" lon="-0.558539"/>
+	<station name="Limehouse" code="LHS" lat="51.512628" lon="-0.039361"/>
+	<station name="Lincoln Central" code="LCN" lat="53.22607" lon="-0.539359"/>
+	<station name="Lingfield" code="LFD" lat="51.176177" lon="-0.006942"/>
+	<station name="Lingwood" code="LGD" lat="52.622018" lon="1.489648"/>
+	<station name="Linlithgow" code="LIN" lat="55.976425" lon="-3.595482"/>
+	<station name="Liphook" code="LIP" lat="51.070828" lon="-0.800396"/>
+	<station name="Liskeard" code="LSK" lat="50.446595" lon="-4.469475"/>
+	<station name="Liss" code="LIS" lat="51.043677" lon="-0.893229"/>
+	<station name="Lisvane and Thornhill" code="LVT" lat="51.543977" lon="-3.18566"/>
+	<station name="Little Kimble" code="LTK" lat="51.752304" lon="-0.808515"/>
+	<station name="Little Sutton" code="LTT" lat="53.285338" lon="-2.943665"/>
+	<station name="Littleborough" code="LTL" lat="53.642665" lon="-2.09511"/>
+	<station name="Littlehampton" code="LIT" lat="50.810169" lon="-0.546372"/>
+	<station name="Littlehaven" code="LVN" lat="51.079279" lon="-0.308472"/>
+	<station name="Littleport" code="LTP" lat="52.462027" lon="0.316384"/>
+	<station name="Liverpool Central" code="LVC" lat="53.404646" lon="-2.979614"/>
+	<station name="Liverpool James Street" code="LVJ" lat="53.404861" lon="-2.992228"/>
+	<station name="Liverpool Lime Street" code="LIV" lat="53.407581" lon="-2.978157"/>
+	<station name="Livingston North" code="LSN" lat="55.900973" lon="-3.544031"/>
+	<station name="Livingston South" code="LVG" lat="55.871489" lon="-3.501731"/>
+	<station name="Llanaber" code="LLA" lat="52.741667" lon="-4.076886"/>
+	<station name="Llanbedr" code="LBR" lat="52.820774" lon="-4.109444"/>
+	<station name="Llanbister Road" code="LLT" lat="52.336325" lon="-3.212902"/>
+	<station name="Llanbradach" code="LNB" lat="51.603614" lon="-3.233221"/>
+	<station name="Llandaf" code="LLN" lat="51.508166" lon="-3.228882"/>
+	<station name="Llandanwg" code="LDN" lat="52.836232" lon="-4.123656"/>
+	<station name="Llandecwyn" code="LLC" lat="52.92068" lon="-4.056654"/>
+	<station name="Llandeilo" code="LLL" lat="51.884801" lon="-3.986732"/>
+	<station name="Llandovery" code="LLV" lat="51.995112" lon="-3.802515"/>
+	<station name="Llandrindod" code="LLO" lat="52.24337" lon="-3.378607"/>
+	<station name="Llandudno" code="LLD" lat="53.320577" lon="-3.827"/>
+	<station name="Llandudno Junction" code="LLJ" lat="53.28393" lon="-3.808925"/>
+	<station name="Llandybie" code="LLI" lat="51.820517" lon="-4.004436"/>
+	<station name="Llanelli" code="LLE" lat="51.673759" lon="-4.160993"/>
+	<station name="Llanfairfechan" code="LLF" lat="53.257638" lon="-3.981789"/>
+	<station name="Llanfairpwll." code="LPG" lat="53.220819" lon="-4.208513"/>
+	<station name="Llangadog" code="LLG" lat="51.940366" lon="-3.892996"/>
+	<station name="Llangammarch" code="LLM" lat="52.113436" lon="-3.555834"/>
+	<station name="Llangennech" code="LLH" lat="51.691277" lon="-4.078958"/>
+	<station name="Llangynllo" code="LGO" lat="52.349738" lon="-3.161382"/>
+	<station name="Llanishen" code="LLS" lat="51.533268" lon="-3.1817"/>
+	<station name="Llanrwst" code="LWR" lat="53.139314" lon="-3.794461"/>
+	<station name="Llansamlet" code="LAS" lat="51.661462" lon="-3.886464"/>
+	<station name="Llantwit Major " code="LWM" lat="51.410097" lon="-3.482326"/>
+	<station name="Llanwrda" code="LNR" lat="51.962604" lon="-3.871932"/>
+	<station name="Llanwrtyd" code="LNW" lat="52.104566" lon="-3.633399"/>
+	<station name="Llwyngwril" code="LLW" lat="52.66713" lon="-4.087388"/>
+	<station name="Llwynypia" code="LLY" lat="51.633992" lon="-3.453364"/>
+	<station name="Loch Awe" code="LHA" lat="56.40234" lon="-5.042726"/>
+	<station name="Loch Eil Outward Bound" code="LHE" lat="56.855205" lon="-5.192503"/>
+	<station name="Lochailort" code="LCL" lat="56.881272" lon="-5.663557"/>
+	<station name="Locheilside" code="LCS" lat="56.855912" lon="-5.289532"/>
+	<station name="Lochgelly" code="LCG" lat="56.134988" lon="-3.312818"/>
+	<station name="Lochluichart" code="LCC" lat="57.621638" lon="-4.810129"/>
+	<station name="Lochwinnoch" code="LHW" lat="55.786935" lon="-4.616139"/>
+	<station name="Lockerbie" code="LOC" lat="55.122224" lon="-3.353342"/>
+	<station name="Lockwood" code="LCK" lat="53.634675" lon="-1.800744"/>
+	<station name="London Blackfriars" code="BFR" lat="51.511598" lon="-0.102531"/>
+	<station name="London Bridge" code="LBG" lat="51.504027" lon="-0.084848"/>
+	<station name="London Cannon Street" code="CST" lat="51.510973" lon="-0.090131"/>
+	<station name="London Charing Cross" code="CHX" lat="51.507491" lon="-0.123882"/>
+	<station name="London Euston" code="EUS" lat="51.527998" lon="-0.133626"/>
+	<station name="London Fenchurch Street" code="FST" lat="51.51157" lon="-0.078474"/>
+	<station name="London Fields" code="LOF" lat="51.540849" lon="-0.057597"/>
+	<station name="London Kings Cross" code="KGX" lat="51.530823" lon="-0.123048"/>
+	<station name="London Liverpool Street" code="LST" lat="51.517894" lon="-0.081685"/>
+	<station name="London Marylebone" code="MYB" lat="51.523141" lon="-0.16267"/>
+	<station name="London Paddington" code="PAD" lat="51.517096" lon="-0.177644"/>
+	<station name="London Road (Brighton)" code="LRB" lat="50.836591" lon="-0.136255"/>
+	<station name="London Road (Guildford)" code="LRD" lat="51.240568" lon="-0.565246"/>
+	<station name="London St Pancras" code="STP" lat="51.529811" lon="-0.124998"/>
+	<station name="London Victoria" code="VIC" lat="51.49519" lon="-0.143955"/>
+	<station name="London Waterloo" code="WAT" lat="51.502369" lon="-0.112876"/>
+	<station name="London Waterloo East" code="WAE" lat="51.503998" lon="-0.110068"/>
+	<station name="Long Buckby" code="LBK" lat="52.294668" lon="-1.086733"/>
+	<station name="Long Eaton" code="LGE" lat="52.885041" lon="-1.287025"/>
+	<station name="Long Preston" code="LPR" lat="54.016794" lon="-2.25536"/>
+	<station name="Longbeck" code="LGK" lat="54.589364" lon="-1.031015"/>
+	<station name="Longbridge" code="LOB" lat="52.396636" lon="-1.981139"/>
+	<station name="Longcross" code="LNG" lat="51.384907" lon="-0.595047"/>
+	<station name="Longfield" code="LGF" lat="51.39621" lon="0.299878"/>
+	<station name="Longniddry" code="LND" lat="55.97612" lon="-2.887857"/>
+	<station name="Longport" code="LPT" lat="53.041777" lon="-2.21675"/>
+	<station name="Longton" code="LGN" lat="52.989887" lon="-2.136889"/>
+	<station name="Looe" code="LOO" lat="50.359461" lon="-4.456033"/>
+	<station name="Lostock" code="LOT" lat="53.573008" lon="-2.49329"/>
+	<station name="Lostock Gralam" code="LTG" lat="53.267639" lon="-2.464194"/>
+	<station name="Lostock Hall" code="LOH" lat="53.724142" lon="-2.686197"/>
+	<station name="Lostwithiel" code="LOS" lat="50.407243" lon="-4.665192"/>
+	<station name="Loughborough (Leics)" code="LBO" lat="52.779036" lon="-1.196376"/>
+	<station name="Loughborough Junction" code="LGJ" lat="51.466317" lon="-0.101903"/>
+	<station name="Lowdham" code="LOW" lat="53.006679" lon="-0.997678"/>
+	<station name="Lower Sydenham" code="LSY" lat="51.424761" lon="-0.03345"/>
+	<station name="Lowestoft" code="LWT" lat="52.474478" lon="1.750317"/>
+	<station name="Ludlow" code="LUD" lat="52.371261" lon="-2.715971"/>
+	<station name="Luton" code="LUT" lat="51.882322" lon="-0.413593"/>
+	<station name="Luton Airport Parkway" code="LTN" lat="51.872572" lon="-0.395673"/>
+	<station name="Luxulyan" code="LUX" lat="50.38996" lon="-4.747481"/>
+	<station name="Lydney" code="LYD" lat="51.714097" lon="-2.530616"/>
+	<station name="Lye (West Midland)" code="LYE" lat="52.459959" lon="-2.116246"/>
+	<station name="Lymington Pier" code="LYP" lat="50.759195" lon="-1.533594"/>
+	<station name="Lymington Town" code="LYT" lat="50.760425" lon="-1.537008"/>
+	<station name="Lympstone Commando" code="LYC" lat="50.662402" lon="-3.440476"/>
+	<station name="Lympstone Village" code="LYM" lat="50.64867" lon="-3.43147"/>
+	<station name="Lytham" code="LTM" lat="53.739134" lon="-2.965412"/>
+	<station name="Macclesfield" code="MAC" lat="53.259307" lon="-2.122045"/>
+	<station name="Machynlleth" code="MCN" lat="52.595487" lon="-3.853755"/>
+	<station name="Maesteg" code="MST" lat="51.609553" lon="-3.655044"/>
+	<station name="Maesteg Ewenny Road" code="MEW" lat="51.604782" lon="-3.647814"/>
+	<station name="Maghull" code="MAG" lat="53.506474" lon="-2.931429"/>
+	<station name="Maiden Newton" code="MDN" lat="50.779912" lon="-2.569744"/>
+	<station name="Maidenhead" code="MAI" lat="51.518443" lon="-0.722937"/>
+	<station name="Maidstone Barracks" code="MDB" lat="51.277116" lon="0.51452"/>
+	<station name="Maidstone East" code="MDE" lat="51.277563" lon="0.520484"/>
+	<station name="Maidstone West" code="MDW" lat="51.270094" lon="0.516208"/>
+	<station name="Malden Manor" code="MAL" lat="51.384484" lon="-0.260919"/>
+	<station name="Mallaig" code="MLG" lat="57.005837" lon="-5.829627"/>
+	<station name="Malton" code="MLT" lat="54.131924" lon="-0.797786"/>
+	<station name="Malvern Link" code="MVL" lat="52.125475" lon="-2.319394"/>
+	<station name="Manchester Airport" code="MIA" lat="53.36517" lon="-2.272879"/>
+	<station name="Manchester Oxford Road" code="MCO" lat="53.473749" lon="-2.242224"/>
+	<station name="Manchester Piccadilly" code="MAN" lat="53.477028" lon="-2.229823"/>
+	<station name="Manchester United FC Halt" code="MUF" lat="53.462444" lon="-2.289544"/>
+	<station name="Manchester Victoria" code="MCV" lat="53.487865" lon="-2.242517"/>
+	<station name="Manea" code="MNE" lat="52.497662" lon="0.178049"/>
+	<station name="Manningtree" code="MNG" lat="51.949077" lon="1.043496"/>
+	<station name="Manor Park" code="MNP" lat="51.552352" lon="0.046002"/>
+	<station name="Manor Road" code="MNR" lat="53.395138" lon="-3.169241"/>
+	<station name="Manorbier" code="MRB" lat="51.660171" lon="-4.792549"/>
+	<station name="Manors" code="MAS" lat="54.972808" lon="-1.60562"/>
+	<station name="Mansfield Town" code="MFT" lat="53.142057" lon="-1.198718"/>
+	<station name="Mansfield Woodhouse" code="MSW" lat="53.161913" lon="-1.2008"/>
+	<station name="March" code="MCH" lat="52.560405" lon="0.09025"/>
+	<station name="Marden" code="MRN" lat="51.175105" lon="0.493409"/>
+	<station name="Margate" code="MAR" lat="51.38485" lon="1.372162"/>
+	<station name="Market Harborough" code="MHR" lat="52.479365" lon="-0.909442"/>
+	<station name="Market Rasen" code="MKR" lat="53.384087" lon="-0.336762"/>
+	<station name="Markinch" code="MNC" lat="56.200633" lon="-3.130993"/>
+	<station name="Marks Tey" code="MKT" lat="51.880837" lon="0.782852"/>
+	<station name="Marlow" code="MLW" lat="51.570922" lon="-0.766258"/>
+	<station name="Marple" code="MPL" lat="53.401075" lon="-2.057216"/>
+	<station name="Marsden" code="MSN" lat="53.603151" lon="-1.931147"/>
+	<station name="Marske" code="MSK" lat="54.587219" lon="-1.01929"/>
+	<station name="Marston Green" code="MGN" lat="52.466893" lon="-1.755561"/>
+	<station name="Martin Mill" code="MTM" lat="51.170921" lon="1.348804"/>
+	<station name="Martins Heron" code="MAO" lat="51.407457" lon="-0.72465"/>
+	<station name="Marton" code="MTO" lat="54.544249" lon="-1.198371"/>
+	<station name="Maryhill" code="MYH" lat="55.897149" lon="-4.301315"/>
+	<station name="Maryland" code="MYL" lat="51.545966" lon="0.005838"/>
+	<station name="Maryport" code="MRY" lat="54.711146" lon="-3.49336"/>
+	<station name="Matlock" code="MAT" lat="53.138138" lon="-1.558199"/>
+	<station name="Matlock Bath" code="MTB" lat="53.122005" lon="-1.556928"/>
+	<station name="Mauldeth Road" code="MAU" lat="53.433362" lon="-2.209237"/>
+	<station name="Maxwell Park" code="MAX" lat="55.837618" lon="-4.289031"/>
+	<station name="Maybole" code="MAY" lat="55.354678" lon="-4.685055"/>
+	<station name="Maze Hill" code="MZH" lat="51.482683" lon="0.002034"/>
+	<station name="Meadowhall" code="MHS" lat="53.416427" lon="-1.414575"/>
+	<station name="Meldreth" code="MEL" lat="52.090806" lon="0.009079"/>
+	<station name="Melksham" code="MKM" lat="51.379797" lon="-2.144448"/>
+	<station name="Melton (Suffolk)" code="MES" lat="52.104065" lon="1.337065"/>
+	<station name="Melton Mowbray" code="MMO" lat="52.760809" lon="-0.884707"/>
+	<station name="Menheniot" code="MEN" lat="50.426457" lon="-4.409345"/>
+	<station name="Menston" code="MNN" lat="53.892359" lon="-1.735698"/>
+	<station name="Meols" code="MEO" lat="53.399279" lon="-3.154297"/>
+	<station name="Meols Cop" code="MEC" lat="53.645965" lon="-2.975166"/>
+	<station name="Meopham" code="MEP" lat="51.386273" lon="0.356759"/>
+	<station name="Merstham" code="MHM" lat="51.264112" lon="-0.15016"/>
+	<station name="Merthyr Tydfil" code="MER" lat="51.74566" lon="-3.376827"/>
+	<station name="Merthyr Vale" code="MEV" lat="51.686379" lon="-3.337164"/>
+	<station name="Metheringham" code="MGM" lat="53.139206" lon="-0.391406"/>
+	<station name="MetroCentre" code="MCE" lat="54.958877" lon="-1.665393"/>
+	<station name="Mexborough" code="MEX" lat="53.491049" lon="-1.289199"/>
+	<station name="Micheldever" code="MIC" lat="51.182235" lon="-1.260432"/>
+	<station name="Micklefield" code="MIK" lat="53.788715" lon="-1.325012"/>
+	<station name="Middlesbrough" code="MBR" lat="54.579152" lon="-1.234753"/>
+	<station name="Middlewood" code="MDL" lat="53.360361" lon="-2.084685"/>
+	<station name="Midgham" code="MDG" lat="51.39589" lon="-1.178386"/>
+	<station name="Milford (Surrey)" code="MLF" lat="51.16407" lon="-0.636552"/>
+	<station name="Milford Haven" code="MFH" lat="51.715245" lon="-5.041233"/>
+	<station name="Mill Hill (Lancs)" code="MLH" lat="53.735725" lon="-2.500142"/>
+	<station name="Mill Hill Broadway" code="MIL" lat="51.612644" lon="-0.248878"/>
+	<station name="Millbrook (Beds)" code="MLB" lat="52.053898" lon="-0.532261"/>
+	<station name="Millbrook (Hants)" code="MBK" lat="50.911214" lon="-1.434368"/>
+	<station name="Milliken Park" code="MIN" lat="55.824541" lon="-4.534757"/>
+	<station name="Millom" code="MLM" lat="54.211021" lon="-3.269835"/>
+	<station name="Mills Hill (Manchester)" code="MIH" lat="53.550832" lon="-2.171683"/>
+	<station name="Milngavie" code="MLN" lat="55.941241" lon="-4.314517"/>
+	<station name="Milnrow" code="MLR" lat="53.608143" lon="-2.111864"/>
+	<station name="Milton Keynes Central" code="MKC" lat="52.034176" lon="-0.774471"/>
+	<station name="Minffordd" code="MFF" lat="52.926118" lon="-4.085034"/>
+	<station name="Minster (Thames)" code="MSR" lat="51.329216" lon="1.317002"/>
+	<station name="Mirfield" code="MIR" lat="53.671465" lon="-1.693203"/>
+	<station name="Mistley" code="MIS" lat="51.943707" lon="1.080742"/>
+	<station name="Mitcham Junction" code="MIJ" lat="51.393053" lon="-0.158408"/>
+	<station name="Mobberley" code="MOB" lat="53.329179" lon="-2.333775"/>
+	<station name="Monifieth" code="MON" lat="56.479715" lon="-2.818358"/>
+	<station name="Monks Risborough" code="MRS" lat="51.735849" lon="-0.829284"/>
+	<station name="Montpelier" code="MTP" lat="51.468358" lon="-2.588644"/>
+	<station name="Montrose" code="MTS" lat="56.712625" lon="-2.471632"/>
+	<station name="Moorfields" code="MRF" lat="53.408807" lon="-2.98984"/>
+	<station name="Moorgate (LRT)" code="ZMG" lat="51.518767" lon="-0.087851"/>
+	<station name="Moorside" code="MSD" lat="53.51636" lon="-2.353118"/>
+	<station name="Moorthorpe" code="MRP" lat="53.594769" lon="-1.304531"/>
+	<station name="Morar" code="MRR" lat="56.969292" lon="-5.822516"/>
+	<station name="Morchard Road" code="MRD" lat="50.831571" lon="-3.776139"/>
+	<station name="Morden South" code="MDS" lat="51.39675" lon="-0.199669"/>
+	<station name="Morecambe" code="MCM" lat="54.070316" lon="-2.869371"/>
+	<station name="Moreton (Dorset)" code="MTN" lat="50.700696" lon="-2.313685"/>
+	<station name="Moreton (Merseyside)" code="MRT" lat="53.407109" lon="-3.114186"/>
+	<station name="Moreton-in-Marsh" code="MIM" lat="51.992056" lon="-1.700025"/>
+	<station name="Morfa Mawddach" code="MFA" lat="52.708247" lon="-4.031573"/>
+	<station name="Morley" code="MLY" lat="53.749699" lon="-1.591631"/>
+	<station name="Morpeth" code="MPT" lat="55.162134" lon="-1.68318"/>
+	<station name="Mortimer" code="MOR" lat="51.371013" lon="-1.03716"/>
+	<station name="Mortlake" code="MTL" lat="51.468127" lon="-0.266299"/>
+	<station name="Moses Gate" code="MSS" lat="53.556111" lon="-2.401133"/>
+	<station name="Moss Side" code="MOS" lat="53.764371" lon="-2.942553"/>
+	<station name="Mossley (Manchester)" code="MSL" lat="53.514816" lon="-2.041304"/>
+	<station name="Mossley Hill" code="MSH" lat="53.378819" lon="-2.915636"/>
+	<station name="Mosspark" code="MPK" lat="55.840676" lon="-4.348157"/>
+	<station name="Moston" code="MSO" lat="53.52331" lon="-2.171247"/>
+	<station name="Motherwell" code="MTH" lat="55.791522" lon="-3.994337"/>
+	<station name="Motspur Park" code="MOT" lat="51.39548" lon="-0.239298"/>
+	<station name="Mottingham" code="MTG" lat="51.439991" lon="0.051013"/>
+	<station name="Mouldsworth" code="MLD" lat="53.231932" lon="-2.732146"/>
+	<station name="Moulsecoomb" code="MCB" lat="50.8463" lon="-0.118882"/>
+	<station name="Mount Florida" code="MFL" lat="55.825245" lon="-4.261896"/>
+	<station name="Mount Vernon" code="MTV" lat="55.840328" lon="-4.133783"/>
+	<station name="Mountain Ash" code="MTA" lat="51.682315" lon="-3.377874"/>
+	<station name="Muir of Ord" code="MOO" lat="57.518095" lon="-4.4609"/>
+	<station name="Muirend" code="MUI" lat="55.810326" lon="-4.27384"/>
+	<station name="Musselburgh" code="MUB" lat="55.933387" lon="-3.07261"/>
+	<station name="Mytholmroyd" code="MYT" lat="53.729097" lon="-1.98238"/>
+	<station name="Nafferton" code="NFN" lat="54.011463" lon="-0.386263"/>
+	<station name="Nailsea and Backwell" code="NLS" lat="51.419237" lon="-2.750435"/>
+	<station name="Nairn" code="NRN" lat="57.580283" lon="-3.872593"/>
+	<station name="Nantwich" code="NAN" lat="53.063451" lon="-2.518823"/>
+	<station name="Narberth" code="NAR" lat="51.799667" lon="-4.726926"/>
+	<station name="Narborough" code="NBR" lat="52.571324" lon="-1.20241"/>
+	<station name="Navigation Road" code="NVR" lat="53.395463" lon="-2.34353"/>
+	<station name="Neath" code="NTH" lat="51.662203" lon="-3.807064"/>
+	<station name="Needham Market" code="NMT" lat="52.152632" lon="1.055144"/>
+	<station name="Neilston" code="NEI" lat="55.782742" lon="-4.427068"/>
+	<station name="Nelson" code="NEL" lat="53.834686" lon="-2.214615"/>
+	<station name="Neston" code="NES" lat="53.291579" lon="-3.062727"/>
+	<station name="Netherfield" code="NET" lat="52.961197" lon="-1.079875"/>
+	<station name="Nethertown" code="NRT" lat="54.456313" lon="-3.56541"/>
+	<station name="Netley" code="NTL" lat="50.873818" lon="-1.340297"/>
+	<station name="New Barnet" code="NBA" lat="51.648622" lon="-0.172711"/>
+	<station name="New Beckenham" code="NBC" lat="51.416648" lon="-0.035475"/>
+	<station name="New Brighton" code="NBN" lat="53.437434" lon="-3.048069"/>
+	<station name="New Clee" code="NCE" lat="53.575583" lon="-0.064504"/>
+	<station name="New Cross" code="NWX" lat="51.47621" lon="-0.031986"/>
+	<station name="New Cross Gate" code="NXG" lat="51.475161" lon="-0.040121"/>
+	<station name="New Cumnock" code="NCK" lat="55.401896" lon="-4.182224"/>
+	<station name="New Eltham" code="NEH" lat="51.437656" lon="0.071513"/>
+	<station name="New Hey" code="NHY" lat="53.600903" lon="-2.095072"/>
+	<station name="New Holland" code="NHL" lat="53.702129" lon="-0.360038"/>
+	<station name="New Hythe" code="NHE" lat="51.31303" lon="0.455338"/>
+	<station name="New Lane" code="NLN" lat="53.611606" lon="-2.867676"/>
+	<station name="New Malden" code="NEM" lat="51.403828" lon="-0.256234"/>
+	<station name="New Mills Central" code="NMC" lat="53.36496" lon="-2.005115"/>
+	<station name="New Mills Newtown" code="NMN" lat="53.359345" lon="-2.008476"/>
+	<station name="New Milton" code="NWM" lat="50.755667" lon="-1.657622"/>
+	<station name="New Pudsey" code="NPD" lat="53.804571" lon="-1.680991"/>
+	<station name="New Southgate" code="NSG" lat="51.614035" lon="-0.143103"/>
+	<station name="Newark Castle" code="NCT" lat="53.080157" lon="-0.813108"/>
+	<station name="Newark North Gate" code="NNG" lat="53.082086" lon="-0.799751"/>
+	<station name="Newbury" code="NBY" lat="51.397582" lon="-1.320914"/>
+	<station name="Newbury Racecourse" code="NRC" lat="51.398611" lon="-1.308015"/>
+	<station name="Newcastle" code="NCL" lat="54.968262" lon="-1.61661"/>
+	<station name="Newcraighall" code="NEW" lat="55.93348" lon="-3.09166"/>
+	<station name="Newhaven Harbour" code="NVH" lat="50.790356" lon="0.055103"/>
+	<station name="Newhaven Town" code="NVN" lat="50.794752" lon="0.054995"/>
+	<station name="Newington" code="NGT" lat="51.353152" lon="0.669004"/>
+	<station name="Newmarket" code="NMK" lat="52.238207" lon="0.406849"/>
+	<station name="Newport (Essex)" code="NWE" lat="51.979816" lon="0.215471"/>
+	<station name="Newport (Gwent)" code="NWP" lat="51.58928" lon="-2.999274"/>
+	<station name="Newquay" code="NQY" lat="50.414177" lon="-5.075272"/>
+	<station name="Newstead" code="NSD" lat="53.0702" lon="-1.221732"/>
+	<station name="Newton (Lanarks)" code="NTN" lat="55.81879" lon="-4.133026"/>
+	<station name="Newton Abbot" code="NTA" lat="50.530157" lon="-3.599108"/>
+	<station name="Newton Aycliffe" code="NAY" lat="54.613689" lon="-1.589641"/>
+	<station name="Newton for Hyde" code="NWN" lat="53.456261" lon="-2.066476"/>
+	<station name="Newton St Cyres" code="NTC" lat="50.778123" lon="-3.58747"/>
+	<station name="Newton-le-Willows" code="NLW" lat="53.453117" lon="-2.61348"/>
+	<station name="Newtonmore" code="NWR" lat="57.059131" lon="-4.1188"/>
+	<station name="Newton-on-Ayr" code="NOA" lat="55.473668" lon="-4.625894"/>
+	<station name="Newtown (Powys)" code="NWT" lat="52.512144" lon="-3.311013"/>
+	<station name="Ninian Park" code="NNP" lat="51.476747" lon="-3.201186"/>
+	<station name="Nitshill" code="NIT" lat="55.811725" lon="-4.359241"/>
+	<station name="Norbiton" code="NBT" lat="51.412576" lon="-0.284576"/>
+	<station name="Norbury" code="NRB" lat="51.411766" lon="-0.123133"/>
+	<station name="Normans Bay" code="NSB" lat="50.825708" lon="0.389201"/>
+	<station name="Normanton" code="NOR" lat="53.700907" lon="-1.422398"/>
+	<station name="North Berwick" code="NBW" lat="56.056997" lon="-2.730137"/>
+	<station name="North Camp" code="NCM" lat="51.275706" lon="-0.731149"/>
+	<station name="North Dulwich" code="NDL" lat="51.454431" lon="-0.087796"/>
+	<station name="North Llanrwst" code="NLR" lat="53.143621" lon="-3.802041"/>
+	<station name="North Queensferry" code="NQU" lat="56.012471" lon="-3.394675"/>
+	<station name="North Road" code="NRD" lat="54.535668" lon="-1.554213"/>
+	<station name="North Sheen" code="NSH" lat="51.4654" lon="-0.2863"/>
+	<station name="North Walsham" code="NWA" lat="52.817162" lon="1.384109"/>
+	<station name="North Wembley" code="NWB" lat="51.562123" lon="-0.303239"/>
+	<station name="North Woolwich" code="NWW" lat="51.499269" lon="0.06229"/>
+	<station name="Northallerton" code="NTR" lat="54.333397" lon="-1.44132"/>
+	<station name="Northampton" code="NMP" lat="52.237894" lon="-0.906722"/>
+	<station name="Northfield" code="NFD" lat="52.408472" lon="-1.964758"/>
+	<station name="Northfleet" code="NFL" lat="51.445865" lon="0.324114"/>
+	<station name="Northolt Park" code="NLT" lat="51.557342" lon="-0.359976"/>
+	<station name="Northumberland Park" code="NUM" lat="51.60184" lon="-0.054036"/>
+	<station name="Northwich" code="NWI" lat="53.261446" lon="-2.496736"/>
+	<station name="Norton Bridge" code="NTB" lat="52.866205" lon="-2.190571"/>
+	<station name="Norwich" code="NRW" lat="52.626807" lon="1.306352"/>
+	<station name="Norwood Junction" code="NWD" lat="51.397372" lon="-0.074889"/>
+	<station name="Nottingham" code="NOT" lat="52.946901" lon="-1.146404"/>
+	<station name="Nuneaton" code="NUN" lat="52.526232" lon="-1.463886"/>
+	<station name="Nunhead" code="NHD" lat="51.466881" lon="-0.052576"/>
+	<station name="Nunthorpe" code="NNT" lat="54.528055" lon="-1.169657"/>
+	<station name="Nutbourne" code="NUT" lat="50.845759" lon="-0.883599"/>
+	<station name="Nutfield" code="NUF" lat="51.226814" lon="-0.132675"/>
+	<station name="Oakengates" code="OKN" lat="52.693441" lon="-2.450616"/>
+	<station name="Oakham" code="OKM" lat="52.672137" lon="-0.734263"/>
+	<station name="Oakleigh Park" code="OKL" lat="51.638188" lon="-0.166555"/>
+	<station name="Oban" code="OBN" lat="56.412188" lon="-5.474004"/>
+	<station name="Ockendon" code="OCK" lat="51.521996" lon="0.290168"/>
+	<station name="Ockley" code="OLY" lat="51.15147" lon="-0.335999"/>
+	<station name="Old Hill" code="OHL" lat="52.471056" lon="-2.057594"/>
+	<station name="Old Roan" code="ORN" lat="53.486572" lon="-2.951324"/>
+	<station name="Old Street" code="OLD" lat="51.526153" lon="-0.087067"/>
+	<station name="Oldfield Park" code="OLF" lat="51.379222" lon="-2.380302"/>
+	<station name="Oldham Mumps" code="OLM" lat="53.540758" lon="-2.102336"/>
+	<station name="Oldham Werneth" code="OLW" lat="53.538854" lon="-2.128964"/>
+	<station name="Olton" code="OLT" lat="52.438598" lon="-1.804959"/>
+	<station name="Ore" code="ORE" lat="50.866069" lon="0.590256"/>
+	<station name="Ormskirk" code="OMS" lat="53.569153" lon="-2.881447"/>
+	<station name="Orpington" code="ORP" lat="51.373325" lon="0.089174"/>
+	<station name="Orrell" code="ORR" lat="53.530004" lon="-2.709133"/>
+	<station name="Orrell Park" code="OPK" lat="53.462047" lon="-2.963036"/>
+	<station name="Otford" code="OTF" lat="51.313131" lon="0.197327"/>
+	<station name="Oulton Broad North" code="OUN" lat="52.478705" lon="1.717113"/>
+	<station name="Oulton Broad South" code="OUS" lat="52.469893" lon="1.706932"/>
+	<station name="Outwood" code="OUT" lat="53.715788" lon="-1.51013"/>
+	<station name="Overpool" code="OVE" lat="53.283979" lon="-2.924668"/>
+	<station name="Overton" code="OVR" lat="51.253726" lon="-1.260479"/>
+	<station name="Oxenholme Lake District" code="OXN" lat="54.30509" lon="-2.721592"/>
+	<station name="Oxford" code="OXF" lat="51.753527" lon="-1.270278"/>
+	<station name="Oxshott" code="OXS" lat="51.336198" lon="-0.361943"/>
+	<station name="Oxted" code="OXT" lat="51.258097" lon="-0.0049"/>
+	<station name="Paddock Wood" code="PDW" lat="51.182275" lon="0.388989"/>
+	<station name="Padgate" code="PDG" lat="53.40547" lon="-2.557248"/>
+	<station name="Paignton" code="PGN" lat="50.43505" lon="-3.564491"/>
+	<station name="Paisley Canal" code="PCN" lat="55.839908" lon="-4.423588"/>
+	<station name="Paisley Gilmour Street" code="PYG" lat="55.847255" lon="-4.424514"/>
+	<station name="Paisley St James" code="PYJ" lat="55.85197" lon="-4.442664"/>
+	<station name="Palmers Green" code="PAL" lat="51.6187" lon="-0.110877"/>
+	<station name="Pangbourne" code="PAN" lat="51.485112" lon="-1.089562"/>
+	<station name="Pannal" code="PNL" lat="53.958115" lon="-1.533382"/>
+	<station name="Pantyffynnon" code="PTF" lat="51.778641" lon="-3.997742"/>
+	<station name="Par" code="PAR" lat="50.356015" lon="-4.70435"/>
+	<station name="Parbold" code="PBL" lat="53.590789" lon="-2.77122"/>
+	<station name="Park Street" code="PKT" lat="51.725422" lon="-0.340155"/>
+	<station name="Parkstone (Dorset)" code="PKS" lat="50.722613" lon="-1.948567"/>
+	<station name="Parson Street" code="PSN" lat="51.433132" lon="-2.60848"/>
+	<station name="Partick" code="PTK" lat="55.869783" lon="-4.309388"/>
+	<station name="Parton" code="PRN" lat="54.57037" lon="-3.580364"/>
+	<station name="Patchway" code="PWY" lat="51.525727" lon="-2.562349"/>
+	<station name="Patricroft" code="PAT" lat="53.484737" lon="-2.358141"/>
+	<station name="Patterton" code="PTT" lat="55.790551" lon="-4.335231"/>
+	<station name="Peartree" code="PEA" lat="52.896939" lon="-1.472868"/>
+	<station name="Peckham Rye" code="PMR" lat="51.47021" lon="-0.068608"/>
+	<station name="Pegswood" code="PEG" lat="55.178101" lon="-1.643528"/>
+	<station name="Pemberton" code="PEM" lat="53.530236" lon="-2.67005"/>
+	<station name="Pembrey and Burry Port" code="PBY" lat="51.683913" lon="-4.249029"/>
+	<station name="Pembroke" code="PMB" lat="51.673527" lon="-4.906819"/>
+	<station name="Pembroke Dock" code="PMD" lat="51.693852" lon="-4.938404"/>
+	<station name="Penally" code="PNA" lat="51.65895" lon="-4.721841"/>
+	<station name="Penarth" code="PEN" lat="51.440219" lon="-3.180626"/>
+	<station name="Pencoed" code="PCD" lat="51.523708" lon="-3.501305"/>
+	<station name="Pengam" code="PGM" lat="51.669976" lon="-3.230024"/>
+	<station name="Penge East" code="PNE" lat="51.418894" lon="-0.053753"/>
+	<station name="Penge West" code="PNW" lat="51.418226" lon="-0.059923"/>
+	<station name="Penhelig" code="PHG" lat="52.545461" lon="-4.036016"/>
+	<station name="Penistone" code="PNS" lat="53.525295" lon="-1.622051"/>
+	<station name="Penkridge" code="PKG" lat="52.723455" lon="-2.119523"/>
+	<station name="Penmaenmawr" code="PMW" lat="53.270465" lon="-3.923768"/>
+	<station name="Penmere" code="PNM" lat="50.149971" lon="-5.083"/>
+	<station name="Penrhiwceiber" code="PER" lat="51.669608" lon="-3.359923"/>
+	<station name="Penrhyndeudraeth" code="PRH" lat="52.928631" lon="-4.064721"/>
+	<station name="Penrith" code="PNR" lat="54.662121" lon="-2.758317"/>
+	<station name="Penryn (Cornwall)" code="PYN" lat="50.170567" lon="-5.111608"/>
+	<station name="Pensarn (Gwynedd)" code="PES" lat="52.830221" lon="-4.111229"/>
+	<station name="Penshurst" code="PHR" lat="51.197154" lon="0.173577"/>
+	<station name="Pentre-Bach" code="PTB" lat="51.725355" lon="-3.362742"/>
+	<station name="Pen-y-Bont" code="PNY" lat="52.274031" lon="-3.321182"/>
+	<station name="Penychain" code="BPC" lat="52.902646" lon="-4.33845"/>
+	<station name="Penyffordd" code="PNF" lat="53.14245" lon="-3.054588"/>
+	<station name="Penzance" code="PNZ" lat="50.121898" lon="-5.532304"/>
+	<station name="Perranwell" code="PRW" lat="50.216258" lon="-5.112128"/>
+	<station name="Perry Barr" code="PRY" lat="52.516232" lon="-1.901748"/>
+	<station name="Pershore" code="PSH" lat="52.130758" lon="-2.072599"/>
+	<station name="Perth" code="PTH" lat="56.391495" lon="-3.439354"/>
+	<station name="Peterborough" code="PBO" lat="52.574622" lon="-0.249946"/>
+	<station name="Petersfield" code="PTR" lat="51.00658" lon="-0.94128"/>
+	<station name="Petts Wood" code="PET" lat="51.388955" lon="0.074416"/>
+	<station name="Pevensey and Westham" code="PEV" lat="50.815489" lon="0.324865"/>
+	<station name="Pevensey Bay" code="PEB" lat="50.817365" lon="0.343621"/>
+	<station name="Pewsey" code="PEW" lat="51.341856" lon="-1.77133"/>
+	<station name="Pilning" code="PIL" lat="51.556568" lon="-2.627981"/>
+	<station name="Pinhoe" code="PIN" lat="50.737501" lon="-3.469741"/>
+	<station name="Pitlochry" code="PIT" lat="56.702431" lon="-3.736797"/>
+	<station name="Pitsea" code="PSE" lat="51.560131" lon="0.506187"/>
+	<station name="Pleasington" code="PLS" lat="53.730868" lon="-2.545616"/>
+	<station name="Plockton" code="PLK" lat="57.333262" lon="-5.666484"/>
+	<station name="Pluckley" code="PLC" lat="51.156177" lon="0.747045"/>
+	<station name="Plumley" code="PLM" lat="53.274941" lon="-2.419619"/>
+	<station name="Plumpton" code="PMP" lat="50.92829" lon="-0.059744"/>
+	<station name="Plumstead" code="PLU" lat="51.489606" lon="0.084298"/>
+	<station name="Plymouth" code="PLY" lat="50.378097" lon="-4.143826"/>
+	<station name="Pokesdown" code="POK" lat="50.73105" lon="-1.825331"/>
+	<station name="Polegate" code="PLG" lat="50.821202" lon="0.245956"/>
+	<station name="Polesworth" code="PSW" lat="52.6253" lon="-1.610066"/>
+	<station name="Pollokshaws East" code="PWE" lat="55.824644" lon="-4.28773"/>
+	<station name="Pollokshaws West" code="PWW" lat="55.823975" lon="-4.301542"/>
+	<station name="Pollokshields East" code="PLE" lat="55.84063" lon="-4.268961"/>
+	<station name="Pollokshields West" code="PLW" lat="55.837604" lon="-4.276842"/>
+	<station name="Polmont" code="PMT" lat="55.984411" lon="-3.715248"/>
+	<station name="Polsloe Bridge" code="POL" lat="50.730836" lon="-3.50109"/>
+	<station name="Ponders End" code="PON" lat="51.642223" lon="-0.035328"/>
+	<station name="Pontarddulais" code="PTD" lat="51.716692" lon="-4.045424"/>
+	<station name="Pontefract Baghill" code="PFR" lat="53.691706" lon="-1.303482"/>
+	<station name="Pontefract Monkhill" code="PFM" lat="53.698101" lon="-1.306007"/>
+	<station name="Pontefract Tanshelf" code="POT" lat="53.693936" lon="-1.318985"/>
+	<station name="Pontlottyn" code="PLT" lat="51.746577" lon="-3.279484"/>
+	<station name="Pontyclun" code="PYC" lat="51.523299" lon="-3.391074"/>
+	<station name="Pont-y-Pant" code="PYP" lat="53.065098" lon="-3.862653"/>
+	<station name="Pontypool and New Inn" code="PPL" lat="51.697492" lon="-3.012662"/>
+	<station name="Pontypridd" code="PPD" lat="51.599768" lon="-3.342133"/>
+	<station name="Poole" code="POO" lat="50.719302" lon="-1.982893"/>
+	<station name="Poppleton" code="POP" lat="53.975978" lon="-1.148483"/>
+	<station name="Port Glasgow" code="PTG" lat="55.93342" lon="-4.6891"/>
+	<station name="Port Sunlight" code="PSL" lat="53.349109" lon="-2.998908"/>
+	<station name="Port Talbot Parkway" code="PTA" lat="51.591651" lon="-3.780731"/>
+	<station name="Portchester" code="PTC" lat="50.848775" lon="-1.124468"/>
+	<station name="Porth" code="POR" lat="51.612293" lon="-3.407344"/>
+	<station name="Porthmadog" code="PTM" lat="52.930817" lon="-4.135072"/>
+	<station name="Portlethen" code="PLN" lat="57.060885" lon="-2.128448"/>
+	<station name="Portslade" code="PLD" lat="50.835394" lon="-0.20577"/>
+	<station name="Portsmouth and Southsea" code="PMS" lat="50.798318" lon="-1.090161"/>
+	<station name="Portsmouth Arms" code="PMA" lat="50.956962" lon="-3.950733"/>
+	<station name="Portsmouth Harbour" code="PMH" lat="50.796858" lon="-1.107844"/>
+	<station name="Possilpark and Parkhouse" code="PPK" lat="55.889795" lon="-4.258538"/>
+	<station name="Potters Bar" code="PBR" lat="51.697959" lon="-0.193281"/>
+	<station name="Poulton-le-Fylde" code="PFY" lat="53.848175" lon="-2.990668"/>
+	<station name="Poynton" code="PYT" lat="53.35043" lon="-2.134531"/>
+	<station name="Prees" code="PRS" lat="52.899904" lon="-2.689215"/>
+	<station name="Prescot" code="PSC" lat="53.42371" lon="-2.798936"/>
+	<station name="Prestatyn" code="PRT" lat="53.336188" lon="-3.406783"/>
+	<station name="Prestbury" code="PRB" lat="53.293251" lon="-2.145625"/>
+	<station name="Preston (Lancs)" code="PRE" lat="53.755483" lon="-2.70715"/>
+	<station name="Preston Park" code="PRP" lat="50.845786" lon="-0.155014"/>
+	<station name="Prestonpans" code="PST" lat="55.953087" lon="-2.973858"/>
+	<station name="Prestwick International Airport" code="PRA" lat="55.508478" lon="-4.613973"/>
+	<station name="Prestwick Town" code="PTW" lat="55.50157" lon="-4.614227"/>
+	<station name="Priesthill and Darnley" code="PTL" lat="55.811888" lon="-4.343137"/>
+	<station name="Princes Risborough" code="PRR" lat="51.718064" lon="-0.844103"/>
+	<station name="Prittlewell" code="PRL" lat="51.551098" lon="0.710599"/>
+	<station name="Prudhoe" code="PRU" lat="54.96587" lon="-1.864466"/>
+	<station name="Pulborough" code="PUL" lat="50.957128" lon="-0.516482"/>
+	<station name="Purfleet" code="PFL" lat="51.481013" lon="0.237614"/>
+	<station name="Purley" code="PUR" lat="51.337716" lon="-0.114129"/>
+	<station name="Purley Oaks" code="PUO" lat="51.346862" lon="-0.098905"/>
+	<station name="Putney" code="PUT" lat="51.461124" lon="-0.216074"/>
+	<station name="Pwllheli" code="PWL" lat="52.888011" lon="-4.41696"/>
+	<station name="Pyle" code="PYL" lat="51.525216" lon="-3.697223"/>
+	<station name="Quakers Yard" code="QYD" lat="51.660303" lon="-3.322767"/>
+	<station name="Queenborough" code="QBR" lat="51.415579" lon="0.75003"/>
+	<station name="Queens Park (Glasgow)" code="QPK" lat="55.835776" lon="-4.268088"/>
+	<station name="Queens Park (London)" code="QPW" lat="51.533799" lon="-0.205337"/>
+	<station name="Queens Road (Peckham)" code="QRP" lat="51.473748" lon="-0.057067"/>
+	<station name="Queenstown Road (Battersea)" code="QRB" lat="51.474809" lon="-0.146763"/>
+	<station name="Quintrel Downs" code="QUI" lat="50.403856" lon="-5.028982"/>
+	<station name="Radcliffe (Notts)" code="RDF" lat="52.948757" lon="-1.037019"/>
+	<station name="Radlett" code="RDT" lat="51.685239" lon="-0.317281"/>
+	<station name="Radley" code="RAD" lat="51.686122" lon="-1.24024"/>
+	<station name="Radyr" code="RDR" lat="51.516205" lon="-3.248487"/>
+	<station name="Rainford" code="RNF" lat="53.516955" lon="-2.789473"/>
+	<station name="Rainham (Essex)" code="RNM" lat="51.518849" lon="0.187909"/>
+	<station name="Rainham (Kent)" code="RAI" lat="51.365822" lon="0.611748"/>
+	<station name="Rainhill" code="RNH" lat="53.417318" lon="-2.765927"/>
+	<station name="Ramsgate" code="RAM" lat="51.341041" lon="1.405503"/>
+	<station name="Ramsgreave and Wilpshire" code="RGW" lat="53.779578" lon="-2.477868"/>
+	<station name="Rannoch" code="RAN" lat="56.685593" lon="-4.577004"/>
+	<station name="Rauceby" code="RAU" lat="52.985267" lon="-0.455782"/>
+	<station name="Ravenglass" code="RAV" lat="54.355054" lon="-3.407933"/>
+	<station name="Ravensbourne" code="RVB" lat="51.414215" lon="-0.007775"/>
+	<station name="Ravensthorpe" code="RVN" lat="53.675487" lon="-1.655678"/>
+	<station name="Rawcliffe" code="RWC" lat="53.689002" lon="-0.960999"/>
+	<station name="Rayleigh" code="RLG" lat="51.589187" lon="0.600403"/>
+	<station name="Raynes Park" code="RAY" lat="51.408895" lon="-0.229994"/>
+	<station name="Reading" code="RDG" lat="51.459094" lon="-0.973349"/>
+	<station name="Reading West" code="RDW" lat="51.454913" lon="-0.990898"/>
+	<station name="Rectory Road" code="REC" lat="51.558777" lon="-0.06806"/>
+	<station name="Redbridge (Hants)" code="RDB" lat="50.919721" lon="-1.470503"/>
+	<station name="Redcar Central" code="RCC" lat="54.616123" lon="-1.069867"/>
+	<station name="Redcar East" code="RCE" lat="54.60951" lon="-1.052438"/>
+	<station name="Reddish North" code="RDN" lat="53.449774" lon="-2.157089"/>
+	<station name="Reddish South" code="RDS" lat="53.436104" lon="-2.1586"/>
+	<station name="Redditch" code="RDC" lat="52.306349" lon="-1.945543"/>
+	<station name="Redhill" code="RDH" lat="51.239986" lon="-0.165434"/>
+	<station name="Redland" code="RDA" lat="51.468152" lon="-2.599637"/>
+	<station name="Redruth" code="RED" lat="50.232932" lon="-5.225917"/>
+	<station name="Reedham (Norfolk)" code="REE" lat="52.564985" lon="1.560486"/>
+	<station name="Reedham (Surrey)" code="RHM" lat="51.331235" lon="-0.123072"/>
+	<station name="Reigate" code="REI" lat="51.241773" lon="-0.204813"/>
+	<station name="Renton" code="RTN" lat="55.970367" lon="-4.586115"/>
+	<station name="Retford" code="RET" lat="53.314709" lon="-0.947614"/>
+	<station name="Rhiwbina" code="RHI" lat="51.520984" lon="-3.213727"/>
+	<station name="Rhoose Cardiff International Airport" code="RIA" lat="51.386853" lon="-3.34489"/>
+	<station name="Rhosneigr" code="RHO" lat="53.234787" lon="-4.505963"/>
+	<station name="Rhyl" code="RHL" lat="53.318537" lon="-3.488367"/>
+	<station name="Rhymney" code="RHY" lat="51.759074" lon="-3.28971"/>
+	<station name="Ribblehead" code="RHD" lat="54.205539" lon="-2.360546"/>
+	<station name="Rice Lane" code="RIL" lat="53.457567" lon="-2.963264"/>
+	<station name="Richmond (Surrey)" code="RMD" lat="51.46317" lon="-0.300404"/>
+	<station name="Rickmansworth" code="RIC" lat="51.640407" lon="-0.473325"/>
+	<station name="Riddlesdown" code="RDD" lat="51.332908" lon="-0.099799"/>
+	<station name="Ridgmont" code="RID" lat="52.026008" lon="-0.595361"/>
+	<station name="Riding Mill" code="RDM" lat="54.948775" lon="-1.971861"/>
+	<station name="Rishton" code="RIS" lat="53.763799" lon="-2.419611"/>
+	<station name="Robertsbridge" code="RBR" lat="50.984862" lon="0.469326"/>
+	<station name="Roby" code="ROB" lat="53.409943" lon="-2.856319"/>
+	<station name="Rochdale" code="RCD" lat="53.610308" lon="-2.153659"/>
+	<station name="Roche" code="ROC" lat="50.418301" lon="-4.829991"/>
+	<station name="Rochester" code="RTR" lat="51.385746" lon="0.510296"/>
+	<station name="Rochford" code="RFD" lat="51.581629" lon="0.702351"/>
+	<station name="Rock Ferry" code="RFY" lat="53.372693" lon="-3.011296"/>
+	<station name="Rogart" code="ROG" lat="57.988636" lon="-4.158566"/>
+	<station name="Rolleston" code="ROL" lat="53.065122" lon="-0.900044"/>
+	<station name="Roman Bridge" code="RMB" lat="53.044651" lon="-3.922383"/>
+	<station name="Romford" code="RMF" lat="51.574585" lon="0.182581"/>
+	<station name="Romiley" code="RML" lat="53.414153" lon="-2.089779"/>
+	<station name="Romsey" code="ROM" lat="50.992352" lon="-1.493094"/>
+	<station name="Roose" code="ROO" lat="54.11456" lon="-3.194527"/>
+	<station name="Rose Grove" code="RSG" lat="53.78581" lon="-2.282498"/>
+	<station name="Rose Hill (Marple)" code="RSH" lat="53.396103" lon="-2.076327"/>
+	<station name="Rosyth" code="ROS" lat="56.045399" lon="-3.426906"/>
+	<station name="Rotherham Central" code="RMC" lat="53.431401" lon="-1.361224"/>
+	<station name="Roughton Road" code="RNR" lat="52.918289" lon="1.299936"/>
+	<station name="Rowlands Castle" code="RLN" lat="50.891787" lon="-0.957167"/>
+	<station name="Rowley Regis" code="ROW" lat="52.477412" lon="-2.0307"/>
+	<station name="Roy Bridge" code="RYB" lat="56.888335" lon="-4.837221"/>
+	<station name="Roydon" code="RYN" lat="51.775353" lon="0.03635"/>
+	<station name="Royston (Herts)" code="RYS" lat="52.053108" lon="-0.027358"/>
+	<station name="Ruabon" code="RUA" lat="52.987148" lon="-3.042692"/>
+	<station name="Rufford" code="RUF" lat="53.634404" lon="-2.808085"/>
+	<station name="Rugby" code="RUG" lat="52.378999" lon="-1.250445"/>
+	<station name="Rugeley Town" code="RGT" lat="52.754937" lon="-1.936375"/>
+	<station name="Rugeley Trent Valley" code="RGL" lat="52.769364" lon="-1.929305"/>
+	<station name="Runcorn" code="RUN" lat="53.338486" lon="-2.739353"/>
+	<station name="Runcorn East" code="RUE" lat="53.328524" lon="-2.664647"/>
+	<station name="Ruskington" code="RKT" lat="53.041646" lon="-0.380582"/>
+	<station name="Ruswarp" code="RUS" lat="54.469753" lon="-0.627743"/>
+	<station name="Rutherglen" code="RUT" lat="55.829708" lon="-4.212796"/>
+	<station name="Ryde Esplanade" code="RYD" lat="50.732986" lon="-1.159724"/>
+	<station name="Ryde Pier Head" code="RYP" lat="50.73888" lon="-1.160566"/>
+	<station name="Ryde St Johns Road" code="RYR" lat="50.723986" lon="-1.156817"/>
+	<station name="Ryder Brow" code="RRB" lat="53.456666" lon="-2.173565"/>
+	<station name="Rye" code="RYE" lat="50.952267" lon="0.730721"/>
+	<station name="Rye House" code="RYH" lat="51.769094" lon="0.00555"/>
+	<station name="Salford Central" code="SFD" lat="53.482688" lon="-2.25582"/>
+	<station name="Salford Crescent" code="SLD" lat="53.48631" lon="-2.275898"/>
+	<station name="Salfords (Surrey)" code="SAF" lat="51.201539" lon="-0.162206"/>
+	<station name="Salhouse" code="SAH" lat="52.675608" lon="1.391044"/>
+	<station name="Salisbury" code="SAL" lat="51.070274" lon="-1.80626"/>
+	<station name="Saltaire" code="SAE" lat="53.838527" lon="-1.790207"/>
+	<station name="Saltash" code="STS" lat="50.407357" lon="-4.209167"/>
+	<station name="Saltburn" code="SLB" lat="54.583511" lon="-0.974"/>
+	<station name="Saltcoats" code="SLT" lat="55.633675" lon="-4.784179"/>
+	<station name="Saltmarshe" code="SAM" lat="53.721959" lon="-0.80931"/>
+	<station name="Salwick" code="SLW" lat="53.781452" lon="-2.817148"/>
+	<station name="Sandal and Agbrigg" code="SNA" lat="53.663288" lon="-1.481884"/>
+	<station name="Sandbach" code="SDB" lat="53.150038" lon="-2.393942"/>
+	<station name="Sanderstead" code="SNR" lat="51.347753" lon="-0.093461"/>
+	<station name="Sandhills" code="SDL" lat="53.429671" lon="-2.992359"/>
+	<station name="Sandhurst (Berks)" code="SND" lat="51.346735" lon="-0.804422"/>
+	<station name="Sandling" code="SDG" lat="51.090456" lon="1.066122"/>
+	<station name="Sandown (Isle of Wight)" code="SAN" lat="50.656623" lon="-1.162114"/>
+	<station name="Sandplace" code="SDP" lat="50.387413" lon="-4.46502"/>
+	<station name="Sandwell and Dudley" code="SAD" lat="52.508612" lon="-2.011948"/>
+	<station name="Sandwich" code="SDW" lat="51.269033" lon="1.344486"/>
+	<station name="Sandy" code="SDY" lat="52.12503" lon="-0.280917"/>
+	<station name="Sankey for Penketh" code="SNK" lat="53.392499" lon="-2.649736"/>
+	<station name="Sanquhar" code="SQH" lat="55.371155" lon="-3.924958"/>
+	<station name="Sarn" code="SRR" lat="51.538962" lon="-3.589381"/>
+	<station name="Saundersfoot" code="SDF" lat="51.721143" lon="-4.717752"/>
+	<station name="Saunderton" code="SDR" lat="51.676056" lon="-0.825722"/>
+	<station name="Sawbridgeworth" code="SAW" lat="51.814229" lon="0.160503"/>
+	<station name="Saxilby" code="SXY" lat="53.267153" lon="-0.663976"/>
+	<station name="Saxmundham" code="SAX" lat="52.215153" lon="1.490812"/>
+	<station name="Scarborough" code="SCA" lat="54.279749" lon="-0.405402"/>
+	<station name="Scotscalder" code="SCT" lat="58.482531" lon="-3.553865"/>
+	<station name="Scotstounhill" code="SCH" lat="55.884788" lon="-4.35271"/>
+	<station name="Scunthorpe" code="SCU" lat="53.585984" lon="-0.651782"/>
+	<station name="Sea Mills" code="SML" lat="51.479795" lon="-2.649876"/>
+	<station name="Seaford" code="SEF" lat="50.77285" lon="0.099986"/>
+	<station name="Seaforth and Litherland" code="SFL" lat="53.465647" lon="-3.005335"/>
+	<station name="Seaham" code="SEA" lat="54.839421" lon="-1.346837"/>
+	<station name="Seamer" code="SEM" lat="54.241018" lon="-0.416738"/>
+	<station name="Seascale" code="SSC" lat="54.395792" lon="-3.484367"/>
+	<station name="Seaton Carew" code="SEC" lat="54.658543" lon="-1.200552"/>
+	<station name="Seer Green" code="SRG" lat="51.609797" lon="-0.607923"/>
+	<station name="Selby" code="SBY" lat="53.782599" lon="-1.063419"/>
+	<station name="Selhurst" code="SRS" lat="51.392514" lon="-0.088547"/>
+	<station name="Sellafield" code="SEL" lat="54.416404" lon="-3.510126"/>
+	<station name="Selling" code="SEG" lat="51.278228" lon="0.940101"/>
+	<station name="Selly Oak" code="SLY" lat="52.441826" lon="-1.935523"/>
+	<station name="Settle" code="SET" lat="54.06651" lon="-2.280631"/>
+	<station name="Seven Kings" code="SVK" lat="51.56384" lon="0.096891"/>
+	<station name="Seven Sisters" code="SVS" lat="51.582924" lon="-0.074648"/>
+	<station name="Sevenoaks" code="SEV" lat="51.276905" lon="0.18182"/>
+	<station name="Severn Beach" code="SVB" lat="51.559896" lon="-2.663926"/>
+	<station name="Severn Tunnel Junction" code="STJ" lat="51.584359" lon="-2.77533"/>
+	<station name="Shalford" code="SFR" lat="51.214263" lon="-0.566854"/>
+	<station name="Shanklin (Isle of Wight)" code="SHN" lat="50.633511" lon="-1.180345"/>
+	<station name="Shaw and Crompton" code="SHA" lat="53.577258" lon="-2.089755"/>
+	<station name="Shawford" code="SHW" lat="51.021942" lon="-1.32727"/>
+	<station name="Shawlands" code="SHL" lat="55.829081" lon="-4.292541"/>
+	<station name="Sheerness-on-Sea" code="SSS" lat="51.440948" lon="0.758844"/>
+	<station name="Sheffield" code="SHF" lat="53.3782" lon="-1.462355"/>
+	<station name="Shelford" code="SED" lat="52.149131" lon="0.139941"/>
+	<station name="Shenfield" code="SNF" lat="51.630116" lon="0.329714"/>
+	<station name="Shenstone" code="SEN" lat="52.639469" lon="-1.843621"/>
+	<station name="Shepherds Well" code="SPH" lat="51.188119" lon="1.229796"/>
+	<station name="Shepley" code="SPY" lat="53.588748" lon="-1.704415"/>
+	<station name="Shepperton" code="SHP" lat="51.395997" lon="-0.448404"/>
+	<station name="Shepreth" code="STH" lat="52.114309" lon="0.031317"/>
+	<station name="Sherborne" code="SHE" lat="50.944021" lon="-2.512931"/>
+	<station name="Sherburn-in-Elmet" code="SIE" lat="53.797304" lon="-1.232786"/>
+	<station name="Sheringham" code="SHM" lat="52.941499" lon="1.210321"/>
+	<station name="Shettleston" code="SLS" lat="55.853395" lon="-4.159871"/>
+	<station name="Shieldmuir" code="SDM" lat="55.776721" lon="-3.95676"/>
+	<station name="Shifnal" code="SFN" lat="52.665992" lon="-2.372387"/>
+	<station name="Shildon" code="SHD" lat="54.625984" lon="-1.636614"/>
+	<station name="Shiplake" code="SHI" lat="51.510788" lon="-0.882416"/>
+	<station name="Shipley" code="SHY" lat="53.833825" lon="-1.77346"/>
+	<station name="Shippea Hill" code="SPP" lat="52.430294" lon="0.412191"/>
+	<station name="Shipton" code="SIP" lat="51.865433" lon="-1.592134"/>
+	<station name="Shirebrook" code="SHB" lat="53.2037" lon="-1.202398"/>
+	<station name="Shirehampton" code="SHH" lat="51.48464" lon="-2.679165"/>
+	<station name="Shireoaks" code="SRO" lat="53.324611" lon="-1.168031"/>
+	<station name="Shirley (West Midlands)" code="SRL" lat="52.403805" lon="-1.845674"/>
+	<station name="Shoeburyness" code="SRY" lat="51.530917" lon="0.795149"/>
+	<station name="Sholing" code="SHO" lat="50.8961" lon="-1.363893"/>
+	<station name="Shoreham (Kent)" code="SEH" lat="51.331958" lon="0.189087"/>
+	<station name="Shoreham-by-Sea (Sussex)" code="SSE" lat="50.834136" lon="-0.271462"/>
+	<station name="Shortlands" code="SRT" lat="51.405653" lon="0.002255"/>
+	<station name="Shotton" code="SHT" lat="53.213934" lon="-3.037827"/>
+	<station name="Shotts" code="SHS" lat="55.817982" lon="-3.799244"/>
+	<station name="Shrewsbury" code="SHR" lat="52.711596" lon="-2.74979"/>
+	<station name="Sidcup" code="SID" lat="51.433913" lon="0.10363"/>
+	<station name="Sileby" code="SIL" lat="52.730607" lon="-1.109218"/>
+	<station name="Silecroft" code="SIC" lat="54.226212" lon="-3.33497"/>
+	<station name="Silkstone Common" code="SLK" lat="53.534894" lon="-1.563891"/>
+	<station name="Silver Street" code="SLV" lat="51.614798" lon="-0.067206"/>
+	<station name="Silverdale (Lancs)" code="SVR" lat="54.169065" lon="-2.803481"/>
+	<station name="Silvertown" code="SVW" lat="51.502011" lon="0.045629"/>
+	<station name="Singer" code="SIN" lat="55.90708" lon="-4.405098"/>
+	<station name="Sittingbourne" code="SIT" lat="51.341995" lon="0.734828"/>
+	<station name="Skegness" code="SKG" lat="53.143409" lon="0.334519"/>
+	<station name="Skewen" code="SKE" lat="51.661495" lon="-3.84691"/>
+	<station name="Skipton" code="SKI" lat="53.958265" lon="-2.025508"/>
+	<station name="Slade Green" code="SGR" lat="51.468129" lon="0.190164"/>
+	<station name="Slaithwaite" code="SWT" lat="53.623354" lon="-1.881545"/>
+	<station name="Slateford" code="SLA" lat="55.92661" lon="-3.243585"/>
+	<station name="Sleaford" code="SLR" lat="52.99532" lon="-0.410345"/>
+	<station name="Sleights" code="SLH" lat="54.461029" lon="-0.663283"/>
+	<station name="Slough" code="SLO" lat="51.511784" lon="-0.591993"/>
+	<station name="Small Heath" code="SMA" lat="52.463417" lon="-1.859403"/>
+	<station name="Smallbrook Junction" code="SAB" lat="50.711152" lon="-1.15452"/>
+	<station name="Smethwick Galton Bridge" code="SGB" lat="52.501595" lon="-1.979314"/>
+	<station name="Smethwick Rolfe Street" code="SMR" lat="52.496269" lon="-1.970476"/>
+	<station name="Smitham" code="SMI" lat="51.322011" lon="-0.134029"/>
+	<station name="Smithy Bridge" code="SMB" lat="53.633204" lon="-2.113511"/>
+	<station name="Snaith" code="SNI" lat="53.693029" lon="-1.028409"/>
+	<station name="Snodland" code="SDA" lat="51.329885" lon="0.447749"/>
+	<station name="Snowdown" code="SWO" lat="51.215165" lon="1.213746"/>
+	<station name="Sole Street" code="SOR" lat="51.383114" lon="0.37792"/>
+	<station name="Solihull" code="SOL" lat="52.414314" lon="-1.788628"/>
+	<station name="Somerleyton" code="SYT" lat="52.510782" lon="1.653052"/>
+	<station name="South Acton" code="SAT" lat="51.499533" lon="-0.269931"/>
+	<station name="South Bank" code="SBK" lat="54.584023" lon="-1.177065"/>
+	<station name="South Bermondsey" code="SBM" lat="51.487327" lon="-0.053617"/>
+	<station name="South Croydon" code="SCY" lat="51.362935" lon="-0.093223"/>
+	<station name="South Elmsall" code="SES" lat="53.594847" lon="-1.285173"/>
+	<station name="South Greenford" code="SGN" lat="51.533843" lon="-0.336666"/>
+	<station name="South Gyle" code="SGL" lat="55.936462" lon="-3.299483"/>
+	<station name="South Hampstead" code="SOH" lat="51.541415" lon="-0.178406"/>
+	<station name="South Kenton" code="SOK" lat="51.570628" lon="-0.308546"/>
+	<station name="South Merton" code="SMO" lat="51.403211" lon="-0.205161"/>
+	<station name="South Milford" code="SOM" lat="53.782389" lon="-1.250058"/>
+	<station name="South Ruislip" code="SRU" lat="51.556933" lon="-0.398603"/>
+	<station name="South Tottenham" code="STO" lat="51.580467" lon="-0.071525"/>
+	<station name="South Wigston" code="SWS" lat="52.582298" lon="-1.134507"/>
+	<station name="Southall" code="STL" lat="51.505855" lon="-0.378133"/>
+	<station name="Southampton Airport Parkway" code="SOA" lat="50.950696" lon="-1.362617"/>
+	<station name="Southampton Central" code="SOU" lat="50.90718" lon="-1.413949"/>
+	<station name="Southbourne" code="SOB" lat="50.848057" lon="-0.90769"/>
+	<station name="Southbury" code="SBU" lat="51.648668" lon="-0.052516"/>
+	<station name="Southease" code="SEE" lat="50.830601" lon="0.030814"/>
+	<station name="Southend Central" code="SOC" lat="51.537403" lon="0.711517"/>
+	<station name="Southend East" code="SOE" lat="51.538863" lon="0.731917"/>
+	<station name="Southend Victoria" code="SOV" lat="51.541979" lon="0.71182"/>
+	<station name="Southminster" code="SMN" lat="51.660388" lon="0.835402"/>
+	<station name="Southport" code="SOP" lat="53.646429" lon="-3.002436"/>
+	<station name="Southwick (Sussex)" code="SWK" lat="50.832476" lon="-0.235836"/>
+	<station name="Sowerby Bridge" code="SOW" lat="53.707728" lon="-1.90794"/>
+	<station name="Spalding" code="SPA" lat="52.788894" lon="-0.157102"/>
+	<station name="Spean Bridge" code="SBR" lat="56.889808" lon="-4.921136"/>
+	<station name="Spital" code="SPI" lat="53.340267" lon="-2.994589"/>
+	<station name="Spondon" code="SPO" lat="52.912153" lon="-1.410944"/>
+	<station name="Spooner Row" code="SPN" lat="52.535121" lon="1.086536"/>
+	<station name="Spring Road" code="SRI" lat="52.444131" lon="-1.836695"/>
+	<station name="Springburn" code="SPR" lat="55.88175" lon="-4.231204"/>
+	<station name="Springfield" code="SPF" lat="56.29489" lon="-3.052823"/>
+	<station name="Squires Gate" code="SQU" lat="53.777194" lon="-3.050158"/>
+	<station name="St Albans" code="SAC" lat="51.750321" lon="-0.327317"/>
+	<station name="St Albans Abbey" code="SAA" lat="51.744336" lon="-0.342201"/>
+	<station name="St Andrews Road" code="SAR" lat="51.513081" lon="-2.696078"/>
+	<station name="St Annes-on-the-Sea" code="SAS" lat="53.753341" lon="-3.02923"/>
+	<station name="St Austell" code="SAU" lat="50.339457" lon="-4.789679"/>
+	<station name="St Bees" code="SBS" lat="54.492473" lon="-3.590965"/>
+	<station name="St Budeaux Ferry Road" code="SBF" lat="50.40148" lon="-4.187483"/>
+	<station name="St Budeaux Victoria Road" code="SBV" lat="50.402421" lon="-4.18908"/>
+	<station name="St Columb Road" code="SCR" lat="50.398328" lon="-4.940738"/>
+	<station name="St Denys" code="SDN" lat="50.921389" lon="-1.388034"/>
+	<station name="St Erth" code="SER" lat="50.17083" lon="-5.44316"/>
+	<station name="St Germans" code="SGM" lat="50.394369" lon="-4.308708"/>
+	<station name="St Helens Central" code="SNH" lat="53.452755" lon="-2.729768"/>
+	<station name="St Helens Junction" code="SHJ" lat="53.433814" lon="-2.6998"/>
+	<station name="St Helier (Surrey)" code="SIH" lat="51.389684" lon="-0.198551"/>
+	<station name="St Ives (Cornwall)" code="SIV" lat="50.210096" lon="-5.477499"/>
+	<station name="St James Park (Devon)" code="SJP" lat="50.730396" lon="-3.522636"/>
+	<station name="St James Street (Walthamstow)" code="SJS" lat="51.580997" lon="-0.032426"/>
+	<station name="St Johns" code="SAJ" lat="51.469166" lon="-0.022644"/>
+	<station name="St Keyne" code="SKN" lat="50.422384" lon="-4.463315"/>
+	<station name="St Leonards Warrior Square" code="SLQ" lat="50.85535" lon="0.560309"/>
+	<station name="St Margarets (Greater London)" code="SMG" lat="51.455267" lon="-0.320477"/>
+	<station name="St Margarets (Herts)" code="SMT" lat="51.787768" lon="0.001183"/>
+	<station name="St Mary Cray" code="SMY" lat="51.39467" lon="0.106142"/>
+	<station name="St Michaels" code="STM" lat="53.375962" lon="-2.954136"/>
+	<station name="St Neots" code="SNO" lat="52.2314" lon="-0.247367"/>
+	<station name="Stafford" code="STA" lat="52.803578" lon="-2.122698"/>
+	<station name="Staines" code="SNS" lat="51.432032" lon="-0.503637"/>
+	<station name="Stallingborough" code="SLL" lat="53.587118" lon="-0.183284"/>
+	<station name="Stalybridge" code="SYB" lat="53.484145" lon="-2.063214"/>
+	<station name="Stamford" code="SMD" lat="52.647787" lon="-0.480416"/>
+	<station name="Stamford Hill" code="SMH" lat="51.574458" lon="-0.076257"/>
+	<station name="Stanford-le-Hope" code="SFO" lat="51.514398" lon="0.423337"/>
+	<station name="Stanlow and Thornton" code="SNT" lat="53.278417" lon="-2.843358"/>
+	<station name="Stansted Airport" code="SSD" lat="51.887101" lon="0.260916"/>
+	<station name="Stansted Mountfitchet" code="SST" lat="51.901227" lon="0.199128"/>
+	<station name="Staplehurst" code="SPU" lat="51.171249" lon="0.550845"/>
+	<station name="Stapleton Road (Avon)" code="SRD" lat="51.467354" lon="-2.566194"/>
+	<station name="Starbeck" code="SBE" lat="53.998788" lon="-1.50029"/>
+	<station name="Starcross" code="SCS" lat="50.627374" lon="-3.447622"/>
+	<station name="Staveley (Cumbria)" code="SVL" lat="54.375449" lon="-2.818641"/>
+	<station name="Stechford" code="SCF" lat="52.485041" lon="-1.811224"/>
+	<station name="Steeton and Silsden" code="SON" lat="53.900032" lon="-1.944484"/>
+	<station name="Stepps" code="SPS" lat="55.889986" lon="-4.140563"/>
+	<station name="Stevenage" code="SVG" lat="51.902664" lon="-0.207766"/>
+	<station name="Stevenston" code="STV" lat="55.634118" lon="-4.75013"/>
+	<station name="Stewartby" code="SWR" lat="52.069096" lon="-0.52052"/>
+	<station name="Stewarton" code="STT" lat="55.681812" lon="-4.518312"/>
+	<station name="Stirling" code="STG" lat="56.119739" lon="-3.935374"/>
+	<station name="Stockport" code="SPT" lat="53.405393" lon="-2.163109"/>
+	<station name="Stocksfield" code="SKS" lat="54.946659" lon="-1.91733"/>
+	<station name="Stocksmoor" code="SSM" lat="53.593777" lon="-1.722702"/>
+	<station name="Stockton" code="STK" lat="54.569506" lon="-1.318634"/>
+	<station name="Stoke Mandeville" code="SKM" lat="51.788061" lon="-0.784833"/>
+	<station name="Stoke Newington" code="SKW" lat="51.565222" lon="-0.072508"/>
+	<station name="Stoke-on-Trent" code="SOT" lat="53.007961" lon="-2.18114"/>
+	<station name="Stone (Staffs)" code="SNE" lat="52.909168" lon="-2.155134"/>
+	<station name="Stone Crossing" code="SCG" lat="51.451175" lon="0.263564"/>
+	<station name="Stonebridge Park" code="SBP" lat="51.54405" lon="-0.275349"/>
+	<station name="Stonegate" code="SOG" lat="51.020461" lon="0.363035"/>
+	<station name="Stonehaven" code="STN" lat="56.966503" lon="-2.225462"/>
+	<station name="Stonehouse" code="SHU" lat="51.746201" lon="-2.280114"/>
+	<station name="Stoneleigh" code="SNL" lat="51.363371" lon="-0.248283"/>
+	<station name="Stourbridge Junction" code="SBJ" lat="52.448798" lon="-2.13396"/>
+	<station name="Stourbridge Town" code="SBT" lat="52.455795" lon="-2.142372"/>
+	<station name="Stowmarket" code="SMK" lat="52.189807" lon="1.000488"/>
+	<station name="Stranraer" code="STR" lat="54.908415" lon="-5.024039"/>
+	<station name="Stratford (London)" code="SRA" lat="51.541147" lon="-0.003389"/>
+	<station name="Stratford-upon-Avon" code="SAV" lat="52.194004" lon="-1.716296"/>
+	<station name="Strathcarron" code="STC" lat="57.422438" lon="-5.428827"/>
+	<station name="Strawberry Hill" code="STW" lat="51.439433" lon="-0.339495"/>
+	<station name="Streatham" code="STE" lat="51.425996" lon="-0.131117"/>
+	<station name="Streatham Common" code="SRC" lat="51.418389" lon="-0.135921"/>
+	<station name="Streatham Hill" code="SRH" lat="51.43831" lon="-0.127216"/>
+	<station name="Streethouse" code="SHC" lat="53.676177" lon="-1.39895"/>
+	<station name="Strines" code="SRN" lat="53.374546" lon="-2.035285"/>
+	<station name="Stromeferry" code="STF" lat="57.352345" lon="-5.551719"/>
+	<station name="Strood" code="SOO" lat="51.396351" lon="0.500486"/>
+	<station name="Stroud (Glos)" code="STD" lat="51.744381" lon="-2.219151"/>
+	<station name="Sturry" code="STU" lat="51.301052" lon="1.122366"/>
+	<station name="Styal" code="SYA" lat="53.348746" lon="-2.240753"/>
+	<station name="Sudbury (Suffolk)" code="SUY" lat="52.036198" lon="0.734816"/>
+	<station name="Sudbury and Harrow Road" code="SUD" lat="51.55422" lon="-0.315331"/>
+	<station name="Sudbury Hill Harrow" code="SDH" lat="51.55829" lon="-0.335467"/>
+	<station name="Sugar Loaf" code="SUG" lat="52.08203" lon="-3.685177"/>
+	<station name="Summerston" code="SUM" lat="55.898662" lon="-4.292465"/>
+	<station name="Sunbury" code="SUU" lat="51.417868" lon="-0.418645"/>
+	<station name="Sunderland" code="SUN" lat="54.905458" lon="-1.382223"/>
+	<station name="Sundridge Park" code="SUP" lat="51.413757" lon="0.021211"/>
+	<station name="Sunningdale" code="SNG" lat="51.391675" lon="-0.633307"/>
+	<station name="Sunnymeads" code="SNY" lat="51.469957" lon="-0.559723"/>
+	<station name="Surbiton" code="SUR" lat="51.392335" lon="-0.303852"/>
+	<station name="Sutton (Surrey)" code="SUO" lat="51.359703" lon="-0.190576"/>
+	<station name="Sutton Coldfield" code="SUT" lat="52.564891" lon="-1.824896"/>
+	<station name="Sutton Common" code="SUC" lat="51.375113" lon="-0.196338"/>
+	<station name="Sutton Parkway" code="SPK" lat="53.114192" lon="-1.245477"/>
+	<station name="Swale" code="SWL" lat="51.389518" lon="0.747866"/>
+	<station name="Swanley" code="SAY" lat="51.393123" lon="0.168898"/>
+	<station name="Swanscombe" code="SWM" lat="51.448851" lon="0.310638"/>
+	<station name="Swansea" code="SWA" lat="51.625541" lon="-3.94096"/>
+	<station name="Swanwick" code="SNW" lat="50.876046" lon="-1.267712"/>
+	<station name="Sway" code="SWY" lat="50.784358" lon="-1.610437"/>
+	<station name="Swaythling" code="SWG" lat="50.940907" lon="-1.3759"/>
+	<station name="Swinderby" code="SWD" lat="53.169309" lon="-0.702877"/>
+	<station name="Swindon" code="SWI" lat="51.565486" lon="-1.784923"/>
+	<station name="Swineshead" code="SWE" lat="52.969761" lon="-0.18737"/>
+	<station name="Swinton (Lancs)" code="SNN" lat="53.51478" lon="-2.337479"/>
+	<station name="Swinton (South Yorks)" code="SWN" lat="53.486176" lon="-1.305656"/>
+	<station name="Sydenham" code="SYD" lat="51.42658" lon="-0.054617"/>
+	<station name="Sydenham Hill" code="SYH" lat="51.432823" lon="-0.079884"/>
+	<station name="Syon Lane" code="SYL" lat="51.48169" lon="-0.32502"/>
+	<station name="Syston" code="SYS" lat="52.694339" lon="-1.082844"/>
+	<station name="Tackley" code="TAC" lat="51.8813" lon="-1.297626"/>
+	<station name="Tadworth" code="TAD" lat="51.291294" lon="-0.235951"/>
+	<station name="Taffs Well" code="TAF" lat="51.540488" lon="-3.263187"/>
+	<station name="Tain" code="TAI" lat="57.814529" lon="-4.05236"/>
+	<station name="Talsarnau" code="TAL" lat="52.904338" lon="-4.067958"/>
+	<station name="Talybont" code="TLB" lat="52.772584" lon="-4.096744"/>
+	<station name="Tal-y-Cafn" code="TLC" lat="53.228769" lon="-3.818055"/>
+	<station name="Tame Bridge Parkway" code="TAB" lat="52.552441" lon="-1.976159"/>
+	<station name="Tamworth" code="TAM" lat="52.637202" lon="-1.686894"/>
+	<station name="Taplow" code="TAP" lat="51.523401" lon="-0.681486"/>
+	<station name="Tattenham Corner" code="TAT" lat="51.308971" lon="-0.24215"/>
+	<station name="Taunton" code="TAU" lat="51.023176" lon="-3.102404"/>
+	<station name="Taynuilt" code="TAY" lat="56.430556" lon="-5.239314"/>
+	<station name="Teddington" code="TED" lat="51.424419" lon="-0.33276"/>
+	<station name="Tees-side Airport" code="TEA" lat="54.51841" lon="-1.425063"/>
+	<station name="Teignmouth" code="TGM" lat="50.547897" lon="-3.494506"/>
+	<station name="Telford Central" code="TFC" lat="52.681781" lon="-2.44202"/>
+	<station name="Templecombe" code="TMC" lat="51.000878" lon="-2.417843"/>
+	<station name="Tenby" code="TEN" lat="51.672665" lon="-4.706384"/>
+	<station name="Teynham" code="TEY" lat="51.334173" lon="0.804427"/>
+	<station name="Thames Ditton" code="THD" lat="51.388693" lon="-0.339094"/>
+	<station name="Thatcham" code="THA" lat="51.393479" lon="-1.242153"/>
+	<station name="Thatto Heath" code="THH" lat="53.436514" lon="-2.760372"/>
+	<station name="The Hawthorns" code="THW" lat="52.505562" lon="-1.965194"/>
+	<station name="The Lakes (Warks)" code="TLK" lat="52.359265" lon="-1.844959"/>
+	<station name="Theale" code="THE" lat="51.433227" lon="-1.074317"/>
+	<station name="Theobalds Grove" code="TEO" lat="51.691745" lon="-0.035851"/>
+	<station name="Thetford" code="TTF" lat="52.419397" lon="0.744657"/>
+	<station name="Thirsk" code="THI" lat="54.227986" lon="-1.372426"/>
+	<station name="Thornaby" code="TBY" lat="54.559139" lon="-1.300995"/>
+	<station name="Thorne North" code="TNN" lat="53.616053" lon="-0.972207"/>
+	<station name="Thorne South" code="TNS" lat="53.60326" lon="-0.955884"/>
+	<station name="Thornford" code="THO" lat="50.910972" lon="-2.579918"/>
+	<station name="Thornliebank" code="THB" lat="55.81126" lon="-4.311841"/>
+	<station name="Thornton Abbey" code="TNA" lat="53.654152" lon="-0.322809"/>
+	<station name="Thornton Heath" code="TTH" lat="51.398707" lon="-0.100304"/>
+	<station name="Thorntonhall" code="THT" lat="55.768391" lon="-4.251228"/>
+	<station name="Thorpe Bay" code="TPB" lat="51.537689" lon="0.761461"/>
+	<station name="Thorpe Culvert" code="TPC" lat="53.123087" lon="0.199554"/>
+	<station name="Thorpe-le-Soken" code="TLS" lat="51.847837" lon="1.161247"/>
+	<station name="Three Bridges" code="TBD" lat="51.118086" lon="-0.160793"/>
+	<station name="Three Oaks" code="TOK" lat="50.90092" lon="0.613323"/>
+	<station name="Thurgarton" code="THU" lat="53.029009" lon="-0.961891"/>
+	<station name="Thurnscoe" code="THC" lat="53.545167" lon="-1.308413"/>
+	<station name="Thurso" code="THS" lat="58.590252" lon="-3.527875"/>
+	<station name="Thurston" code="TRS" lat="52.249974" lon="0.808055"/>
+	<station name="Tilbury Town" code="TIL" lat="51.462315" lon="0.354235"/>
+	<station name="Tile Hill" code="THL" lat="52.395169" lon="-1.596533"/>
+	<station name="Tilehurst" code="TLH" lat="51.471082" lon="-1.028801"/>
+	<station name="Tipton" code="TIP" lat="52.530544" lon="-2.065693"/>
+	<station name="Tir-Phil" code="TIR" lat="51.720979" lon="-3.246072"/>
+	<station name="Tisbury" code="TIS" lat="51.059699" lon="-2.079105"/>
+	<station name="Tiverton Parkway" code="TVP" lat="50.916532" lon="-3.359803"/>
+	<station name="Todmorden" code="TOD" lat="53.713709" lon="-2.099563"/>
+	<station name="Tolworth" code="TOL" lat="51.376909" lon="-0.279143"/>
+	<station name="Ton Pentre" code="TPN" lat="51.647728" lon="-3.486202"/>
+	<station name="Tonbridge" code="TON" lat="51.191305" lon="0.270622"/>
+	<station name="Tondu" code="TDU" lat="51.547642" lon="-3.594499"/>
+	<station name="Tonfanau" code="TNF" lat="52.613599" lon="-4.123635"/>
+	<station name="Tonypandy" code="TNP" lat="51.620625" lon="-3.449371"/>
+	<station name="Tooting" code="TOO" lat="51.419893" lon="-0.160884"/>
+	<station name="Topsham" code="TOP" lat="50.685645" lon="-3.463896"/>
+	<station name="Torquay" code="TQY" lat="50.461642" lon="-3.543432"/>
+	<station name="Torre" code="TRR" lat="50.472961" lon="-3.546688"/>
+	<station name="Totnes" code="TOT" lat="50.435483" lon="-3.688415"/>
+	<station name="Tottenham Hale" code="TOM" lat="51.588081" lon="-0.060039"/>
+	<station name="Totton" code="TTN" lat="50.917754" lon="-1.482944"/>
+	<station name="Town Green" code="TWN" lat="53.543173" lon="-2.904797"/>
+	<station name="Trafford Park" code="TRA" lat="53.454881" lon="-2.311284"/>
+	<station name="Trefforest" code="TRF" lat="51.592316" lon="-3.32511"/>
+	<station name="Trefforest Estate" code="TRE" lat="51.567454" lon="-3.289625"/>
+	<station name="Trehafod" code="TRH" lat="51.609701" lon="-3.380578"/>
+	<station name="Treherbert" code="TRB" lat="51.672089" lon="-3.536292"/>
+	<station name="Treorchy" code="TRY" lat="51.657354" lon="-3.505988"/>
+	<station name="Trimley" code="TRM" lat="51.976854" lon="1.319113"/>
+	<station name="Tring" code="TRI" lat="51.80055" lon="-0.622211"/>
+	<station name="Troed-y-Rhiw" code="TRD" lat="51.712242" lon="-3.346463"/>
+	<station name="Troon" code="TRN" lat="55.542813" lon="-4.655654"/>
+	<station name="Trowbridge" code="TRO" lat="51.319998" lon="-2.214489"/>
+	<station name="Truro" code="TRU" lat="50.264072" lon="-5.064366"/>
+	<station name="Tulloch" code="TUL" lat="56.883964" lon="-4.700968"/>
+	<station name="Tulse Hill" code="TUH" lat="51.439927" lon="-0.104713"/>
+	<station name="Tunbridge Wells" code="TBW" lat="51.13064" lon="0.26311"/>
+	<station name="Turkey Street" code="TUR" lat="51.672384" lon="-0.047186"/>
+	<station name="Tutbury and Hatton" code="TUT" lat="52.864121" lon="-1.682857"/>
+	<station name="Twickenham" code="TWI" lat="51.450178" lon="-0.330344"/>
+	<station name="Twyford" code="TWY" lat="51.475384" lon="-0.86313"/>
+	<station name="Ty Croes" code="TYC" lat="53.222699" lon="-4.475312"/>
+	<station name="Ty Glas" code="TGS" lat="51.521634" lon="-3.197984"/>
+	<station name="Tygwyn" code="TYG" lat="52.893585" lon="-4.078542"/>
+	<station name="Tyndrum Lower" code="TYL" lat="56.434109" lon="-4.713831"/>
+	<station name="Tyseley" code="TYS" lat="52.45421" lon="-1.839689"/>
+	<station name="Tywyn" code="TYW" lat="52.585432" lon="-4.093304"/>
+	<station name="Uckfield" code="UCK" lat="50.968723" lon="0.096515"/>
+	<station name="Uddingston" code="UDD" lat="55.823395" lon="-4.086695"/>
+	<station name="Ulceby" code="ULC" lat="53.619481" lon="-0.301091"/>
+	<station name="Ulleskelf" code="ULL" lat="53.853577" lon="-1.213837"/>
+	<station name="Ulverston" code="ULV" lat="54.191424" lon="-3.097757"/>
+	<station name="Umberleigh" code="UMB" lat="50.995922" lon="-3.982589"/>
+	<station name="University" code="UNI" lat="52.450951" lon="-1.936923"/>
+	<station name="Uphall" code="UHA" lat="55.918884" lon="-3.502336"/>
+	<station name="Upholland" code="UPL" lat="53.528318" lon="-2.741207"/>
+	<station name="Upminster" code="UPM" lat="51.558962" lon="0.250858"/>
+	<station name="Upper Halliford" code="UPH" lat="51.412899" lon="-0.431216"/>
+	<station name="Upper Holloway" code="UHL" lat="51.563562" lon="-0.129245"/>
+	<station name="Upper Tyndrum" code="UTY" lat="56.434489" lon="-4.704287"/>
+	<station name="Upper Warlingham" code="UWL" lat="51.308256" lon="-0.077701"/>
+	<station name="Upton (Merseyside)" code="UPT" lat="53.386411" lon="-3.084035"/>
+	<station name="Upwey" code="UPW" lat="50.647669" lon="-2.465628"/>
+	<station name="Urmston" code="URM" lat="53.448326" lon="-2.353623"/>
+	<station name="Uttoxeter" code="UTT" lat="52.896616" lon="-1.858061"/>
+	<station name="Valley" code="VAL" lat="53.281595" lon="-4.563536"/>
+	<station name="Vauxhall" code="VXH" lat="51.48614" lon="-0.122647"/>
+	<station name="Virginia Water" code="VIR" lat="51.401478" lon="-0.562487"/>
+	<station name="Waddon" code="WDO" lat="51.367512" lon="-0.117565"/>
+	<station name="Wadhurst" code="WAD" lat="51.073434" lon="0.313167"/>
+	<station name="Wainfleet" code="WFL" lat="53.10539" lon="0.234964"/>
+	<station name="Wakefield Kirkgate" code="WKK" lat="53.678435" lon="-1.490143"/>
+	<station name="Wakefield Westgate" code="WKF" lat="53.681546" lon="-1.504756"/>
+	<station name="Walkden" code="WKD" lat="53.519754" lon="-2.396154"/>
+	<station name="Wallasey Grove Road" code="WLG" lat="53.428234" lon="-3.069609"/>
+	<station name="Wallasey Village" code="WLV" lat="53.423005" lon="-3.069194"/>
+	<station name="Wallington" code="WLT" lat="51.360113" lon="-0.150549"/>
+	<station name="Wallyford" code="WAF" lat="55.940673" lon="-3.013343"/>
+	<station name="Walmer" code="WAM" lat="51.203461" lon="1.382687"/>
+	<station name="Walsall" code="WSL" lat="52.584342" lon="-1.98504"/>
+	<station name="Walsden" code="WDN" lat="53.696198" lon="-2.104314"/>
+	<station name="Waltham Cross" code="WLC" lat="51.684953" lon="-0.026596"/>
+	<station name="Walthamstow Central" code="WHC" lat="51.582903" lon="-0.02047"/>
+	<station name="Walthamstow Queens Road" code="WMW" lat="51.581463" lon="-0.023895"/>
+	<station name="Walton (Merseyside)" code="WAO" lat="53.455999" lon="-2.966644"/>
+	<station name="Walton-on-Naze" code="WON" lat="51.846201" lon="1.267673"/>
+	<station name="Walton-on-Thames" code="WAL" lat="51.37251" lon="-0.414942"/>
+	<station name="Wanborough" code="WAN" lat="51.244584" lon="-0.667734"/>
+	<station name="Wandsworth Common" code="WSW" lat="51.446277" lon="-0.163566"/>
+	<station name="Wandsworth Road" code="WWR" lat="51.469885" lon="-0.137926"/>
+	<station name="Wandsworth Town" code="WNT" lat="51.461004" lon="-0.187919"/>
+	<station name="Wanstead Park" code="WNP" lat="51.551736" lon="0.025676"/>
+	<station name="Warblington" code="WBL" lat="50.853417" lon="-0.967367"/>
+	<station name="Ware" code="WAR" lat="51.807866" lon="-0.028596"/>
+	<station name="Wareham" code="WRM" lat="50.692779" lon="-2.115738"/>
+	<station name="Wargrave" code="WGV" lat="51.498862" lon="-0.876843"/>
+	<station name="Warminster" code="WMN" lat="51.206624" lon="-2.176637"/>
+	<station name="Warnham" code="WNH" lat="51.093149" lon="-0.329667"/>
+	<station name="Warrington Bank Quay" code="WBQ" lat="53.385623" lon="-2.602809"/>
+	<station name="Warrington Central" code="WAC" lat="53.392055" lon="-2.592327"/>
+	<station name="Warwick" code="WRW" lat="52.286515" lon="-1.581403"/>
+	<station name="Warwick Parkway" code="WRP" lat="52.286021" lon="-1.612409"/>
+	<station name="Water Orton" code="WTO" lat="52.518519" lon="-1.743869"/>
+	<station name="Waterbeach" code="WBC" lat="52.26262" lon="0.197112"/>
+	<station name="Wateringbury" code="WTR" lat="51.249281" lon="0.421418"/>
+	<station name="Waterloo (Merseyside)" code="WLO" lat="53.47444" lon="-3.024816"/>
+	<station name="Waterloo International" code="WIT" lat="51.502906" lon="-0.115071"/>
+	<station name="Watford High Street" code="WFH" lat="51.652478" lon="-0.391851"/>
+	<station name="Watford Junction" code="WFJ" lat="51.663638" lon="-0.395439"/>
+	<station name="Watford North" code="WFN" lat="51.675076" lon="-0.39026"/>
+	<station name="Watlington" code="WTG" lat="52.672931" lon="0.383391"/>
+	<station name="Watton-at-Stone" code="WAS" lat="51.856379" lon="-0.119126"/>
+	<station name="Waun-Gron Park" code="WNG" lat="51.488172" lon="-3.229465"/>
+	<station name="Wavertree Technology Park" code="WAV" lat="53.405192" lon="-2.9231"/>
+	<station name="Wedgwood" code="WED" lat="52.951993" lon="-2.171097"/>
+	<station name="Weeley" code="WEE" lat="51.853286" lon="1.115035"/>
+	<station name="Weeton" code="WET" lat="53.92311" lon="-1.58105"/>
+	<station name="Welham Green" code="WMG" lat="51.737092" lon="-0.211397"/>
+	<station name="Welling" code="WLI" lat="51.464862" lon="0.102545"/>
+	<station name="Wellingborough" code="WEL" lat="52.303345" lon="-0.676163"/>
+	<station name="Wellington (Shropshire)" code="WLN" lat="52.701376" lon="-2.516841"/>
+	<station name="Welshpool" code="WLP" lat="52.657002" lon="-3.140483"/>
+	<station name="Welwyn Garden City" code="WGC" lat="51.800661" lon="-0.205301"/>
+	<station name="Welwyn North" code="WLW" lat="51.823477" lon="-0.192553"/>
+	<station name="Wem" code="WEM" lat="52.856251" lon="-2.718229"/>
+	<station name="Wembley Central" code="WMB" lat="51.551773" lon="-0.295707"/>
+	<station name="Wembley Stadium" code="WCX" lat="51.554298" lon="-0.28562"/>
+	<station name="Wemyss Bay" code="WMS" lat="55.877008" lon="-4.888768"/>
+	<station name="Wendover" code="WND" lat="51.761646" lon="-0.747375"/>
+	<station name="Wennington" code="WNN" lat="54.123773" lon="-2.587811"/>
+	<station name="West Allerton" code="WSA" lat="53.369297" lon="-2.907524"/>
+	<station name="West Brompton" code="WBP" lat="51.486924" lon="-0.194529"/>
+	<station name="West Byfleet" code="WBY" lat="51.339135" lon="-0.505842"/>
+	<station name="West Calder" code="WCL" lat="55.853676" lon="-3.566713"/>
+	<station name="West Croydon" code="WCY" lat="51.378542" lon="-0.10275"/>
+	<station name="West Drayton" code="WDT" lat="51.509463" lon="-0.472199"/>
+	<station name="West Dulwich" code="WDU" lat="51.440795" lon="-0.090949"/>
+	<station name="West Ealing" code="WEA" lat="51.513494" lon="-0.320129"/>
+	<station name="West Ham" code="WEH" lat="51.528429" lon="0.005519"/>
+	<station name="West Hampstead" code="WHD" lat="51.548422" lon="-0.191132"/>
+	<station name="West Hampstead Thameslink" code="WHP" lat="51.547554" lon="-0.191038"/>
+	<station name="West Horndon" code="WHR" lat="51.567618" lon="0.340439"/>
+	<station name="West Kilbride" code="WKB" lat="55.696364" lon="-4.851758"/>
+	<station name="West Kirby" code="WKI" lat="53.373153" lon="-3.18359"/>
+	<station name="West Malling" code="WMA" lat="51.291985" lon="0.418625"/>
+	<station name="West Norwood" code="WNW" lat="51.431776" lon="-0.103117"/>
+	<station name="West Ruislip" code="WRU" lat="51.569032" lon="-0.436935"/>
+	<station name="West Runton" code="WRN" lat="52.93642" lon="1.244918"/>
+	<station name="West St Leonards" code="WLD" lat="50.853167" lon="0.539695"/>
+	<station name="West Sutton" code="WSU" lat="51.366135" lon="-0.204932"/>
+	<station name="West Wickham" code="WWI" lat="51.381304" lon="-0.01433"/>
+	<station name="West Worthing" code="WWO" lat="50.818271" lon="-0.392099"/>
+	<station name="Westbury (Wilts)" code="WSB" lat="51.266202" lon="-2.199547"/>
+	<station name="Westcliff-on-Sea" code="WCF" lat="51.537466" lon="0.691471"/>
+	<station name="Westcombe Park" code="WCB" lat="51.484172" lon="0.01846"/>
+	<station name="Westenhanger" code="WHA" lat="51.094935" lon="1.037958"/>
+	<station name="Wester Hailes" code="WTA" lat="55.913927" lon="-3.285289"/>
+	<station name="Westerfield" code="WFI" lat="52.081144" lon="1.165744"/>
+	<station name="Westerton" code="WES" lat="55.904698" lon="-4.335292"/>
+	<station name="Westgate-on-Sea" code="WGA" lat="51.381196" lon="1.338251"/>
+	<station name="Westhoughton" code="WHG" lat="53.555576" lon="-2.523391"/>
+	<station name="Weston Milton" code="WNM" lat="51.348071" lon="-2.94224"/>
+	<station name="Weston-Super-Mare" code="WSM" lat="51.344562" lon="-2.97131"/>
+	<station name="Wetheral" code="WRL" lat="54.883546" lon="-2.832236"/>
+	<station name="Weybridge" code="WYB" lat="51.361543" lon="-0.457632"/>
+	<station name="Weymouth" code="WEY" lat="50.615183" lon="-2.454038"/>
+	<station name="Whaley Bridge" code="WBR" lat="53.330132" lon="-1.984542"/>
+	<station name="Whalley (Lancs)" code="WHE" lat="53.824265" lon="-2.41183"/>
+	<station name="Whatstandwell" code="WTS" lat="53.083156" lon="-1.503565"/>
+	<station name="Whifflet" code="WFF" lat="55.85399" lon="-4.019195"/>
+	<station name="Whimple" code="WHM" lat="50.767716" lon="-3.354294"/>
+	<station name="Whinhill" code="WNL" lat="55.938404" lon="-4.745441"/>
+	<station name="Whiston" code="WHN" lat="53.413977" lon="-2.796009"/>
+	<station name="Whitby" code="WTB" lat="54.48483" lon="-0.61468"/>
+	<station name="Whitchurch (Hants)" code="WCH" lat="51.237429" lon="-1.338606"/>
+	<station name="Whitchurch (Salop)" code="WTC" lat="52.967468" lon="-2.671706"/>
+	<station name="Whitchurch (South Glamorgan)" code="WHT" lat="51.520708" lon="-3.223376"/>
+	<station name="White Hart Lane" code="WHL" lat="51.605101" lon="-0.071131"/>
+	<station name="White Notley" code="WNY" lat="51.839702" lon="0.594878"/>
+	<station name="Whitecraigs" code="WCR" lat="55.790307" lon="-4.310266"/>
+	<station name="Whitehaven" code="WTH" lat="54.553868" lon="-3.587166"/>
+	<station name="Whitland" code="WTL" lat="51.817822" lon="-4.614864"/>
+	<station name="Whitley Bridge" code="WBD" lat="53.699019" lon="-1.158626"/>
+	<station name="Whitlocks End" code="WTE" lat="52.392051" lon="-1.85166"/>
+	<station name="Whitstable" code="WHI" lat="51.35744" lon="1.033775"/>
+	<station name="Whittlesea" code="WLE" lat="52.549901" lon="-0.119076"/>
+	<station name="Whittlesford" code="WLF" lat="52.103987" lon="0.165718"/>
+	<station name="Whitton" code="WTN" lat="51.449512" lon="-0.357779"/>
+	<station name="Whitwell (Derbys)" code="WWL" lat="53.27909" lon="-1.201445"/>
+	<station name="Whyteleafe" code="WHY" lat="51.310044" lon="-0.080914"/>
+	<station name="Whyteleafe South" code="WHS" lat="51.303616" lon="-0.077271"/>
+	<station name="Wick" code="WCK" lat="58.441569" lon="-3.097152"/>
+	<station name="Wickford" code="WIC" lat="51.615005" lon="0.519384"/>
+	<station name="Wickham Market" code="WCM" lat="52.150776" lon="1.398229"/>
+	<station name="Widdrington" code="WDD" lat="55.241234" lon="-1.616098"/>
+	<station name="Widnes" code="WID" lat="53.378474" lon="-2.733642"/>
+	<station name="Widney Manor" code="WMR" lat="52.396344" lon="-1.774723"/>
+	<station name="Wigan North Western" code="WGN" lat="53.543503" lon="-2.633547"/>
+	<station name="Wigan Wallgate" code="WGW" lat="53.544662" lon="-2.633398"/>
+	<station name="Wigton" code="WGT" lat="54.8289" lon="-3.163923"/>
+	<station name="Wildmill" code="WMI" lat="51.520038" lon="-3.580197"/>
+	<station name="Willesden Junction" code="WIJ" lat="51.532442" lon="-0.244002"/>
+	<station name="Willesden Junction (high level)" code="WIJ" lat="51.532013" lon="-0.243024"/>
+	<station name="Williamwood" code="WLM" lat="55.794259" lon="-4.289214"/>
+	<station name="Willington" code="WIL" lat="52.853193" lon="-1.564464"/>
+	<station name="Wilmcote" code="WMC" lat="52.222208" lon="-1.75554"/>
+	<station name="Wilmslow" code="WML" lat="53.326705" lon="-2.226162"/>
+	<station name="Wilnecote (Staffs)" code="WNE" lat="52.610856" lon="-1.679834"/>
+	<station name="Wimbledon" code="WIM" lat="51.421515" lon="-0.20565"/>
+	<station name="Wimbledon Chase" code="WBO" lat="51.409456" lon="-0.214245"/>
+	<station name="Winchelsea" code="WSE" lat="50.933235" lon="0.701746"/>
+	<station name="Winchester" code="WIN" lat="51.067104" lon="-1.31982"/>
+	<station name="Winchfield" code="WNF" lat="51.28463" lon="-0.907914"/>
+	<station name="Winchmore Hill" code="WIH" lat="51.63391" lon="-0.101066"/>
+	<station name="Windermere" code="WDM" lat="54.379643" lon="-2.903826"/>
+	<station name="Windsor and Eton Central" code="WNC" lat="51.482649" lon="-0.609673"/>
+	<station name="Windsor and Eton Riverside" code="WNR" lat="51.485377" lon="-0.606726"/>
+	<station name="Winnersh" code="WNS" lat="51.430375" lon="-0.877354"/>
+	<station name="Winnersh Triangle" code="WTI" lat="51.436005" lon="-0.889688"/>
+	<station name="Winsford" code="WSF" lat="53.190496" lon="-2.494431"/>
+	<station name="Wishaw" code="WSH" lat="55.772002" lon="-3.926169"/>
+	<station name="Witham (Essex)" code="WTM" lat="51.805435" lon="0.6391"/>
+	<station name="Witley" code="WTY" lat="51.13274" lon="-0.645494"/>
+	<station name="Witton (West Midlands)" code="WTT" lat="52.512301" lon="-1.88401"/>
+	<station name="Wivelsfield" code="WVF" lat="50.963838" lon="-0.121223"/>
+	<station name="Wivenhoe" code="WIV" lat="51.856067" lon="0.958354"/>
+	<station name="Woburn Sands" code="WOB" lat="52.017867" lon="-0.654881"/>
+	<station name="Woking" code="WOK" lat="51.318099" lon="-0.557714"/>
+	<station name="Wokingham" code="WKM" lat="51.411144" lon="-0.842747"/>
+	<station name="Woldingham" code="WOH" lat="51.290188" lon="-0.051874"/>
+	<station name="Wolverhampton" code="WVH" lat="52.587694" lon="-2.12025"/>
+	<station name="Wolverton" code="WOL" lat="52.065606" lon="-0.804207"/>
+	<station name="Wombwell" code="WOM" lat="53.51718" lon="-1.4159"/>
+	<station name="Wood End" code="WDE" lat="52.343436" lon="-1.843982"/>
+	<station name="Wood Street" code="WST" lat="51.586479" lon="-0.002409"/>
+	<station name="Woodbridge" code="WDB" lat="52.090143" lon="1.317225"/>
+	<station name="Woodgrange Park" code="WGR" lat="51.549107" lon="0.044176"/>
+	<station name="Woodhall" code="WDL" lat="55.931451" lon="-4.655781"/>
+	<station name="Woodham Ferrers" code="WDF" lat="51.649637" lon="0.606732"/>
+	<station name="Woodhouse" code="WDH" lat="53.364265" lon="-1.358009"/>
+	<station name="Woodlesford" code="WDS" lat="53.756594" lon="-1.442919"/>
+	<station name="Woodley" code="WLY" lat="53.429389" lon="-2.092683"/>
+	<station name="Woodmansterne" code="WME" lat="51.3191" lon="-0.153749"/>
+	<station name="Woodsmoor" code="WSR" lat="53.386299" lon="-2.141798"/>
+	<station name="Wool" code="WOO" lat="50.681103" lon="-2.222339"/>
+	<station name="Woolston" code="WLS" lat="50.8988" lon="-1.375323"/>
+	<station name="Woolwich Arsenal" code="WWA" lat="51.489753" lon="0.069177"/>
+	<station name="Woolwich Dockyard" code="WWD" lat="51.491096" lon="0.054237"/>
+	<station name="Wootton Wawen" code="WWW" lat="52.266852" lon="-1.784518"/>
+	<station name="Worcester Foregate Street" code="WOF" lat="52.194824" lon="-2.221271"/>
+	<station name="Worcester Park" code="WCP" lat="51.381208" lon="-0.245311"/>
+	<station name="Worcester Shrub Hill" code="WOS" lat="52.194722" lon="-2.208802"/>
+	<station name="Workington" code="WKG" lat="54.644781" lon="-3.558614"/>
+	<station name="Worksop" code="WRK" lat="53.311392" lon="-1.122238"/>
+	<station name="Worle" code="WOR" lat="51.357527" lon="-2.908797"/>
+	<station name="Worplesdon" code="WPL" lat="51.287694" lon="-0.582375"/>
+	<station name="Worstead" code="WRT" lat="52.777407" lon="1.403658"/>
+	<station name="Worthing" code="WRH" lat="50.818254" lon="-0.373207"/>
+	<station name="Wrabness" code="WRB" lat="51.939583" lon="1.171584"/>
+	<station name="Wraysbury" code="WRY" lat="51.457666" lon="-0.542543"/>
+	<station name="Wrenbury" code="WRE" lat="53.019706" lon="-2.595222"/>
+	<station name="Wressle" code="WRS" lat="53.772849" lon="-0.924202"/>
+	<station name="Wrexham Central" code="WXC" lat="53.045292" lon="-2.997072"/>
+	<station name="Wrexham General" code="WRX" lat="53.050548" lon="-3.00146"/>
+	<station name="Wye" code="WYE" lat="51.184996" lon="0.92973"/>
+	<station name="Wylam" code="WYM" lat="54.974683" lon="-1.813922"/>
+	<station name="Wylde Green" code="WYL" lat="52.545893" lon="-1.831526"/>
+	<station name="Wymondham" code="WMD" lat="52.565508" lon="1.11844"/>
+	<station name="Wythall" code="WYT" lat="52.379769" lon="-1.866115"/>
+	<station name="Yalding" code="YAL" lat="51.226564" lon="0.412502"/>
+	<station name="Yardley Wood" code="YRD" lat="52.421365" lon="-1.855218"/>
+	<station name="Yarm" code="YRM" lat="54.4936" lon="-1.351409"/>
+	<station name="Yate" code="YAE" lat="51.54108" lon="-2.431906"/>
+	<station name="Yatton" code="YAT" lat="51.390771" lon="-2.827513"/>
+	<station name="Yeoford" code="YEO" lat="50.77603" lon="-3.726381"/>
+	<station name="Yeovil Junction" code="YVJ" lat="50.923943" lon="-2.612948"/>
+	<station name="Yeovil Pen Mill" code="YVP" lat="50.944343" lon="-2.612981"/>
+	<station name="Yetminster" code="YET" lat="50.895286" lon="-2.573571"/>
+	<station name="Ynyswen" code="YNW" lat="51.664737" lon="-3.521422"/>
+	<station name="Yoker" code="YOK" lat="55.892785" lon="-4.387607"/>
+	<station name="York" code="YRK" lat="53.958243" lon="-1.092918"/>
+	<station name="Yorton" code="YRT" lat="52.808903" lon="-2.7365"/>
+	<station name="Ystrad Mynach" code="YSM" lat="51.641017" lon="-3.241498"/>
+	<station name="Ystrad Rhondda" code="YSR" lat="51.643441" lon="-3.466631"/>
+</ldb_data>

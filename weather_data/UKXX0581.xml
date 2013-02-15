@@ -1,0 +1,7 @@
+<weather>
+	<info lat="54.05" lon="-2.8" name="Lancaster, United Kingdom" />
+	<day temp="14" date="Current" mins_max="14" icon="11" title="Light Rain Shower" alt="Light Rain Shower" />
+	<link href="http://www.weather.com/outlook/health/allergies/UKXX0581?par=xoappar=1009003705" title="Pollen Reports" />
+	<link href="http://www.weather.com/outlook/travel/flights/citywx/UKXX0581?par=xoappar=1009003705" title="Airport Delays" />
+	<link href="http://www.weather.com/services/desktop.html?par=xoappar=1009003705" title="Download Desktop Weather" />
+</weather>

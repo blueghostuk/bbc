@@ -1,0 +1,7 @@
+<weather>
+	<info lat="55.77" lon="-4.34" name="Glasgow, United Kingdom" />
+	<day temp="14" date="Current" mins_max="14" icon="28" title="Mostly Cloudy" alt="Mostly Cloudy" />
+	<link href="http://www.weather.com/outlook/health/allergies/UKXX0061?par=xoappar=1009003705" title="Pollen Reports" />
+	<link href="http://www.weather.com/outlook/travel/flights/citywx/UKXX0061?par=xoappar=1009003705" title="Airport Delays" />
+	<link href="http://www.weather.com/services/desktop.html?par=xoappar=1009003705" title="Download Desktop Weather" />
+</weather>

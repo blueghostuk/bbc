@@ -1,0 +1,6 @@
+<weather>
+	<day lat="51.51" lon="-0.08" date="Sunday Jul 3" mins_max="14/N/A" icon="44" title="N/A" alt="N/A" />
+	<link href="http://www.weather.com/outlook/health/allergies/UKXX0085?par=xoappar=1009003705" title="Pollen Reports" />
+	<link href="http://www.weather.com/outlook/travel/flights/citywx/UKXX0085?par=xoappar=1009003705" title="Airport Delays" />
+	<link href="http://www.weather.com/services/desktop.html?par=xoappar=1009003705" title="Download Desktop Weather" />
+</weather>

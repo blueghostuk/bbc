@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+ 	xmlns:georss="http://www.georss.org/georss"
+ 	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+	<channel rdf:about="http://slashgeo.org/">
+		<title>BlueGhost UK Traffic Listings</title>
+		<link>http://bbc.blueghost.co.uk</link>
+		<description>supported by backstage.bbc.co.uk</description>
+		<dc:language>en-gb</dc:language>
+	</channel><item><title>Bedfordshire</title><description>Some desc</description><link>http://maps.google.co.uk/q?=http://bbc.blueghost.co.uk/trafficGeoRss.php?location=bedfordshire</link><georss:point>52.064 -0.4231</georss:point></item></rdf:RDF>

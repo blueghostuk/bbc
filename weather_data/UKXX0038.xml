@@ -1,0 +1,7 @@
+<weather>
+	<info lat="52.38" lon="-1.55" name="Coventry, United Kingdom" />
+	<day temp="13" date="Current" mins_max="13" icon="28" title="Mostly Cloudy" alt="Mostly Cloudy" />
+	<link href="http://www.weather.com/outlook/health/allergies/UKXX0038?par=xoappar=1009003705" title="Pollen Reports" />
+	<link href="http://www.weather.com/outlook/travel/flights/citywx/UKXX0038?par=xoappar=1009003705" title="Airport Delays" />
+	<link href="http://www.weather.com/services/desktop.html?par=xoappar=1009003705" title="Download Desktop Weather" />
+</weather>

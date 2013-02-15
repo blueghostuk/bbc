@@ -1,0 +1,72 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: #000000;
+	background-color: #ECE9D8;
+}
+#site {
+	background-color: #CCCCCC;
+	float: left;
+	border: thin solid #000000;
+	width: 100%;
+}
+#title {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	font-weight: bold;
+	color: #000000;
+	width: 100%;
+	padding: 0px;
+	text-decoration: underline;
+}
+#content {
+	text-align: left;
+	padding: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#l_title {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	text-decoration: underline;
+	padding: 0px;
+}
+#l_links {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+	text-align: left;
+	padding: 0px;
+}
+#content a {
+	color: #000000;
+	text-decoration: underline;
+	font-weight: bold;
+}
+#content a:hover {
+	color: #0000FF;
+	text-decoration: underline;
+}
+#l_links a {
+	color: #000000;
+	text-decoration: underline;
+	font-weight: bold;
+}
+#l_links a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+kbd {
+	font-family: "Courier New", Courier, mono;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 1px;
+	background-color: #333333;
+	margin: 6px;
+	font-size: small;
+	border-top: thin solid #000000;
+	border-right: thin double #666666;
+	border-bottom: thin double #666666;
+	border-left: thin solid #000000;
+}

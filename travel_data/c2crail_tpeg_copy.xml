@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE tpeg_document PUBLIC "-//EBU/tpegML/EN" "http://www.bbc.co.uk/travelnews/xml/tpegml_en/tpegML.dtd">
+
+<tpeg_document generation_time="2006-08-01T20:37:16+0">
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Bedford Road closed both ways at the Richard's Crescent junction in Old Warden, because of a fallen tree.</summary>
+
+<road_traffic_message message_id="1114255" message_generation_time="2006-08-01T20:08:46+0" version_number="2" start_time="2006-08-01T20:04:34+0" stop_time="2006-08-01T21:18:16+0" severity_factor="3;">
+
+<obstructions number_of="1"><object number_of="1"><position position="&rtm10_37;"/><object_problem object_problem="&rtm12_2;"/></object></obstructions><network_conditions><restriction restriction="&rtm49_1;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="52.078987" longitude="-0.349827" />
+
+<location_descriptor descriptor_type="7;" descriptor=";Bedford Road"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Old Warden"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Old Warden"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">M1 Hertfordshire - Contraflow both ways between J8, Hemel Hempstead and J10, Luton Airport, speed restriction of 40 mph.</summary>
+
+<road_traffic_message message_id="874467" message_generation_time="2006-07-10T13:19:39+0" version_number="11" start_time="2006-03-07T12:55:48+0" stop_time="2008-12-31T23:59:00+0" severity_factor="4;">
+
+<network_conditions><position position="&rtm10_37;"/><restriction restriction ="&rtm49_3;"/></network_conditions><network_conditions><position position="&rtm10_37;"/><restriction restriction ="&rtm49_255;"/></network_conditions><network_conditions><position position="&rtm10_37;"/><restriction restriction ="&rtm49_5;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="51.756552" longitude="-0.416219" />
+
+<location_descriptor descriptor_type="7;" descriptor="M1;"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Hertfordshire"/>
+
+<location_descriptor descriptor_type="10;" descriptor="Hemel Hempstead"/>
+
+<location_descriptor descriptor_type="32;" descriptor="M1; 8"/>
+
+<location_descriptor descriptor_type="8;" descriptor="A414;"/>
+
+<WGS84 latitude="51.853818" longitude="-0.42358" />
+
+<location_descriptor descriptor_type="7;" descriptor="M1;"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Bedfordshire"/>
+
+<location_descriptor descriptor_type="10;" descriptor="Luton Airport"/>
+
+<location_descriptor descriptor_type="32;" descriptor="M1; 10"/>
+
+<location_descriptor descriptor_type="8;" descriptor="M1;"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">A505 Bedfordshire - Speed restriction at the A4146 junction in Leighton Buzzard, because of roundabout construction.</summary>
+
+<road_traffic_message message_id="851891" message_generation_time="2006-04-26T17:10:03+0" version_number="2" start_time="2006-02-21T11:31:13+0" stop_time="2006-12-23T23:59:00+0" severity_factor="2;">
+
+<network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><network_conditions><position position="&rtm10_37;"/><restriction restriction ="&rtm49_255;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="51.901261" longitude="-0.648456" />
+
+<location_descriptor descriptor_type="7;" descriptor="A505;"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Leighton Buzzard"/>
+
+<location_descriptor descriptor_type="8;" descriptor="A4146;"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">B4540 Bedfordshire - Church Road closed in the Summer Street junction in Slip End, because of roadworks.</summary>
+
+<road_traffic_message message_id="928729" message_generation_time="2006-07-27T13:14:20+0" version_number="4" start_time="2006-04-10T12:29:39+0" stop_time="2006-09-30T23:59:00+0" severity_factor="2;">
+
+<network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><network_conditions><position position="&rtm10_37;"/><roadworks roadworks ="&rtm50_2;"/></network_conditions><network_conditions><restriction restriction="&rtm49_1;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="51.85535" longitude="-0.432558" />
+
+<location_descriptor descriptor_type="7;" descriptor="B4540;Church Road"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Slip End"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Slip End"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">A428 Bedfordshire - Temporary traffic lights on St Peter's Street at the St Cuthbert's Street junction in Bedford, because of roadworks.</summary>
+
+<road_traffic_message message_id="1110736" message_generation_time="2006-07-31T11:46:02+0" version_number="1" start_time="2006-07-31T11:46:02+0" stop_time="2006-09-03T23:59:00+0" severity_factor="2;">
+
+<facilities_performance><traffic_control traffic_control_type="&rtm42_11;" traffic_control_status="&rtm43_1;"><position position="&rtm10_37;"/></traffic_control></facilities_performance><network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="52.139236" longitude="-0.463337" />
+
+<location_descriptor descriptor_type="7;" descriptor="A428;St Peter's Street"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Bedford"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";St Cuthbert's Street"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Priory Road closed near the Rectory Road junction in Campton, because of junction improvements.</summary>
+
+<road_traffic_message message_id="950011" message_generation_time="2006-06-15T08:53:16+0" version_number="4" start_time="2006-04-25T13:08:16+0" stop_time="2006-08-26T23:59:00+0" severity_factor="1;">
+
+<network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><network_conditions><restriction restriction="&rtm49_1;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="52.031367" longitude="-0.358797" />
+
+<location_descriptor descriptor_type="7;" descriptor=";Priory Road"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Campton"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Rectory Road"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Lanchester Road closed near the The Drive junction in Wharley End.</summary>
+
+<road_traffic_message message_id="1008956" message_generation_time="2006-06-02T11:50:59+0" version_number="1" start_time="2006-06-02T11:50:59+0" stop_time="2007-06-12T23:59:00+0" severity_factor="1;">
+
+<network_conditions><restriction restriction="&rtm49_1;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="52.074865" longitude="-0.634085" />
+
+<location_descriptor descriptor_type="7;" descriptor=";Lanchester Road"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Wharley End"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";The Drive"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Temporary gross weight limit of 18 tonnes on Riverside View on the Radwell Road junction in Milton Ernest.</summary>
+
+<road_traffic_message message_id="1011877" message_generation_time="2006-06-15T12:16:11+0" version_number="4" start_time="2006-06-05T08:55:34+0" stop_time="2006-12-12T23:59:00+0" severity_factor="1;">
+
+<network_conditions><position position="&rtm10_37;"/><regulation regulation="&rtm45_3;" regulation_quantifier="18"><condition_status condition_status="&rtm47_17;"/></regulation></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="52.194431" longitude="-0.517164" />
+
+<location_descriptor descriptor_type="7;" descriptor=";New Road"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Milton Ernest"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";the Railway Bridge"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Speed restriction on Half Moon Lane near the Front Street junction in Slip End.</summary>
+
+<road_traffic_message message_id="1011918" message_generation_time="2006-06-05T09:28:56+0" version_number="6" start_time="2006-06-05T09:25:44+0" stop_time="2006-11-22T23:59:00+0" severity_factor="1;">
+
+<network_conditions><position position="&rtm10_37;"/><restriction restriction ="&rtm49_255;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="51.850819" longitude="-0.425238" />
+
+<location_descriptor descriptor_type="7;" descriptor=";Half Moon Lane"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Slip End"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Front Street"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Temporary traffic lights on Court Drive near the Vernon Place junction in Dunstable, because of roadworks during off-peak periods.</summary>
+
+<road_traffic_message message_id="1030930" message_generation_time="2006-07-27T11:25:06+0" version_number="3" start_time="2006-06-15T09:09:32+0" stop_time="2006-08-15T23:59:00+0" severity_factor="1;">
+
+<facilities_performance><traffic_control traffic_control_type="&rtm42_11;" traffic_control_status="&rtm43_1;"><position position="&rtm10_37;"/></traffic_control></facilities_performance><network_conditions><position position="&rtm10_37;"/><roadworks roadworks ="&rtm50_0;"><condition_status condition_status="&rtm47_18;"/></roadworks></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="51.88896" longitude="-0.522096" />
+
+<location_descriptor descriptor_type="7;" descriptor=";Court Drive"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Dunstable"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Vernon Place"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Roadworks on Avon Drive in the Torridge Rise junction in Bedford.</summary>
+
+<road_traffic_message message_id="1105167" message_generation_time="2006-07-27T10:52:10+0" version_number="1" start_time="2006-07-27T10:52:10+0" stop_time="2006-10-30T23:59:00+0" severity_factor="1;">
+
+<network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="52.160001" longitude="-0.459464" />
+
+<location_descriptor descriptor_type="7;" descriptor=";Avon Drive"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Bedford"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Bedford"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Roadworks on Bamford Road in the Collins Place junction in Bedford.</summary>
+
+<road_traffic_message message_id="1105185" message_generation_time="2006-07-27T11:01:11+0" version_number="1" start_time="2006-07-27T11:01:11+0" stop_time="2006-08-28T23:59:00+0" severity_factor="1;">
+
+<network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="52.121463" longitude="-0.440256" />
+
+<location_descriptor descriptor_type="7;" descriptor=";Bamford Road"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Bedford"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Bedford"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Roadworks on The Embankment in the Bushmead Avenue junction in Bedford.</summary>
+
+<road_traffic_message message_id="1105188" message_generation_time="2006-07-27T11:03:21+0" version_number="1" start_time="2006-07-27T11:03:22+0" stop_time="2006-08-04T23:59:00+0" severity_factor="1;">
+
+<network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="52.134041" longitude="-0.455187" />
+
+<location_descriptor descriptor_type="7;" descriptor=";The Embankment"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Bedford"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Bedford"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Roadworks on Sunbower Avenue in the Salters Way junction in Dunstable.</summary>
+
+<road_traffic_message message_id="1105217" message_generation_time="2006-07-27T11:28:55+0" version_number="1" start_time="2006-07-27T11:28:55+0" stop_time="2006-09-11T23:59:00+0" severity_factor="1;">
+
+<network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="51.898312" longitude="-0.539376" />
+
+<location_descriptor descriptor_type="7;" descriptor=";Sunbower Avenue"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Dunstable"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Dunstable"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Roadworks on Clifton Road near the A6001 Hitchin Road junction in Henlow.</summary>
+
+<road_traffic_message message_id="1105237" message_generation_time="2006-07-27T11:41:30+0" version_number="1" start_time="2006-07-27T11:41:30+0" stop_time="2006-08-01T23:59:00+0" severity_factor="1;">
+
+<network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="52.027653" longitude="-0.28618" />
+
+<location_descriptor descriptor_type="7;" descriptor=";Clifton Road"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Henlow"/>
+
+<location_descriptor descriptor_type="8;" descriptor="A6001;Hitchin Road"/>
+
+<location_descriptor descriptor_type="9;" descriptor=";Arlesey Road"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">A4146 Bedfordshire - Roadworks on Stoke Road in the Rothschild Road junction in Leighton Buzzard.</summary>
+
+<road_traffic_message message_id="1105279" message_generation_time="2006-07-27T12:20:01+0" version_number="1" start_time="2006-07-27T12:20:01+0" stop_time="2006-08-16T23:59:00+0" severity_factor="1;">
+
+<network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="51.923146" longitude="-0.672914" />
+
+<location_descriptor descriptor_type="7;" descriptor="A4146;Stoke Road"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Leighton Buzzard"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Leighton Buzzard"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Roadworks on Lincroft in the Reynes Drive junction in Oakley.</summary>
+
+<road_traffic_message message_id="1105309" message_generation_time="2006-07-27T13:00:14+0" version_number="1" start_time="2006-07-27T13:00:14+0" stop_time="2006-08-29T23:59:00+0" severity_factor="1;">
+
+<network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="52.172038" longitude="-0.520336" />
+
+<location_descriptor descriptor_type="7;" descriptor=";Lincroft"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Oakley"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Oakley"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+<tpeg_message>
+
+<originator country="UK" originator_name="BBC Travel News"/>
+
+<summary xml:lang="en">Bedfordshire - Roadworks on Potters Cross near the Bedford Road junction in Wootton.</summary>
+
+<road_traffic_message message_id="1110731" message_generation_time="2006-07-31T11:41:59+0" version_number="1" start_time="2006-07-31T11:41:59+0" stop_time="2006-08-28T23:59:00+0" severity_factor="1;">
+
+<network_conditions><position position="&rtm10_0;"/><roadworks roadworks ="&rtm50_0;"/></network_conditions><location_container language="&loc41_30;">
+
+<location_coordinates location_type="&loc1_3;">
+
+<WGS84 latitude="52.09847" longitude="-0.526817" />
+
+<location_descriptor descriptor_type="7;" descriptor=";Potters Cross"/>
+
+<location_descriptor descriptor_type="24;" descriptor="Wootton"/>
+
+<location_descriptor descriptor_type="8;" descriptor=";Bedford Road"/>
+
+<direction direction_type="&loc2_2;"/>
+
+</location_coordinates>
+
+</location_container>
+
+</road_traffic_message>
+
+</tpeg_message>
+
+</tpeg_document>

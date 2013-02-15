@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>About</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<div class="about_text">
+<h1>UK Traffic Geo Rss Feeds (mainly for use on google)</h1>
+<div class="announce">
+<strong>NEW: 29 March 2007</strong>Since <a href="http://googlemapsapi.blogspot.com/2007/03/kml-and-georss-support-added-to-google.html" target="_blank">Google Maps now supports GeoRss Feeds</a> and my old <a href="http://www.blueghost.co.uk/gmaps_uk_traffic.html" target="_blank">Greasemonkey script</a> has long stopped working, i thought I'd come up with some GeoRss feeds for use direct on Google Maps
+</a></div>
+<p>This site overlays various bits of <a href="#data" title="Find out more on the data used"><strong>data</strong></a> direct onto a <a href="http://maps.google.co.uk/" target="_blank"><strong>Google Map.</strong></a></p>
+<p>Click this link to view the data: <a href="http://maps.google.co.uk/maps?q=http://bbc.blueghost.co.uk/travel_data/locations.rss" target="_blank">http://maps.google.co.uk/maps?q=http://bbc.blueghost.co.uk/travel_data/locations.rss</a>. Give it a second or two to load the data</p>
+<p>For a complete list of areas view <a href="http://bbc.blueghost.co.uk/travel_data/locations.rss" target="_blank">http://bbc.blueghost.co.uk/travel_data/locations.rss</a></p>
+<p>Individual areas are available by going to http://maps.google.co.uk/maps?q=http://bbc.blueghost.co.uk/trafficGeoRss.php?location=&lt;location here&gt; , e.g. <a href="http://maps.google.co.uk/maps?q=http://bbc.blueghost.co.uk/trafficGeoRss.php?location=wolverhampton" target="_blank">http://maps.google.co.uk/maps?q=http://bbc.blueghost.co.uk/trafficGeoRss.php?location=wolverhampton</a>. At present you'll have to find the exact locations by manually reading the <a href="http://bbc.blueghost.co.uk/travel_data/locations.rss" target="_blank">http://bbc.blueghost.co.uk/travel_data/locations.rss</a> file.</p>
+<p>Any data supplied that has more than 2 co-ordinates is simply displayed using the first two co-ordinates using a line, it won't follow the roads path. </p>
+<p>Any Comments then email me @ <img src="http://www.blueghost.co.uk/grease/email.png" width="320" height="30" alt="My Email Address" style="vertical-align:middle;" /></p>
+<h4><a href="http://bbc.blueghost.co.uk">Go Back</a></h4>
+<hr />
+<h2>Planned Features</h2>
+<ul>
+	<li>Tidy up this about page</li>
+	<li>Add link from bbc.blueghost.co.uk to the direct google pages</li>
+	<li>Convert bbc.blueghost.co.uk to use the geoRss feeds instead of my own xml</li>
+	<li>Have more data feeds (i.e. rail, weather) in geo-rss format too</li>
+    <li>Get more of the data (start/stop times) in the description tag </li>
+</ul>
+<hr />
+<h2 id="clog">Changelog</h2>
+<p>
+    <strong>Version 0.01</strong><br />
+  ----------------------------<br />
+    <em>29 March 2007</em><br />
+  -----------------------------<br />
+  Initial release: Only traffic data </p>
+<hr />
+<a id="data"></a>
+<h1>About Traffic Data</h1>
+<hr />
+<p>
+  You select the county/area by clicking on the icons on the map, you can then see delays for that area by clicking on the link
+  This Data come from the <a target="_blank" href="http://backstage.bbc.co.uk/data/TravelFeeds?v=138u">BBC's TPEG Travel Feeds</a>.
+  They are then converted to GeoRss files.<br />
+  I convert them from TPEG files as the RSS feeds don't contain Geographical co-ordinates to position reports on the Google Map.<br />
+  The Converted files are visible @ <a href="http://bbc.blueghost.co.uk/travel_data/" target="_blank">http://bbc.blueghost.co.uk/travel_data/</a>Note my custom xml (bad xml syntax i know :) ) are also visible there too.</p>
+<p>The data is automatically updated every <s>hour</s> 30 minutes, <s>i may cut this to half an hour depending on how much bandwidth it takes up</s> - DONE
+</p>
+<h2>Limitations/Bugs</h2>
+<ul>
+	<li>Rss titles are the descriptions first 20 characters, couldn't think of anything better at present</li>
+</ul>
+<p>As always this is supported by <a target="_blank" href="http://backstage.bbc.co.uk/">backstage.bbc.co.uk"</a></p>
+<h4><a href="http://bbc.blueghost.co.uk">Go Back</a></h4>
+</div>
+</body>
+</html>
